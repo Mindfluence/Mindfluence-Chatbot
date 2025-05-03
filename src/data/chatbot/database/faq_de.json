@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "faq_what_is_mindfluence",
+    "question": "Was ist Mindfluence genau?",
+    "answer": "Mindfluence ist deine persönliche Plattform für mentale Stärke und Entspannung durch Audio-Streaming. Wir bieten exklusive subliminale Audioinhalte, oft kombiniert mit Binaural Beats oder isochronen Tönen, die dich auf deiner Reise zu besserem Schlaf, Fokus, Selbstvertrauen und mehr unterstützen.",
+    "tags": ["app", "mindfluence", "konzept", "subliminal", "persönliche entwicklung"],
+    "keywords": "mindfluence, was ist, app, funktion, konzept, audio, streaming, subliminal, unterschwellig, affirmationen, binaural beats, isochrone töne, persönliche entwicklung, mental, stärke, entspannung, schlaf, fokus, selbstvertrauen, unterbewusstsein",
+    "relatedFeatures": ["app_concept_mindfluence", "subliminal_explanation"]
+  },
+  {
+    "id": "faq_how_does_it_work",
+    "question": "Wie funktioniert die App im Grunde?",
+    "answer": "Du wählst einfach ein Audio aus, das zu deinem Ziel passt (z.B. Stressabbau), startest die Wiedergabe über unseren Player und lässt die Klänge und unterschwelligen Botschaften auf dich wirken. Premium-Nutzer können Inhalte auch herunterladen.",
+    "tags": ["app", "funktion", "anwendung", "grundlagen"],
+    "keywords": "funktion, app, anwendung, wie geht das, ablauf, audio, wählen, abspielen, player, hören, wirken lassen, premium, download",
+    "relatedFeatures": ["audio_playback", "premium_benefit_offline", "discover_page"]
+  },
+  {
+    "id": "faq_target_audience",
+    "question": "Für wen ist Mindfluence gedacht?",
+    "answer": "Mindfluence ist für jeden gedacht, der seine mentale Gesundheit verbessern, Stress reduzieren, besser schlafen, seine Konzentration steigern oder sein Selbstbewusstsein stärken möchte. Es ist ein Werkzeug zur persönlichen Weiterentwicklung.",
+    "tags": ["zielgruppe", "nutzer", "persönliche entwicklung", "mental health"],
+    "keywords": "zielgruppe, für wen, nutzer, anwender, persönliche entwicklung, mental, gesundheit, stress, schlaf, konzentration, fokus, selbstbewusstsein, achtsamkeit",
+    "relatedFeatures": ["app_concept_mindfluence"]
+  },
+  {
+    "id": "faq_difference_other_apps",
+    "question": "Was unterscheidet Mindfluence von anderen Meditations- oder Musik-Apps?",
+    "answer": "Unser Fokus liegt klar auf hochwertigen subliminalen Audioinhalten und der gezielten Nutzung von Audiotechnologien wie Binaural Beats zur Unterstützung spezifischer mentaler Zustände. Wir bieten exklusive Inhalte, die speziell für die Beeinflussung des Unterbewusstseins konzipiert sind.",
+    "tags": ["unterschied", "vergleich", " Alleinstellungsmerkmal", "subliminal", "binaural beats"],
+    "keywords": "unterschied, vergleich, andere apps, meditation, musik, Alleinstellungsmerkmal, besonders, fokus, subliminal, binaural beats, isochrone töne, exklusiv, unterbewusstsein",
+    "relatedFeatures": ["app_concept_mindfluence", "subliminal_explanation", "binaural_beats_explanation"]
+  },
+  {
+    "id": "faq_is_it_free",
+    "question": "Ist die Nutzung der App kostenlos?",
+    "answer": "Mindfluence bietet sowohl kostenlose Basisfunktionen als auch ein Premium-Abonnement an. Mit dem kostenlosen Zugang kannst du eine Auswahl unserer Inhalte nutzen. Premium schaltet alle Inhalte, Offline-Downloads und weitere Vorteile frei.",
+    "tags": ["kosten", "preis", "free", "premium", "abo"],
+    "keywords": "kostenlos, gratis, free, umsonst, preis, kosten, abo, abonnement, premium, basis, unterschied, bezahlen",
+    "relatedFeatures": ["subscription_view_plans", "premium_benefits"]
+  },
+  
+  {
+    "id": "faq_how_subliminals_work",
+    "question": "Wie funktionieren Subliminals genau?",
+    "answer": "Subliminale Audios enthalten positive Affirmationen, die knapp unter der bewussten Hörschwelle eingebettet sind, oft maskiert durch Musik oder Naturgeräusche. Dein Unterbewusstsein kann diese Botschaften dennoch wahrnehmen und verarbeiten, um positive Veränderungen anzustoßen.",
+    "tags": ["subliminal", "funktion", "wirkungsweise", "unterbewusstsein", "affirmationen"],
+    "keywords": "subliminal, audio, wie funktionieren, funktion, wirkungsweise, unterbewusstsein, affirmationen, positiv, glaubenssätze, hören, hörschwelle, methode, technik, erklärung, effekt, veränderung, unterschwellig, botschaften",
+    "relatedFeatures": ["subliminal_explanation", "affirmations_explanation"]
+  },
+  {
+    "id": "faq_what_are_binaural_beats",
+    "question": "Was sind Binaural Beats?",
+    "answer": "Binaural Beats entstehen, wenn zwei leicht unterschiedliche Frequenzen jeweils einem Ohr über Kopfhörer zugeführt werden. Dein Gehirn nimmt die Differenz als einen dritten, pulsierenden Ton wahr (den 'Beat'). Dieser Beat kann helfen, bestimmte Gehirnwellenmuster (z.B. für Entspannung oder Fokus) zu fördern.",
+    "tags": ["binaural beats", "technik", "funktion", "gehirnwellen"],
+    "keywords": "binaural beats, was ist, funktion, wirkung, technik, frequenz, differenz, ohr, kopfhörer, gehirn, gehirnwellen, entspannung, fokus, meditation",
+    "relatedFeatures": ["binaural_beats_explanation", "faq_headphones_needed"]
+  },
+  {
+    "id": "faq_what_are_isochronic_tones",
+    "question": "Was sind isochrone Töne?",
+    "answer": "Isochrone Töne sind einzelne Töne, die in regelmäßigen Abständen schnell ein- und ausgeschaltet werden, wodurch ein pulsierender Effekt entsteht. Im Gegensatz zu Binaural Beats benötigen sie keine Kopfhörer und sollen ebenfalls bestimmte Gehirnwellen stimulieren.",
+    "tags": ["isochrone töne", "technik", "funktion", "gehirnwellen"],
+    "keywords": "isochrone töne, was ist, funktion, wirkung, technik, pulsierend, ton, gehirnwellen, stimulation, ohne kopfhörer",
+    "relatedFeatures": ["isochronic_tones_explanation"]
+  },
+  {
+    "id": "faq_are_subliminals_safe",
+    "question": "Sind Subliminals sicher?",
+    "answer": "Ja, die von uns verwendeten Subliminals mit positiven Affirmationen sind sicher. Sie enthalten keine schädlichen oder manipulativen Botschaften. Wie bei allen mentalen Techniken gilt: Höre auf deinen Körper und nutze sie nicht, wenn du dich unwohl fühlst.",
+    "tags": ["subliminal", "sicherheit", "risiken", "affirmationen"],
+    "keywords": "subliminal, sicher, sicherheit, gefahr, risiko, schädlich, manipulativ, nebenwirkungen, positiv, affirmationen, wohlbefinden",
+    "relatedFeatures": ["subliminal_safety", "faq_medical_disclaimer"]
+  },
+  {
+    "id": "faq_headphones_needed",
+    "question": "Brauche ich Kopfhörer?",
+    "answer": "Für Binaural Beats sind Stereo-Kopfhörer zwingend notwendig, da die Wirkung auf der unterschiedlichen Frequenz pro Ohr basiert. Für reine Subliminals oder isochrone Töne sind sie empfohlen (minimiert Ablenkung), aber nicht technisch erforderlich.",
+    "tags": ["kopfhörer", "binaural beats", "hören", "anwendung", "technik"],
+    "keywords": "kopfhörer, brauchen, nötig, erforderlich, hören, benutzen, verwenden, binaural beats, subliminals, isochrone töne, ohne, anwendung, technik, frequenzen, ohr, stereo, lautsprecher, empfehlung",
+    "relatedFeatures": ["recommended_usage", "binaural_beats_explanation", "isochronic_tones_explanation"]
+  },
+  {
+    "id": "faq_scientific_basis",
+    "question": "Ist die Wirkung wissenschaftlich bewiesen?",
+    "answer": "Die Forschung zu Subliminals und Gehirnwellen-Stimulation (Binaural Beats, isochrone Töne) ist ein aktives Feld. Es gibt Studien, die positive Effekte nahelegen, aber die Ergebnisse sind nicht immer eindeutig und die individuelle Wirkung kann variieren. Mindfluence ersetzt keine medizinische oder therapeutische Behandlung.",
+    "tags": ["wissenschaft", "studien", "wirksamkeit", "forschung", "subliminal", "binaural beats"],
+    "keywords": "wissenschaftlich, bewiesen, studie, studien, wirksamkeit, beleg, beweise, forschung, subliminal, binaural beats, isochrone töne, evidenz, validität, placebo, effekt, ergebnisse",
+    "relatedFeatures": ["scientific_background", "faq_medical_disclaimer"]
+  },
+  {
+    "id": "faq_conscious_hearing",
+    "question": "Muss ich die Affirmationen bewusst hören können?",
+    "answer": "Nein, das ist gerade der Punkt bei Subliminals. Die Affirmationen sind so leise oder maskiert, dass du sie bewusst nicht oder kaum wahrnimmst. Dein Unterbewusstsein kann sie jedoch trotzdem aufnehmen.",
+    "tags": ["subliminal", "hören", "bewusstsein", "unterbewusstsein", "affirmationen"],
+    "keywords": "subliminal, hören, bewusst, unterbewusstsein, affirmationen, wahrnehmung, leise, maskiert, versteckt",
+    "relatedFeatures": ["subliminal_explanation"]
+  },
+  {
+    "id": "faq_subliminal_vs_affirmation",
+    "question": "Was ist der Unterschied zwischen Subliminals und normalen Affirmationen?",
+    "answer": "Normale Affirmationen sprichst oder hörst du bewusst. Subliminals hingegen sind unterschwellige Affirmationen, die dein Bewusstsein umgehen und direkt auf das Unterbewusstsein wirken sollen.",
+    "tags": ["subliminal", "affirmationen", "unterschied", "vergleich", "wirkung"],
+    "keywords": "unterschied, subliminal, affirmationen, normal, bewusst, unterschwellig, unterbewusstsein, wirkung, vergleich",
+    "relatedFeatures": ["subliminal_explanation", "affirmations_explanation"]
+  },
+  {
+    "id": "faq_types_of_audios",
+    "question": "Welche Arten von Audios gibt es in der App?",
+    "answer": "Wir bieten verschiedene Audio-Typen an: Reine Subliminals (Affirmationen unter der Hörschwelle), Subliminals kombiniert mit Binaural Beats (Kopfhörer nötig!), Subliminals mit isochronen Tönen und manchmal auch geführte Meditationen oder Entspannungsmusik.",
+    "tags": ["audio", "typen", "inhalte", "subliminal", "binaural beats", "isochrone töne"],
+    "keywords": "audio, typen, arten, inhalte, subliminal, binaural beats, isochrone töne, meditation, entspannungsmusik, unterschiede, kopfhörer",
+    "relatedFeatures": ["content_types", "subliminal_explanation", "binaural_beats_explanation", "isochronic_tones_explanation"]
+  },
+ 
+  {
+    "id": "faq_how_often_listen",
+    "question": "Wie oft und wie lange sollte ich hören?",
+    "answer": "Für optimale Ergebnisse empfehlen wir Regelmäßigkeit. Höre deine gewählten Audios idealerweise täglich für mindestens 20-30 Minuten. Die Wirkung baut sich oft über Wochen auf. Beachte auch spezifische Empfehlungen bei einzelnen Tracks.",
+    "tags": ["häufigkeit", "dauer", "anwendung", "tipps", "regelmässigkeit"],
+    "keywords": "oft, wie lange, hören, häufigkeit, dauer, anwendung, nutzung, zeit, audio, täglich, minuten, wochen, empfehlung, regelmäßig, regelmässigkeit, tipps, ergebnisse, routine",
+    "relatedFeatures": ["recommended_usage", "listening_tips"]
+  },
+  {
+    "id": "faq_best_time_listen",
+    "question": "Wann ist die beste Zeit zum Hören?",
+    "answer": "Das hängt vom Ziel des Audios ab. Entspannungs- oder Schlaf-Audios eignen sich gut vor dem Zubettgehen. Fokus-Audios kannst du während der Arbeit oder des Lernens hören. Wähle eine Zeit, in der du ungestört bist.",
+    "tags": ["zeit", "anwendung", "tipps", "tageszeit", "schlaf", "fokus"],
+    "keywords": "beste zeit, tageszeit, wann hören, anwendung, morgens, abends, nachts, schlafen, einschlafen, lernen, arbeiten, fokus, konzentration, entspannung, ungestört",
+    "relatedFeatures": ["recommended_usage", "listening_tips"]
+  },
+  {
+    "id": "faq_listen_while_sleeping",
+    "question": "Kann ich die Audios auch über Nacht beim Schlafen hören?",
+    "answer": "Ja, viele unserer Schlaf-Audios sind dafür konzipiert, über Nacht gehört zu werden. Stelle sicher, dass die Lautstärke angenehm ist und dich nicht stört. Für Binaural Beats benötigst du bequeme Kopfhörer.",
+    "tags": ["schlafen", "nacht", "hören", "anwendung", "kopfhörer"],
+    "keywords": "schlafen, nacht, über nacht, während schlaf, hören, anwendung, audio, subliminal, binaural beats, kopfhörer, bequem, lautstärke",
+    "relatedFeatures": ["listening_tips", "faq_headphones_needed"]
+  },
+  {
+    "id": "faq_multiple_audios",
+    "question": "Kann ich mehrere verschiedene Audios pro Tag hören?",
+    "answer": "Ja, das ist möglich. Achte jedoch darauf, dich nicht zu überfordern. Konzentriere dich vielleicht auf 1-3 Kernziele und höre die entsprechenden Audios regelmäßig, anstatt zu viele verschiedene auf einmal zu nutzen.",
+    "tags": ["mehrere audios", "anwendung", "tipps", "kombinieren"],
+    "keywords": "mehrere, verschiedene, audios, pro tag, hören, kombinieren, mischen, anwendung, empfehlung, fokus, ziele, überfordern",
+    "relatedFeatures": ["listening_tips"]
+  },
+  {
+    "id": "faq_find_audios",
+    "question": "Wie finde ich passende Audios für mich?",
+    "answer": "Stöbere auf der 'Entdecken'-Seite nach Kategorien wie 'Schlaf', 'Stressabbau' oder 'Motivation'. Nutze die Suchfunktion mit Stichwörtern oder schau dir unsere personalisierten Empfehlungen auf deiner Startseite an.",
+    "tags": ["finden", "suchen", "entdecken", "kategorien", "themen", "empfehlungen"],
+    "keywords": "finden, suchen, entdecken, passende, audios, ziele, themen, kategorien, schlaf, fokus, stress, motivation, selbstvertrauen, empfehlungen, vorschläge, startseite, suchfunktion, auswahl, filtern",
+    "relatedFeatures": ["discover_page", "content_search_general", "discover_by_category", "homepage_recommendations"]
+  },
+  {
+    "id": "faq_create_playlists",
+    "question": "Kann ich eigene Playlists erstellen?",
+    "answer": "Ja, du kannst deine Lieblingsaudios zu persönlichen Playlists hinzufügen und diese nach Belieben organisieren und abspielen.",
+    "tags": ["playlists", "wiedergabelisten", "funktion", "organisieren"],
+    "keywords": "playlist, playlists, wiedergabeliste, erstellen, hinzufügen, organisieren, speichern, eigene, funktion, musik, audio",
+    "relatedFeatures": ["playlist_creation", "playlist_management"]
+  },
+  {
+    "id": "faq_offline_mode",
+    "question": "Gibt es einen Offline-Modus?",
+    "answer": "Ja, mit einem Premium-Abonnement kannst du deine Lieblingsaudios herunterladen und sie jederzeit offline, also ohne aktive Internetverbindung, anhören.",
+    "tags": ["offline", "download", "premium", "internet", "hören"],
+    "keywords": "offline, modus, download, herunterladen, ohne internet, ohne wlan, flugmodus, hören, wiedergabe, speichern, premium, abo, funktion",
+    "relatedFeatures": ["premium_benefit_offline", "faq_download_offline"]
+  },
+  {
+    "id": "faq_download_offline",
+    "question": "Wie lade ich Audios für die Offline-Nutzung herunter?",
+    "answer": "Als Premium-Nutzer findest du neben den meisten Audio-Tracks ein Download-Symbol (oft eine Wolke mit Pfeil). Tippe darauf, um den Download zu starten. Deine heruntergeladenen Inhalte findest du dann im 'Offline'- oder 'Downloads'-Bereich der App.",
+    "tags": ["download", "offline", "anleitung", "premium", "wie"],
+    "keywords": "download, herunterladen, wie, anleitung, schritte, offline, speichern, verfügbar machen, button, symbol, wolke, pfeil, finden, premium",
+    "relatedFeatures": ["premium_benefit_offline", "download_process"]
+  },
+  {
+    "id": "faq_manage_downloads",
+    "question": "Wo finde ich meine Downloads und wie verwalte ich sie?",
+    "answer": "Deine heruntergeladenen Audios findest du normalerweise in einem separaten Bereich namens 'Downloads' oder 'Offline' in der App-Navigation. Dort kannst du sie abspielen und bei Bedarf auch wieder löschen, um Speicherplatz freizugeben.",
+    "tags": ["download", "offline", "verwalten", "speicherplatz", "finden"],
+    "keywords": "downloads, finden, verwalten, speicherplatz, löschen, offline, bereich, navigation, liste, dateien",
+    "relatedFeatures": ["download_management", "offline_library"]
+  },
+  {
+    "id": "faq_volume_recommendation",
+    "question": "Mit welcher Lautstärke sollte ich hören?",
+    "answer": "Höre immer mit einer angenehmen, moderaten Lautstärke. Subliminals sollen unterschwellig wirken, eine hohe Lautstärke ist nicht nötig und kann unangenehm sein. Bei Binaural Beats ist eine Lautstärke wichtig, bei der du beide Töne gut, aber nicht störend wahrnimmst.",
+    "tags": ["lautstärke", "anwendung", "tipps", "hören"],
+    "keywords": "lautstärke, wie laut, hören, empfehlung, angenehm, moderat, leise, subliminal, binaural beats, einstellung, sound",
+    "relatedFeatures": ["listening_tips", "audio_player_volume"]
+  },
+
+  {
+    "id": "faq_registration_needed",
+    "question": "Muss ich mich registrieren, um die App zu nutzen?",
+    "answer": "Für die Nutzung der Grundfunktionen und einiger kostenloser Inhalte ist eventuell keine Registrierung nötig. Um jedoch alle Features, insbesondere Playlists, personalisierte Empfehlungen und Premium-Vorteile, nutzen zu können, ist ein kostenloses Benutzerkonto erforderlich.",
+    "tags": ["registrierung", "konto", "anmeldung", "pflicht"],
+    "keywords": "registrieren, registrierung, anmelden, anmeldung, konto, benutzerkonto, muss, pflicht, notwendig, vorteile, free, premium",
+    "relatedFeatures": ["registration_process", "account_benefits"]
+  },
+  {
+    "id": "faq_login_options",
+    "question": "Wie kann ich mich anmelden?",
+    "answer": "Du kannst dich normalerweise mit deiner E-Mail-Adresse und einem Passwort anmelden. Je nach Implementierung bieten wir eventuell auch Login-Optionen über Google, Apple oder andere Dienste an.",
+    "tags": ["login", "anmeldung", "konto", "optionen"],
+    "keywords": "login, anmelden, anmeldung, wie, optionen, email, passwort, google, apple, social login, benutzerkonto, zugang",
+    "relatedFeatures": ["login_process", "social_login_google", "social_login_apple"]
+  },
+  {
+    "id": "faq_change_password",
+    "question": "Wie ändere ich mein Passwort?",
+    "answer": "Du kannst dein Passwort in deinen Profileinstellungen ändern. Gehe dazu zum Abschnitt 'Sicherheit' oder 'Passwort' und folge den Anweisungen, um ein neues Passwort festzulegen.",
+    "tags": ["passwort ändern", "kennwort", "sicherheit", "konto", "profil"],
+    "keywords": "passwort ändern, kennwort, sicherheit, konto, zugang, logindaten, aktualisieren, zurücksetzen, neu festlegen, profil, einstellungen",
+    "relatedFeatures": ["password_change", "profile_security_tab"]
+  },
+  {
+    "id": "faq_forgot_password",
+    "question": "Ich habe mein Passwort vergessen, was tun?",
+    "answer": "Auf der Login-Seite findest du normalerweise einen Link wie 'Passwort vergessen?'. Klicke darauf und gib deine E-Mail-Adresse ein. Wir senden dir dann Anweisungen, wie du ein neues Passwort erstellen kannst.",
+    "tags": ["passwort vergessen", "kennwort", "login", "hilfe", "zurücksetzen"],
+    "keywords": "passwort vergessen, kennwort, login, anmelden, probleme, hilfe, zurücksetzen, reset, email, link, anweisungen",
+    "relatedFeatures": ["password_reset_process"]
+  },
+  {
+    "id": "faq_change_email",
+    "question": "Wie kann ich meine E-Mail-Adresse ändern?",
+    "answer": "Deine E-Mail-Adresse kannst du in deinen Profileinstellungen unter 'Persönliche Daten' oder 'Kontodaten' ändern. Möglicherweise musst du die neue Adresse bestätigen.",
+    "tags": ["email", "adresse ändern", "konto", "profil", "kontaktdaten"],
+    "keywords": "email, mail, adresse ändern, aktualisieren, kontaktdaten, profil, konto, einstellungen, benutzerdaten, wechseln",
+    "relatedFeatures": ["profile_personal_info_tab", "email_verification"]
+  },
+  {
+    "id": "faq_update_profile",
+    "question": "Wo kann ich meinen Namen oder andere Profildaten ändern?",
+    "answer": "Deine persönlichen Daten wie Name oder Benutzername kannst du in deinem Profil unter 'Persönliche Daten' bearbeiten.",
+    "tags": ["profil", "daten ändern", "name", "benutzername", "konto"],
+    "keywords": "profil, benutzerdaten, persönliche daten, name, benutzername, ändern, bearbeiten, aktualisieren, einstellungen, konto",
+    "relatedFeatures": ["profile_personal_info_tab"]
+  },
+  {
+    "id": "faq_upload_avatar",
+    "question": "Kann ich ein Profilbild hochladen?",
+    "answer": "Ja, in deinen Profileinstellungen gibt es normalerweise die Möglichkeit, ein eigenes Profilbild (Avatar) hochzuladen oder zu ändern.",
+    "tags": ["profilbild", "avatar", "foto", "konto", "profil"],
+    "keywords": "profilbild, avatar, foto, bild, hochladen, ändern, einstellungen, konto, profil",
+    "relatedFeatures": ["profile_avatar_upload"]
+  },
+  {
+    "id": "faq_manage_preferences",
+    "question": "Wo finde ich meine Einstellungen?",
+    "answer": "Allgemeine App-Einstellungen, Benachrichtigungseinstellungen und Präferenzen findest du gesammelt in deinem Profil unter dem Tab 'Einstellungen' oder 'Präferenzen'.",
+    "tags": ["einstellungen", "präferenzen", "profil", "konto", "optionen"],
+    "keywords": "einstellungen, präferenzen, optionen, profil, konto, benachrichtigungen, app, verwalten, anpassen",
+    "relatedFeatures": ["profile_preferences_tab", "app_settings"]
+  },
+  {
+    "id": "faq_newsletter_prefs",
+    "question": "Wie kann ich Newsletter-Einstellungen ändern?",
+    "answer": "Die Einstellungen für Newsletter und Marketing-E-Mails findest du normalerweise in deinem Profil unter 'Einstellungen' oder 'Kommunikation'. Dort kannst du dich an- oder abmelden.",
+    "tags": ["newsletter", "email", "einstellungen", "abmelden", "anmelden"],
+    "keywords": "newsletter, email, einstellungen, präferenzen, kommunikation, marketing, werbung, abmelden, anmelden, verwalten, profil",
+    "relatedFeatures": ["profile_preferences_tab", "newsletter_management"]
+  },
+  {
+    "id": "faq_connected_devices",
+    "question": "Kann ich sehen, auf welchen Geräten ich angemeldet bin?",
+    "answer": "Ja, in den Sicherheitseinstellungen deines Profils findest du oft eine Liste der Geräte, die aktuell mit deinem Konto verbunden sind. Dort kannst du gegebenenfalls auch einzelne Geräte abmelden.",
+    "tags": ["geräte", "sicherheit", "konto", "angemeldet", "profil"],
+    "keywords": "geräte, angemeldet, verbunden, sitzungen, sessions, sicherheit, profil, einstellungen, liste, abmelden, verwalten",
+    "relatedFeatures": ["profile_security_tab", "connected_devices_list"]
+  },
+  {
+    "id": "faq_login_history",
+    "question": "Gibt es eine Übersicht meiner letzten Logins?",
+    "answer": "Ja, aus Sicherheitsgründen protokollieren wir Login-Versuche. Eine Übersicht deiner letzten Anmeldeaktivitäten findest du in der Regel im Sicherheitsbereich deines Profils.",
+    "tags": ["login", "historie", "sicherheit", "protokoll", "konto"],
+    "keywords": "login, anmeldung, historie, verlauf, protokoll, versuche, aktivitäten, sicherheit, profil, einstellungen, übersicht",
+    "relatedFeatures": ["profile_security_tab", "login_attempts_list"]
+  },
+  {
+    "id": "faq_two_factor_auth",
+    "question": "Bietet ihr Zwei-Faktor-Authentifizierung (2FA) an?",
+    "answer": "Ja, zur Erhöhung der Kontosicherheit bieten wir Zwei-Faktor-Authentifizierung an. Du kannst diese in den Sicherheitseinstellungen deines Profils aktivieren und konfigurieren.",
+    "tags": ["2fa", "sicherheit", "authentifizierung", "konto", "schutz"],
+    "keywords": "zwei-faktor-authentifizierung, 2fa, sicherheit, schutz, konto, login, anmelden, aktivieren, einrichten, profil, einstellungen",
+    "relatedFeatures": ["profile_security_tab", "two_factor_auth_setup"]
+  },
+  {
+    "id": "faq_delete_account",
+    "question": "Wie kann ich mein Konto endgültig löschen?",
+    "answer": "Die Option zur dauerhaften Löschung deines Kontos findest du in den Profileinstellungen, oft unter 'Konto verwalten' oder 'Datenschutz'. Bitte beachte, dass dieser Vorgang unwiderruflich ist und alle deine Daten, Playlists und Abos gelöscht werden.",
+    "tags": ["konto löschen", "account entfernen", "dsgvo", "profil", "daten"],
+    "keywords": "konto löschen, account entfernen, profil löschen, daten löschen, dauerhaft, unwiderruflich, schließen, kündigen, abmelden, datenschutz, dsgvo",
+    "relatedFeatures": ["account_deletion_process", "data_privacy"]
+  },
+ 
+  {
+    "id": "faq_subscription_plans",
+    "question": "Welche Abo-Pläne gibt es?",
+    "answer": "Wir bieten verschiedene Pläne an, typischerweise einen kostenlosen Basis-Zugang und einen oder mehrere Premium-Pläne (z.B. Premium Einzelperson, Premium Familie) mit unterschiedlichem Funktionsumfang und Preisen. Eine genaue Übersicht findest du auf der 'Upgrade'-Seite.",
+    "tags": ["abo", "pläne", "mitgliedschaft", "premium", "free", "kosten"],
+    "keywords": "abo, abonnement, pläne, modelle, typen, mitgliedschaft, premium, basis, free, kostenlos, familie, unterschiede, übersicht, upgrade",
+    "relatedFeatures": ["subscription_view_plans", "premium_benefits"]
+  },
+  {
+    "id": "faq_premium_benefits",
+    "question": "Was sind die Vorteile von Premium?",
+    "answer": "Premium-Nutzer genießen werbefreies Hören, können alle Audios für die Offline-Nutzung herunterladen, erhalten oft Zugang zu exklusiven Inhalten und profitieren möglicherweise von höherer Audioqualität.",
+    "tags": ["premium", "abo", "vorteile", "werbefrei", "offline", "exklusiv"],
+    "keywords": "premium, abo, abonnement, mitgliedschaft, vorteile, nutzen, plus, werbefrei, ohne werbung, offline, herunterladen, download, audioqualität, exklusiv, inhalte, sessions, unterschied",
+    "relatedFeatures": ["premium_benefits", "premium_benefit_ad_free", "premium_benefit_offline", "premium_benefit_high_quality", "premium_benefit_exclusive_content"]
+  },
+  {
+    "id": "faq_subscription_costs",
+    "question": "Was kostet ein Premium-Abo?",
+    "answer": "Die aktuellen Preise für unsere Premium-Pläne (monatlich oder jährlich) findest du auf der 'Upgrade'-Seite in der App oder auf unserer Website. Dort siehst du die genauen Kosten für dein Land.",
+    "tags": ["kosten", "preis", "abo", "premium", "mitgliedschaft", "upgrade"],
+    "keywords": "kosten, preis, preise, abo, abonnement, mitgliedschaft, gebühren, bezahlung, geld, tarif, tarife, premium, monatlich, jährlich, upgrade, was kostet",
+    "relatedFeatures": ["subscription_view_plans", "subscription_upgrade"]
+  },
+  {
+    "id": "faq_payment_methods",
+    "question": "Welche Zahlungsmethoden akzeptiert ihr?",
+    "answer": "Wir akzeptieren gängige Zahlungsmethoden wie Kreditkarten (Visa, Mastercard), PayPal und je nach Region eventuell auch andere Optionen wie Lastschrift oder Apple/Google Pay. Die verfügbaren Optionen siehst du beim Upgrade-Prozess.",
+    "tags": ["zahlung", "bezahlung", "methoden", "kreditkarte", "paypal", "abo"],
+    "keywords": "zahlungsmethoden, zahlung, bezahlen, bezahlung, abo, abonnement, kreditkarte, visa, mastercard, paypal, lastschrift, apple pay, google pay, optionen",
+    "relatedFeatures": ["payment_methods", "subscription_upgrade"]
+  },
+  {
+    "id": "faq_update_payment",
+    "question": "Wie kann ich meine Zahlungsmethode ändern?",
+    "answer": "Deine hinterlegte Zahlungsmethode kannst du in deinem Profil unter 'Abonnement' oder 'Zahlungsmethoden' verwalten und aktualisieren.",
+    "tags": ["zahlung", "bezahlung", "methode ändern", "aktualisieren", "konto"],
+    "keywords": "zahlungsmethode, ändern, aktualisieren, verwalten, kreditkarte, paypal, bankkonto, profil, einstellungen, abo, abonnement",
+    "relatedFeatures": ["profile_subscription_tab", "payment_method_management"]
+  },
+  {
+    "id": "faq_find_invoice",
+    "question": "Wo finde ich meine Rechnungen?",
+    "answer": "Deine Rechnungen und deine Zahlungshistorie kannst du in deinem Profil im Bereich 'Abonnement' oder 'Abrechnung' einsehen und herunterladen.",
+    "tags": ["rechnung", "rechnungen", "zahlung", "historie", "abo", "konto"],
+    "keywords": "rechnung, rechnungen, finden, sehen, download, herunterladen, zahlung, zahlungshistorie, abbuchung, beleg, quittung, historie, verlauf, kostenaufstellung, profil, konto, abrechnung",
+    "relatedFeatures": ["profile_subscription_tab", "billing_history"]
+  },
+  {
+    "id": "faq_cancel_subscription",
+    "question": "Wie kündige ich mein Abo?",
+    "answer": "Du kannst dein Abo jederzeit zum Ende des aktuellen Abrechnungszeitraums kündigen. Gehe dazu in dein Profil zum Bereich 'Abonnement' und wähle 'Abonnement kündigen'. Dein Premium-Zugang bleibt bis zum Ablauf aktiv.",
+    "tags": ["kündigen", "abo beenden", "cancel", "mitgliedschaft", "abo"],
+    "keywords": "kündigen, kündigung, abo, abonnement, mitgliedschaft, beenden, stornieren, storno, vertrag, löschen, entfernen, abmelden, cancel, jederzeit, profil, verwalten, abrechnungszeitraum, anleitung",
+    "relatedFeatures": ["subscription_cancel", "profile_subscription_tab"]
+  },
+  {
+    "id": "faq_refund_policy",
+    "question": "Bekomme ich Geld zurück, wenn ich kündige?",
+    "answer": "Bei einer Kündigung läuft dein Zugang bis zum Ende des bereits bezahlten Zeitraums weiter. Eine anteilige Rückerstattung für den laufenden Zeitraum ist in der Regel nicht vorgesehen, es sei denn, es liegen besondere Umstände oder gesetzliche Regelungen (z.B. Widerrufsrecht kurz nach Abschluss) vor. Details findest du in unseren AGB.",
+    "tags": ["rückerstattung", "kündigung", "geld zurück", "widerruf", "agb"],
+    "keywords": "rückerstattung, geld zurück, kündigung, stornierung, widerruf, anteilig, policy, agb, bedingungen, abo",
+    "relatedFeatures": ["subscription_cancel", "terms_of_service", "refund_policy"]
+  },
+  {
+    "id": "faq_subscription_auto_renew",
+    "question": "Verlängert sich mein Abo automatisch?",
+    "answer": "Ja, unsere Abonnements verlängern sich standardmäßig automatisch am Ende des Abrechnungszeitraums (monatlich oder jährlich), um einen ununterbrochenen Zugang zu gewährleisten. Du kannst die automatische Verlängerung aber jederzeit in deinen Abo-Einstellungen deaktivieren.",
+    "tags": ["abo", "verlängerung", "automatisch", "kündigen"],
+    "keywords": "abo, abonnement, verlängerung, automatisch, auto-renew, kündigen, deaktivieren, einstellungen, profil, zahlung",
+    "relatedFeatures": ["profile_subscription_tab", "subscription_auto_renewal"]
+  },
+  {
+    "id": "faq_free_trial",
+    "question": "Gibt es eine kostenlose Testphase?",
+    "answer": "Wir bieten gelegentlich kostenlose Testphasen für unsere Premium-Pläne an. Informationen zu aktuellen Angeboten findest du auf der 'Upgrade'-Seite oder auf unserer Website. Beachte, dass nach Ablauf der Testphase automatisch Kosten anfallen können, wenn du nicht rechtzeitig kündigst.",
+    "tags": ["testphase", "kostenlos testen", "probeabo", "premium"],
+    "keywords": "testphase, kostenlos testen, probeabo, probemonat, free trial, premium, angebot, bedingungen, kündigen",
+    "relatedFeatures": ["subscription_free_trial", "subscription_upgrade"]
+  },
+  {
+    "id": "faq_family_plan",
+    "question": "Gibt es einen Familienplan?",
+    "answer": "Ja, wir bieten oft auch einen Familienplan an, mit dem mehrere Personen (normalerweise bis zu 6) aus einem Haushalt unter einem gemeinsamen Abonnement auf Premium-Funktionen zugreifen können. Details dazu findest du auf der 'Upgrade'-Seite.",
+    "tags": ["familienplan", "abo", "mehrere nutzer", "kosten"],
+    "keywords": "familienplan, family plan, familie, mehrere nutzer, personen, haushalt, konto teilen, abo, premium, kosten, preis",
+    "relatedFeatures": ["subscription_view_plans", "family_plan_details"]
+  },
+  {
+    "id": "faq_change_plan",
+    "question": "Kann ich meinen Abo-Plan ändern?",
+    "answer": "Ja, du kannst deinen Plan normalerweise jederzeit in den Abo-Einstellungen deines Profils ändern, z.B. von Basic auf Premium upgraden oder zwischen Monats- und Jahreszahlung wechseln. Die Änderung wird oft zum nächsten Abrechnungsdatum wirksam.",
+    "tags": ["abo ändern", "plan wechseln", "upgrade", "downgrade", "mitgliedschaft"],
+    "keywords": "abo ändern, plan wechseln, upgrade, downgrade, mitgliedschaft, tarif, wechseln, anpassen, profil, einstellungen",
+    "relatedFeatures": ["profile_subscription_tab", "subscription_change_plan"]
+  },
+ 
+  {
+    "id": "faq_device_compatibility",
+    "question": "Auf welchen Geräten läuft die App?",
+    "answer": "Mindfluence ist für moderne iOS- und Android-Smartphones und -Tablets optimiert. Prüfe die Mindestanforderungen im jeweiligen App Store. Eine dedizierte Desktop- oder Web-Version gibt es derzeit nicht.",
+    "tags": ["geräte", "kompatibilität", "systemanforderungen", "ios", "android"],
+    "keywords": "geräte, kompatibel, plattform, ios, android, iphone, ipad, smartphone, handy, tablet, pc, mac, web, browser, systemanforderungen, betriebssystem",
+    "relatedFeatures": ["device_compatibility", "system_requirements"]
+  },
+  {
+    "id": "faq_playback_error",
+    "question": "Audio spielt nicht ab - was tun?",
+    "answer": "Prüfe zuerst deine Internetverbindung (WLAN/Mobilfunk). Starte die App neu. Leere eventuell den Cache der App in den Geräteeinstellungen. Stelle sicher, dass die App auf dem neuesten Stand ist. Wenn das Problem bleibt, kontaktiere bitte den Support.",
+    "tags": ["fehler", "wiedergabe", "spielt nicht", "problem", "audio", "störung", "hilfe"],
+    "keywords": "fehler, wiedergabe, audio, abspielen, spielt nicht, problem, störung, funktioniert nicht, internet, verbindung, wlan, mobilfunk, app neustart, cache leeren, update, support",
+    "relatedFeatures": ["error_handling_playback", "support_contact", "cache_clearing", "troubleshooting"]
+  },
+  {
+    "id": "faq_login_error",
+    "question": "Ich kann mich nicht einloggen.",
+    "answer": "Bitte überprüfe deine E-Mail-Adresse und dein Passwort sorgfältig (Groß-/Kleinschreibung!). Nutze die 'Passwort vergessen'-Funktion, falls du unsicher bist. Stelle sicher, dass du eine stabile Internetverbindung hast. Bei anhaltenden Problemen hilft dir unser Support.",
+    "tags": ["login", "anmeldung", "fehler", "passwort", "problem", "hilfe"],
+    "keywords": "login, anmelden, anmeldung, fehler, probleme, passwort falsch, kennwort, zugang, email, internet, verbindung, support, hilfe, passwort vergessen",
+    "relatedFeatures": ["login_process", "password_reset_process", "support_contact", "troubleshooting"]
+  },
+  {
+    "id": "faq_app_crash",
+    "question": "Die App stürzt ständig ab.",
+    "answer": "Das tut uns leid! Bitte stelle sicher, dass du die neueste Version der App und deines Betriebssystems installiert hast. Versuche, dein Gerät neu zu starten und den App-Cache zu leeren. Wenn das Problem weiterhin besteht, melde es bitte unserem Support mit Angabe deines Geräts und Betriebssystems.",
+    "tags": ["app stürzt ab", "fehler", "crash", "problem", "stabilität"],
+    "keywords": "app, stürzt ab, crash, fehler, probleme, stabilität, schließen, beenden, update, betriebssystem, neustart, cache leeren, support, melden",
+    "relatedFeatures": ["error_handling_crash", "support_contact", "cache_clearing", "troubleshooting"]
+  },
+  {
+    "id": "faq_slow_performance",
+    "question": "Die App ist sehr langsam.",
+    "answer": "Eine langsame Performance kann verschiedene Ursachen haben. Prüfe deine Internetverbindung. Schließe andere Apps, die im Hintergrund laufen. Ein Neustart deines Geräts oder das Leeren des App-Caches kann ebenfalls helfen. Stelle sicher, dass dein Gerät die Mindestanforderungen erfüllt.",
+    "tags": ["langsam", "performance", "geschwindigkeit", "problem", "hilfe"],
+    "keywords": "langsam, performance, geschwindigkeit, laden, hängt, ruckelt, internet, verbindung, hintergrund apps, neustart, cache leeren, systemanforderungen",
+    "relatedFeatures": ["performance_issues", "troubleshooting", "system_requirements"]
+  },
+  {
+    "id": "faq_download_error",
+    "question": "Der Download von Audios funktioniert nicht.",
+    "answer": "Stelle sicher, dass du eine stabile Internetverbindung hast und genügend freien Speicherplatz auf deinem Gerät. Prüfe, ob du mit deinem Premium-Konto angemeldet bist. Ein Neustart der App kann manchmal helfen. Bei anhaltenden Problemen kontaktiere den Support.",
+    "tags": ["download", "fehler", "offline", "problem", "speicherplatz", "premium"],
+    "keywords": "download, fehler, funktioniert nicht, offline, speichern, herunterladen, problem, internet, verbindung, speicherplatz, premium, konto, app neustart, support",
+    "relatedFeatures": ["premium_benefit_offline", "download_process", "troubleshooting", "support_contact"]
+  },
+  {
+    "id": "faq_notification_issues",
+    "question": "Ich bekomme keine Benachrichtigungen.",
+    "answer": "Bitte überprüfe die Benachrichtigungseinstellungen sowohl in der Mindfluence App (im Profil unter 'Einstellungen') als auch in den Systemeinstellungen deines Geräts für die Mindfluence App. Stelle sicher, dass Benachrichtigungen erlaubt sind.",
+    "tags": ["benachrichtigungen", "notifications", "problem", "einstellungen"],
+    "keywords": "benachrichtigungen, notifications, keine, erhalte nicht, problem, fehler, einstellungen, app, system, erlauben, aktivieren, push",
+    "relatedFeatures": ["profile_preferences_tab", "notification_settings"]
+  },
+
+  {
+    "id": "faq_content_updates",
+    "question": "Wie oft kommen neue Audios hinzu?",
+    "answer": "Wir arbeiten ständig daran, unsere Bibliothek zu erweitern und fügen regelmäßig neue Subliminals, Binaural Beats und andere Audioinhalte hinzu. Schau öfter mal auf der 'Entdecken'-Seite vorbei oder aktiviere Benachrichtigungen für neue Inhalte.",
+    "tags": ["inhalte", "neu", "updates", "bibliothek", "audio"],
+    "keywords": "neue inhalte, neue audios, updates, bibliothek, katalog, wie oft, regelmäßig, frequenz, entdecken, benachrichtigungen",
+    "relatedFeatures": ["content_library", "discover_page", "notification_settings"]
+  },
+  {
+    "id": "faq_request_content",
+    "question": "Kann ich mir bestimmte Themen oder Audios wünschen?",
+    "answer": "Wir freuen uns immer über Vorschläge! Nutze die Feedback-Funktion in der App, um uns deine Wünsche für neue Themen oder spezifische Audio-Arten mitzuteilen. Wir prüfen alle Vorschläge sorgfältig.",
+    "tags": ["wunsch", "vorschlag", "feedback", "inhalte", "themen"],
+    "keywords": "wunsch, wünschen, vorschlag, vorschlagen, feedback, inhalte, themen, audio, idee, einreichen, neue",
+    "relatedFeatures": ["feedback_feature", "content_request"]
+  },
+  {
+    "id": "faq_content_languages",
+    "question": "In welchen Sprachen sind die Audios verfügbar?",
+    "answer": "Derzeit konzentrieren wir uns hauptsächlich auf deutsche und englische Audioinhalte. Wir prüfen jedoch kontinuierlich die Nachfrage nach weiteren Sprachen.",
+    "tags": ["sprache", "inhalte", "audio", "verfügbarkeit", "übersetzung"],
+    "keywords": "sprache, sprachen, audio, inhalte, verfügbar, deutsch, englisch, übersetzung, mehrsprachig",
+    "relatedFeatures": ["content_languages", "language_support"]
+  },
+  {
+    "id": "faq_content_quality",
+    "question": "Welche Audioqualität wird angeboten?",
+    "answer": "Wir bemühen uns um eine hohe Audioqualität. Premium-Nutzer profitieren oft von einer noch höheren Bitrate oder verlustfreien Formaten für das bestmögliche Hörerlebnis.",
+    "tags": ["audioqualität", "sound", "qualität", "premium", "technik"],
+    "keywords": "audioqualität, qualität, sound, bitrate, verlustfrei, streaming, premium, unterschied, hören, klang",
+    "relatedFeatures": ["audio_quality", "premium_benefit_high_quality"]
+  },
+  {
+    "id": "faq_content_duration",
+    "question": "Wie lang sind die Audios normalerweise?",
+    "answer": "Die Länge variiert je nach Typ und Zweck des Audios. Es gibt kürzere Sessions von 10-15 Minuten, aber auch längere von 30, 60 oder sogar mehr Minuten, besonders für Schlaf-Audios.",
+    "tags": ["dauer", "länge", "audio", "inhalte", "zeit"],
+    "keywords": "dauer, länge, audio, track, session, zeit, minuten, stunden, unterschiedlich, kurz, lang, schlaf",
+    "relatedFeatures": ["content_library"]
+  },
+  {
+    "id": "faq_background_music",
+    "question": "Kann ich die Hintergrundmusik oder Naturgeräusche anpassen?",
+    "answer": "Derzeit bieten die meisten unserer Audios eine feste Kombination aus Affirmationen und Hintergrundklängen. Eine separate Anpassung der Musik oder Geräusche ist in der Regel nicht vorgesehen, aber wir nehmen solches Feedback gerne auf.",
+    "tags": ["musik", "hintergrundgeräusche", "anpassen", "einstellungen", "audio"],
+    "keywords": "hintergrundmusik, musik, naturgeräusche, klänge, anpassen, ändern, auswählen, einstellungen, optionen, lautstärke, mix",
+    "relatedFeatures": ["audio_playback", "feedback_feature"]
+  },
+
+  {
+    "id": "faq_data_security",
+    "question": "Wie sicher sind meine persönlichen Daten?",
+    "answer": "Datensicherheit hat für uns höchste Priorität. Wir verwenden moderne Verschlüsselung für die Datenübertragung (HTTPS) und Speicherung. Passwörter werden sicher gehasht. Wir halten uns an die DSGVO und verkaufen deine Daten niemals. Details findest du in unserer Datenschutzerklärung.",
+    "tags": ["datenschutz", "sicherheit", "dsgvo", "konto", "daten"],
+    "keywords": "daten, sicherheit, datenschutz, dsgvo, gdpr, sicher, schutz, verschlüsselung, https, passwort, hashing, speichern, übertragung, verkauf, privacy",
+    "relatedFeatures": ["data_privacy", "security_measures", "privacy_policy"]
+  },
+  {
+    "id": "faq_what_data_collected",
+    "question": "Welche Daten sammelt Mindfluence von mir?",
+    "answer": "Wir sammeln Daten, die für die Funktion der App notwendig sind, wie deine E-Mail-Adresse und Passwort (verschlüsselt) für den Login, Abo-Informationen und anonymisierte Nutzungsdaten zur Verbesserung der App und der Empfehlungen. Wir sammeln keine sensiblen Gesundheitsdaten ohne deine explizite Zustimmung.",
+    "tags": ["datensammlung", "datenschutz", "dsgvo", "konto", "nutzungsdaten"],
+    "keywords": "daten, sammeln, erhebung, welche daten, gespeichert, email, passwort, abo, nutzungsdaten, analyse, statistik, anonym, gesundheit, dsgvo",
+    "relatedFeatures": ["data_privacy", "privacy_policy", "data_collection_policy"]
+  },
+  {
+    "id": "faq_data_sharing",
+    "question": "Werden meine Daten an Dritte weitergegeben?",
+    "answer": "Nein, wir geben deine persönlichen Daten grundsätzlich nicht an Dritte weiter, es sei denn, dies ist zur Erbringung unserer Dienste zwingend notwendig (z.B. Zahlungsabwicklung über sichere Dienstleister wie Stripe) oder wir sind gesetzlich dazu verpflichtet. Details stehen in unserer Datenschutzerklärung.",
+    "tags": ["datenweitergabe", "dritte", "datenschutz", "dsgvo"],
+    "keywords": "daten, weitergabe, dritte, teilen, verkaufen, datenschutz, dsgvo, zahlungsdienstleister, stripe, gesetzlich, policy",
+    "relatedFeatures": ["data_privacy", "privacy_policy", "third_party_sharing"]
+  },
+  {
+    "id": "faq_gdpr_rights",
+    "question": "Welche Rechte habe ich bezüglich meiner Daten (DSGVO)?",
+    "answer": "Gemäß DSGVO hast du das Recht auf Auskunft, Berichtigung, Löschung ('Vergessenwerden'), Einschränkung der Verarbeitung und Datenübertragbarkeit deiner persönlichen Daten. Du kannst diese Rechte über deine Profileinstellungen oder durch Kontaktaufnahme mit unserem Support wahrnehmen.",
+    "tags": ["dsgvo", "gdpr", "rechte", "datenschutz", "auskunft", "löschung"],
+    "keywords": "dsgvo, gdpr, rechte, nutzerrechte, datenschutz, auskunft, berichtigung, löschung, vergessenwerden, einschränkung, datenübertragbarkeit, profil, support",
+    "relatedFeatures": ["data_privacy", "privacy_policy", "gdpr_user_rights", "profile_data_management"]
+  },
+  {
+    "id": "faq_export_data",
+    "question": "Kann ich meine Daten exportieren?",
+    "answer": "Ja, gemäß DSGVO bieten wir dir die Möglichkeit, deine bei uns gespeicherten persönlichen Daten zu exportieren. Du findest diese Option normalerweise in deinen Profileinstellungen unter 'Datenschutz' oder 'Daten verwalten'.",
+    "tags": ["datenexport", "dsgvo", "gdpr", "konto", "profil", "daten"],
+    "keywords": "daten, export, exportieren, herunterladen, dsgvo, gdpr, rechte, profil, einstellungen, datenschutz, datenübertragbarkeit",
+    "relatedFeatures": ["profile_data_management", "user_data_export"]
+  },
+  {
+    "id": "faq_privacy_policy_location",
+    "question": "Wo finde ich die Datenschutzerklärung?",
+    "answer": "Unsere vollständige Datenschutzerklärung findest du jederzeit über einen Link im Footer der App oder auf unserer Website. Wir empfehlen dir, diese sorgfältig zu lesen.",
+    "tags": ["datenschutzerklärung", "privacy policy", "rechtliches", "dsgvo"],
+    "keywords": "datenschutzerklärung, privacy policy, finden, wo, link, rechtliches, agb, dsgvo, informationen, daten",
+    "relatedFeatures": ["privacy_policy", "legal_documents"]
+  },
+  
+  {
+    "id": "faq_contact_support",
+    "question": "Wie kann ich den Support kontaktieren?",
+    "answer": "Du kannst unser Support-Team über das Kontaktformular in der App oder per E-Mail an support@mindfluence.app erreichen. Wir bemühen uns, deine Anfrage so schnell wie möglich zu bearbeiten.",
+    "tags": ["support", "hilfe", "kontakt", "problem", "kundendienst"],
+    "keywords": "support, kontakt, kontaktieren, erreichen, hilfe, kundendienst, kundenservice, email, formular, problem, frage",
+    "relatedFeatures": ["support_contact", "contact_form"]
+  },
+  {
+    "id": "faq_give_feedback",
+    "question": "Wo kann ich Feedback zur App geben?",
+    "answer": "Wir freuen uns über dein Feedback! Nutze dafür bitte die 'Feedback'-Option in den App-Einstellungen oder im Menü. Deine Meinung hilft uns, Mindfluence kontinuierlich zu verbessern.",
+    "tags": ["feedback", "verbesserung", "meinung", "vorschlag", "app"],
+    "keywords": "feedback, geben, senden, mitteilen, rückmeldung, meinung, vorschlag, idee, kritik, lob, app, verbessern, bewertung",
+    "relatedFeatures": ["feedback_feature"]
+  },
+  {
+    "id": "faq_report_bug",
+    "question": "Ich habe einen Fehler (Bug) gefunden, wo melde ich ihn?",
+    "answer": "Vielen Dank für deine Hilfe! Bitte melde Fehler oder technische Probleme über die Feedback-Funktion oder direkt an unseren Support. Beschreibe das Problem möglichst genau und gib idealerweise dein Gerät und Betriebssystem an.",
+    "tags": ["fehler melden", "bug report", "problem", "support", "feedback"],
+    "keywords": "fehler, bug, problem, melden, report, feedback, support, technisch, absturz, beschreibung, gerät, betriebssystem",
+    "relatedFeatures": ["feedback_feature", "support_contact", "bug_reporting"]
+  },
+  {
+    "id": "faq_show_alternatives",
+    "question": "Gibt es Alternativen zu Mindfluence?",
+    "answer": "Es gibt verschiedene Apps im Bereich Meditation, Achtsamkeit und mentales Wohlbefinden. Mindfluence zeichnet sich durch den Fokus auf hochwertige Subliminals und spezifische Audiotechnologien aus. Vergleiche gerne die Angebote, um die beste App für deine Bedürfnisse zu finden.",
+    "tags": ["alternativen", "vergleich", "andere apps", "konkurrenz"],
+    "keywords": "alternativen, andere apps, vergleich, konkurrenz, ähnlich, markt, meditation, achtsamkeit, mental health, wohlbefinden, subliminal",
+    "relatedFeatures": ["app_concept_mindfluence", "competitor_comparison"]
+  },
+  {
+    "id": "faq_medical_disclaimer",
+    "question": "Kann Mindfluence eine Therapie ersetzen?",
+    "answer": "Nein. Mindfluence ist ein Werkzeug zur Unterstützung deines mentalen Wohlbefindens, ersetzt aber keine professionelle medizinische oder psychotherapeutische Diagnose oder Behandlung. Bei ernsthaften gesundheitlichen oder psychischen Problemen wende dich bitte immer an einen qualifizierten Facharzt oder Therapeuten.",
+    "tags": ["medizin", "therapie", "ersatz", "gesundheit", "disclaimer"],
+    "keywords": "medizin, therapie, psychotherapie, arzt, therapeut, behandlung, diagnose, ersatz, disclaimer, gesundheit, psychisch, probleme, professionell, hilfe",
+    "relatedFeatures": ["medical_disclaimer", "health_warning"]
+  },
+  {
+    "id": "faq_general",
+    "question": "Ich habe eine allgemeine Frage.",
+    "answer": "Gerne versuche ich zu helfen. Bitte stelle deine Frage so spezifisch wie möglich, damit ich dir die passende Information geben kann. Du kannst auch unsere FAQ-Themen durchsuchen.",
+    "tags": ["allgemein", "frage", "hilfe", "info"],
+    "keywords": "allgemein, frage, information, hilfe, sonstiges, unspezifisch",
+    "relatedFeatures": ["faq_search", "discover_topics"]
+  },
+  {
+    "id": "faq_affirmation_creation",
+    "question": "Wer schreibt die Affirmationen?",
+    "answer": "Unsere Affirmationen werden sorgfältig von Experten für Persönlichkeitsentwicklung und positiver Psychologie formuliert. Sie sind stets positiv, unterstützend und auf das jeweilige Ziel des Audios ausgerichtet.",
+    "tags": ["affirmationen", "inhalt", "erstellung", "qualität", "experten"],
+    "keywords": "affirmationen, erstellen, schreiben, wer, experten, psychologie, positiv, formulierung, qualität, inhalt",
+    "relatedFeatures": ["affirmations_explanation", "content_creation"]
+  },
+  {
+    "id": "faq_frequency_ranges",
+    "question": "Welche Frequenzbereiche nutzen die Binaural Beats?",
+    "answer": "Wir nutzen verschiedene Frequenzbereiche, die mit bestimmten Gehirnwellen assoziiert sind: Delta (Tiefschlaf), Theta (tiefe Entspannung, Meditation), Alpha (entspannter Wachzustand), Beta (aktiver Fokus) und Gamma (hohe Konzentration). Die genauen Frequenzen variieren je nach Ziel des Audios.",
+    "tags": ["binaural beats", "frequenzen", "gehirnwellen", "technik", "delta", "theta", "alpha", "beta", "gamma"],
+    "keywords": "frequenzen, binaural beats, bereiche, gehirnwellen, delta, theta, alpha, beta, gamma, wirkung, technik, hertz, hz",
+    "relatedFeatures": ["binaural_beats_explanation", "brainwave_entrainment"]
+  },
+  {
+    "id": "faq_exam_anxiety",
+    "question": "Gibt es Audios gegen Prüfungsangst?",
+    "answer": "Ja, wir haben spezielle Audios, die darauf abzielen, Prüfungsangst zu reduzieren, die Konzentration zu fördern und das Selbstvertrauen vor und während Prüfungen zu stärken. Suche nach 'Prüfungsangst' oder 'Lernfokus'.",
+    "tags": ["prüfungsangst", "lernen", "fokus", "stress", "selbstvertrauen", "anwendung"],
+    "keywords": "prüfungsangst, prüfung, angst, stress, lernen, konzentration, fokus, selbstvertrauen, audio, hilfe, unterstützung",
+    "relatedFeatures": ["content_search_specific", "topic_focus", "topic_anxiety_relief"]
+  },
+  {
+    "id": "faq_quit_smoking",
+    "question": "Können die Audios beim Rauchen aufhören helfen?",
+    "answer": "Wir bieten Audios an, die darauf abzielen, Willenskraft zu stärken und das Verlangen zu reduzieren, was bei der Raucherentwöhnung unterstützend wirken kann. Sie sind jedoch kein Ersatz für professionelle Entwöhnungsprogramme oder ärztliche Beratung.",
+    "tags": ["raucherentwöhnung", "aufhören", "sucht", "unterstützung", "willenskraft"],
+    "keywords": "rauchen aufhören, raucherentwöhnung, nichtraucher, sucht, verlangen, willenskraft, unterstützung, hilfe, audio, subliminal, disclaim",
+    "relatedFeatures": ["topic_addiction_support", "willpower_boost", "faq_medical_disclaimer"]
+  },
+  {
+    "id": "faq_sports_motivation",
+    "question": "Gibt es Inhalte zur Sportmotivation?",
+    "answer": "Ja, wir haben Audios, die dich dabei unterstützen können, deine Motivation für Sport und Bewegung zu steigern, deine Leistungsfähigkeit zu verbessern und deine Ziele im Training zu erreichen. Suche nach 'Sportmotivation' oder 'Training'.",
+    "tags": ["sport", "motivation", "training", "leistung", "ziele"],
+    "keywords": "sportmotivation, sport, motivation, training, fitness, leistung, ziele, workout, bewegung, antrieb, audio",
+    "relatedFeatures": ["topic_motivation", "topic_sports_performance"]
+  },
+  {
+    "id": "faq_community_features",
+    "question": "Gibt es eine Community oder Austauschmöglichkeiten?",
+    "answer": "Aktuell liegt unser Fokus auf den Audioinhalten. Eine direkte Community-Funktion innerhalb der App gibt es derzeit nicht, aber wir prüfen Möglichkeiten für die Zukunft. Folge uns gerne auf Social Media für Austausch.",
+    "tags": ["community", "forum", "austausch", "sozial", "feature"],
+    "keywords": "community, forum, austausch, sozial, netzwerk, gruppen, chat, feature, zukunft, social media",
+    "relatedFeatures": ["future_plans", "social_media_links"]
+  },
+  {
+    "id": "faq_device_sync",
+    "question": "Werden meine Daten zwischen Geräten synchronisiert?",
+    "answer": "Ja, wenn du mit deinem Mindfluence-Konto angemeldet bist, werden deine Playlists, Favoriten und dein Hörfortschritt normalerweise zwischen all deinen Geräten (z.B. Smartphone und Tablet) synchronisiert.",
+    "tags": ["synchronisation", "geräte", "konto", "daten", "fortschritt"],
+    "keywords": "synchronisation, synchronisieren, geräte, mehrere, konto, daten, fortschritt, playlists, favoriten, abgleich",
+    "relatedFeatures": ["account_sync", "multi_device_support"]
+  },
+  {
+    "id": "faq_bluetooth_headphones",
+    "question": "Funktionieren die Audios auch mit Bluetooth-Kopfhörern?",
+    "answer": "Ja, du kannst problemlos Bluetooth-Kopfhörer verwenden. Stelle sicher, dass sie Stereo-Sound unterstützen, insbesondere wenn du Binaural Beats hören möchtest, um die volle Wirkung zu erzielen.",
+    "tags": ["bluetooth", "kopfhörer", "kompatibilität", "technik", "binaural beats"],
+    "keywords": "bluetooth, kopfhörer, kabellos, wireless, funktionieren, kompatibel, stereo, binaural beats, verbindung",
+    "relatedFeatures": ["faq_headphones_needed", "device_compatibility"]
+  },
+  {
+    "id": "faq_payment_currency",
+    "question": "In welcher Währung wird abgerechnet?",
+    "answer": "Die Abrechnung erfolgt normalerweise in der Währung deines Landes bzw. deines App Stores (z.B. Euro in Deutschland). Die genaue Währung und der Preis werden dir vor dem Abschluss des Abonnements angezeigt.",
+    "tags": ["zahlung", "währung", "abrechnung", "kosten", "preis"],
+    "keywords": "währung, abrechnung, bezahlen, euro, dollar, chf, land, app store, google play, preis, kosten, umrechnung",
+    "relatedFeatures": ["payment_process", "subscription_upgrade"]
+  },
+  {
+    "id": "faq_family_plan_how",
+    "question": "Wie funktioniert der Familienplan genau?",
+    "answer": "Mit dem Familienplan kann der Hauptkontoinhaber bis zu fünf weitere Familienmitglieder (die im selben Haushalt leben) zu seinem Abonnement hinzufügen. Jedes Mitglied erhält einen eigenen Zugang mit persönlichen Playlists und Empfehlungen.",
+    "tags": ["familienplan", "abo", "mehrere nutzer", "einladen", "funktion"],
+    "keywords": "familienplan, family plan, funktion, wie, einladen, hinzufügen, mitglieder, nutzer, haushalt, konto, premium, zugang",
+    "relatedFeatures": ["family_plan_details", "account_sharing"]
+  },
+  {
+    "id": "faq_listening_interruptions",
+    "question": "Was passiert, wenn das Hören unterbrochen wird?",
+    "answer": "Die App merkt sich normalerweise deine Hörposition. Wenn du unterbrochen wirst (z.B. durch einen Anruf), kannst du die Wiedergabe an derselben Stelle fortsetzen. Für die optimale Wirkung ist jedoch ungestörtes Hören am besten.",
+    "tags": ["unterbrechung", "hören", "wiedergabe", "fortsetzen", "problem"],
+    "keywords": "unterbrechung, hören, wiedergabe, pause, anruf, fortsetzen, abspielen, position, speichern, störung",
+    "relatedFeatures": ["audio_playback", "playback_resume"]
+  },
+  {
+    "id": "faq_progress_tracking",
+    "question": "Kann ich meinen Hörfortschritt sehen?",
+    "answer": "Ja, die App bietet Funktionen zur Verfolgung deines Fortschritts. Du kannst oft sehen, welche Audios du wie lange gehört hast und Statistiken zu deiner Nutzung einsehen, meist im Profilbereich.",
+    "tags": ["fortschritt", "tracking", "statistik", "profil", "nutzung"],
+    "keywords": "fortschritt, tracking, verfolgen, statistik, historie, verlauf, gehört, zeit, dauer, profil, übersicht, anzeige",
+    "relatedFeatures": ["profile_activity_tab", "listening_stats"]
+  },
+  {
+    "id": "faq_recommendations_how",
+    "question": "Wie funktionieren die personalisierten Empfehlungen?",
+    "answer": "Unsere Empfehlungen basieren auf deinem Hörverhalten (welche Themen und Audios du magst), deinen expliziten Interessen (falls angegeben) und auf dem, was andere Nutzer mit ähnlichem Geschmack hören. Je mehr du die App nutzt, desto besser werden die Vorschläge.",
+    "tags": ["empfehlungen", "personalisierung", "algorithmus", "funktion"],
+    "keywords": "empfehlungen, vorschläge, personalisiert, personalisierung, wie, funktion, algorithmus, hörverhalten, interessen, ähnlich, nutzer",
+    "relatedFeatures": ["recommendation_engine", "homepage_recommendations"]
+  },
+  {
+    "id": "faq_app_language_vs_audio",
+    "question": "Ist die Sprache der App die gleiche wie die der Audios?",
+    "answer": "Nicht unbedingt. Du kannst die Sprache der App-Oberfläche (Menüs, Buttons) in den Einstellungen ändern. Die Sprache der Audioinhalte selbst (z.B. die gesprochenen Affirmationen) ist festgelegt und wird beim Audio angezeigt (z.B. 'DE' oder 'EN').",
+    "tags": ["sprache", "app", "audio", "unterschied", "einstellungen"],
+    "keywords": "sprache, app, audio, inhalt, oberfläche, menü, einstellungen, ändern, unterschied, deutsch, englisch",
+    "relatedFeatures": ["language_selector", "content_languages"]
+  },
+  {
+    "id": "faq_accessibility",
+    "question": "Ist die App barrierefrei?",
+    "answer": "Wir bemühen uns, die App möglichst barrierefrei zu gestalten und berücksichtigen Standards für Bedienungshilfen (z.B. Screenreader-Unterstützung, anpassbare Schriftgrößen). Wenn du spezifische Probleme feststellst, gib uns bitte Feedback.",
+    "tags": ["barrierefreiheit", "accessibility", "bedienungshilfen", "design"],
+    "keywords": "barrierefrei, barrierefreiheit, accessibility, bedienungshilfen, sehbehinderung, screenreader, kontrast, schriftgröße, behinderung",
+    "relatedFeatures": ["accessibility_features", "feedback_feature"]
+  },
+  {
+    "id": "faq_company_info",
+    "question": "Wer steckt hinter Mindfluence?",
+    "answer": "Mindfluence wird von einem engagierten Team entwickelt, das eine Leidenschaft für persönliches Wachstum und mentale Gesundheit hat. Mehr über unsere Mission und unser Team findest du auf unserer Website im 'Über uns'-Bereich.",
+    "tags": ["über uns", "firma", "team", "mission", "hintergrund"],
+    "keywords": "über uns, firma, unternehmen, team, entwickler, gründer, mission, vision, wer steckt dahinter, hintergrund",
+    "relatedFeatures": ["about_us_page"]
+  },
+  {
+    "id": "faq_partnerships",
+    "question": "Gibt es Kooperationen oder Partnerprogramme?",
+    "answer": "Wir sind offen für Kooperationen, die zu unserer Mission passen. Informationen zu Partnerprogrammen oder Kooperationsanfragen findest du auf unserer Website oder kontaktiere uns direkt über die dort angegebenen Wege.",
+    "tags": ["kooperation", "partner", "zusammenarbeit", "business"],
+    "keywords": "kooperation, partner, partnerprogramm, zusammenarbeit, affiliate, business, anfrage, kontakt",
+    "relatedFeatures": ["partnerships_page", "contact_business"]
+  },
+  {
+    "id": "faq_jobs",
+    "question": "Sucht ihr Mitarbeiter?",
+    "answer": "Offene Stellen und Informationen zu Karrieremöglichkeiten bei Mindfluence findest du auf unserer Website im Karrierebereich. Wir freuen uns immer über talentierte und motivierte Menschen!",
+    "tags": ["jobs", "karriere", "stellenangebote", "mitarbeiter"],
+    "keywords": "jobs, karriere, stellenangebote, arbeiten bei, mitarbeiter, bewerbung, offen, positionen",
+    "relatedFeatures": ["careers_page"]
+  }
+  ,
+  {
+    "id": "faq_binaural_vs_isochronic",
+    "question": "Was ist besser: Binaural Beats oder isochrone Töne?",
+    "answer": "Beide Techniken zielen darauf ab, Gehirnwellen zu beeinflussen. Binaural Beats erfordern Kopfhörer und erzeugen den Effekt im Gehirn, während isochrone Töne rhythmische Pulse sind, die auch über Lautsprecher wirken können. Die empfundene Wirksamkeit ist individuell, probiere am besten beides aus.",
+    "tags": ["binaural beats", "isochrone töne", "vergleich", "technik", "wirkung"],
+    "keywords": "binaural beats, isochrone töne, unterschied, vergleich, was ist besser, wirkung, effektivität, kopfhörer, lautsprecher, technik",
+    "relatedFeatures": ["binaural_beats_explanation", "isochronic_tones_explanation", "faq_headphones_needed"]
+  },
+  {
+    "id": "faq_affirmation_volume",
+    "question": "Kann ich die Lautstärke der Affirmationen separat regeln?",
+    "answer": "In der Regel ist die Lautstärke der unterschwelligen Affirmationen fest im Audio integriert und nicht separat regelbar. Sie sind bewusst so leise gehalten, dass sie unter der bewussten Wahrnehmungsschwelle liegen.",
+    "tags": ["affirmationen", "lautstärke", "subliminal", "einstellungen", "technik"],
+    "keywords": "affirmationen, lautstärke, regeln, einstellen, separat, subliminal, unterschwellig, leise, audio, mix",
+    "relatedFeatures": ["subliminal_explanation", "audio_player_settings"]
+  },
+  {
+    "id": "faq_listening_while_working",
+    "question": "Kann ich die Audios während der Arbeit hören?",
+    "answer": "Audios für Fokus und Konzentration sind oft dafür gedacht, während der Arbeit oder des Lernens gehört zu werden. Tiefenentspannungs- oder Schlaf-Audios sind dafür weniger geeignet. Achte darauf, dass es dich nicht zu sehr ablenkt.",
+    "tags": ["arbeit", "lernen", "fokus", "anwendung", "hören", "konzentration"],
+    "keywords": "arbeit, lernen, während arbeit, hören, büro, fokus, konzentration, audio, subliminal, ablenkung, produktivität",
+    "relatedFeatures": ["topic_focus", "listening_tips"]
+  },
+  {
+    "id": "faq_effects_duration",
+    "question": "Wie lange hält die Wirkung eines Audios an?",
+    "answer": "Die unmittelbare Wirkung (z.B. Entspannung) kann direkt während und kurz nach dem Hören spürbar sein. Langfristige Veränderungen durch Subliminals (z.B. mehr Selbstvertrauen) bauen sich meist über Wochen regelmäßiger Anwendung auf und sollen dann nachhaltig wirken.",
+    "tags": ["wirkung", "dauer", "effekt", "langfristig", "subliminal"],
+    "keywords": "wirkung, dauer, wie lange, anhält, effekt, spürbar, kurzfristig, langfristig, nachhaltig, veränderung, subliminal, anwendung",
+    "relatedFeatures": ["subliminal_explanation", "faq_how_often_listen"]
+  },
+  {
+    "id": "faq_can_i_share_account",
+    "question": "Kann ich mein Konto mit anderen teilen?",
+    "answer": "Ein Standard-Einzelkonto ist nur für die Nutzung durch eine Person vorgesehen. Wenn du Mindfluence mit deiner Familie nutzen möchtest, schau dir bitte unseren Familienplan an, der die Nutzung auf mehreren Geräten im Haushalt erlaubt.",
+    "tags": ["konto teilen", "account sharing", "abo", "familienplan", "nutzung"],
+    "keywords": "konto teilen, account sharing, mehrere nutzer, familie, freunde, abo, abonnement, erlaubnis, bedingungen, familienplan",
+    "relatedFeatures": ["account_sharing_policy", "family_plan_details"]
+  },
+  {
+    "id": "faq_payment_failed",
+    "question": "Meine Zahlung ist fehlgeschlagen, was nun?",
+    "answer": "Bitte überprüfe die Daten deiner hinterlegten Zahlungsmethode (Gültigkeit, Guthaben). Du kannst versuchen, die Zahlungsmethode in deinem Profil zu aktualisieren. Bei anhaltenden Problemen wende dich bitte an den Support.",
+    "tags": ["zahlung fehlgeschlagen", "problem", "abo", "rechnung", "hilfe"],
+    "keywords": "zahlung fehlgeschlagen, zahlungsproblem, abbuchung, fehler, kreditkarte, paypal, abo, abonnement, problem, hilfe, support, aktualisieren",
+    "relatedFeatures": ["payment_error_handling", "profile_subscription_tab", "support_contact"]
+  },
+  {
+    "id": "faq_supported_countries",
+    "question": "In welchen Ländern ist die App verfügbar?",
+    "answer": "Mindfluence ist in vielen Ländern weltweit über den Apple App Store und Google Play Store verfügbar. Die Verfügbarkeit bestimmter Funktionen oder Zahlungsmethoden kann jedoch je nach Land variieren.",
+    "tags": ["verfügbarkeit", "länder", "international", "app store", "google play"],
+    "keywords": "verfügbar, länder, regionen, international, weltweit, app store, google play, download, einschränkungen",
+    "relatedFeatures": ["app_availability", "international_support"]
+  },
+  {
+    "id": "faq_storage_space",
+    "question": "Wie viel Speicherplatz benötigen die Downloads?",
+    "answer": "Der benötigte Speicherplatz hängt von der Länge und Qualität des Audios ab. Längere Sessions oder solche in höherer Qualität benötigen mehr Platz. Du siehst den benötigten Speicher normalerweise vor dem Download und kannst Downloads jederzeit wieder löschen.",
+    "tags": ["speicherplatz", "download", "offline", "technik", "größe"],
+    "keywords": "speicherplatz, größe, download, offline, audio, datei, wie viel, benötigen, voll, verwalten, löschen",
+    "relatedFeatures": ["premium_benefit_offline", "download_management", "storage_requirements"]
+  },
+  {
+    "id": "faq_background_playback",
+    "question": "Kann ich hören, wenn die App im Hintergrund ist oder der Bildschirm aus ist?",
+    "answer": "Ja, die App unterstützt normalerweise die Hintergrundwiedergabe. Du kannst ein Audio starten und dann andere Apps nutzen oder den Bildschirm deines Geräts sperren, die Wiedergabe läuft weiter.",
+    "tags": ["hintergrundwiedergabe", "playback", "funktion", "app", "multitasking"],
+    "keywords": "hintergrund, wiedergabe, abspielen, app geschlossen, bildschirm aus, sperrbildschirm, multitasking, funktion, läuft weiter",
+    "relatedFeatures": ["background_playback"]
+  },
+  {
+    "id": "faq_custom_affirmations",
+    "question": "Kann ich eigene Affirmationen hinzufügen oder verwenden?",
+    "answer": "Derzeit bieten wir keine Funktion an, eigene Affirmationen in unsere Audios zu integrieren. Unsere Inhalte sind sorgfältig von Experten erstellt, um eine optimale Wirkung und Sicherheit zu gewährleisten.",
+    "tags": ["eigene affirmationen", "anpassen", "funktion", "feature request"],
+    "keywords": "eigene affirmationen, hinzufügen, erstellen, benutzerdefiniert, anpassen, audio, funktion, feature, nicht möglich",
+    "relatedFeatures": ["affirmations_explanation", "feedback_feature"]
+  },
+ 
+    {
+    "id": "faq_session_duration_impact",
+    "question": "Macht es einen Unterschied, ob ich 10 oder 30 Minuten höre?",
+    "answer": "Längere Hörzeiten geben deinem Geist mehr Zeit, die Frequenzen und Affirmationen aufzunehmen und zu verarbeiten. Während auch kurze Sessions positive Effekte haben können, empfehlen wir für tiefgreifendere Veränderungen tendenziell längere, regelmäßige Einheiten von 20-30 Minuten oder mehr.",
+    "tags": ["hördauer", "wirkung", "effekt", "zeit", "anwendung", "tipps"],
+    "keywords": "hördauer, dauer, zeit, lang, kurz, unterschied, wirkung, effekt, 10 minuten, 30 minuten, empfehlung, regelmäßig",
+    "relatedFeatures": ["faq_how_often_listen", "listening_tips"]
+    },
+    {
+    "id": "faq_refund_annual_subscription",
+    "question": "Ich habe ein Jahresabo abgeschlossen, kann ich es vorzeitig kündigen und Geld zurückbekommen?",
+    "answer": "Jahresabonnements werden im Voraus für den gesamten Zeitraum bezahlt und bieten dafür einen Preisvorteil. Eine anteilige Rückerstattung bei vorzeitiger Kündigung während des Jahres ist normalerweise nicht vorgesehen. Dein Zugang bleibt bis zum Ende des bezahlten Jahres bestehen.",
+    "tags": ["jahresabo", "kündigung", "rückerstattung", "geld zurück", "bedingungen"],
+    "keywords": "jahresabo, kündigen, vorzeitig, rückerstattung, geld zurück, anteilig, bedingungen, agb, laufzeit",
+    "relatedFeatures": ["subscription_cancel", "refund_policy", "terms_of_service"]
+    },
+    {
+    "id": "faq_payment_security",
+    "question": "Wie sicher ist meine Zahlungsinformation?",
+    "answer": "Wir verwenden etablierte und sichere Zahlungsdienstleister (wie z.B. Stripe), die PCI-DSS-konform sind. Deine vollständigen Kreditkartendaten werden nicht auf unseren Servern gespeichert. Die Übertragung erfolgt stets verschlüsselt.",
+    "tags": ["zahlung", "sicherheit", "kreditkarte", "daten", "verschlüsselung", "pci"],
+    "keywords": "zahlung, sicherheit, zahlungsinformation, kreditkarte, daten, sicher, verschlüsselt, pci dss, stripe, zahlungsdienstleister, speichern",
+    "relatedFeatures": ["payment_security", "data_privacy", "third_party_sharing"]
+    },
+    {
+    "id": "faq_combine_subliminals_meditation",
+    "question": "Kann ich Subliminals gleichzeitig mit Meditation hören?",
+    "answer": "Das ist möglich und kann sich ergänzen. Du kannst ein Subliminal im Hintergrund laufen lassen, während du deine gewohnte Meditationspraxis durchführst. Achte darauf, dass die Gesamtlautstärke angenehm bleibt.",
+    "tags": ["kombinieren", "subliminal", "meditation", "anwendung", "tipps"],
+    "keywords": "kombinieren, subliminal, meditation, gleichzeitig, hören, anwendung, praxis, achtsamkeit, entspannung",
+    "relatedFeatures": ["listening_tips", "topic_meditation"]
+    },
+    {
+    "id": "faq_multitasking_effectiveness",
+    "question": "Wirken die Audios auch, wenn ich nebenbei etwas anderes mache?",
+    "answer": "Subliminals sollen auch wirken, wenn du nicht aktiv zuhörst. Für die beste Wirkung, insbesondere bei Audios zur tiefen Entspannung oder Fokusförderung, ist es jedoch empfehlenswert, dich möglichst ungestört auf das Hörerlebnis einzulassen.",
+    "tags": ["multitasking", "wirkung", "effektivität", "hören", "anwendung"],
+    "keywords": "multitasking, nebenbei, ablenkung, wirkung, effektivität, hören, subliminal, unterbewusstsein, fokus, entspannung, empfehlung",
+    "relatedFeatures": ["listening_tips", "subliminal_explanation"]
+    },
+    {
+    "id": "faq_account_recovery",
+    "question": "Ich habe keinen Zugriff mehr auf meine E-Mail, wie komme ich an mein Konto?",
+    "answer": "In diesem Fall kontaktiere bitte direkt unseren Support. Wir benötigen möglicherweise zusätzliche Informationen, um deine Identität zu verifizieren und dir beim Wiederherstellen deines Kontozugangs zu helfen.",
+    "tags": ["konto wiederherstellen", "login problem", "email verloren", "hilfe", "support"],
+    "keywords": "konto wiederherstellen, zugang verloren, email verloren, kein zugriff, login problem, hilfe, support, verifizierung, identität",
+    "relatedFeatures": ["account_recovery", "support_contact"]
+    },
+    {
+    "id": "faq_sound_quality_issues",
+    "question": "Der Ton klingt schlecht oder verzerrt.",
+    "answer": "Bitte prüfe zuerst deine Kopfhörer und die Verbindung. Teste, ob das Problem auch bei anderen Audios oder Apps auftritt. Versuche, das Audio erneut herunterzuladen (falls offline genutzt) oder prüfe deine Internetverbindung beim Streaming. Kontaktiere ggf. den Support.",
+    "tags": ["tonqualität", "sound problem", "fehler", "verzerrt", "hilfe"],
+    "keywords": "tonqualität, sound, schlecht, verzerrt, knackt, rauscht, probleme, fehler, kopfhörer, verbindung, internet, download, streaming, support",
+    "relatedFeatures": ["audio_quality", "troubleshooting", "support_contact"]
+    },
+    {
+    "id": "faq_shared_wifi",
+    "question": "Kann ich die App im öffentlichen WLAN nutzen?",
+    "answer": "Ja, du kannst die App auch im öffentlichen WLAN nutzen. Achte jedoch auf die Sicherheit solcher Netzwerke, besonders wenn du dich einloggst oder Zahlungsdaten eingibst. Die Datenübertragung zwischen App und Server ist verschlüsselt (HTTPS). Für ungestörtes Hören sind Downloads (Premium) ideal.",
+    "tags": ["wlan", "öffentlich", "sicherheit", "nutzung", "streaming", "download"],
+    "keywords": "wlan, wifi, öffentlich, hotspot, netzwerk, sicherheit, nutzen, streaming, download, verschlüsselung, https",
+    "relatedFeatures": ["security_measures", "premium_benefit_offline"]
+    },
+    {
+    "id": "faq_beta_testing",
+    "question": "Kann ich Beta-Tester werden?",
+    "answer": "Wir führen gelegentlich Beta-Tests für neue Funktionen durch. Wenn wir Tester suchen, kündigen wir dies meist per Newsletter oder auf unseren Social-Media-Kanälen an. Halte dort Ausschau nach Ankündigungen!",
+    "tags": ["beta test", "tester", "neue funktionen", "mitmachen"],
+    "keywords": "beta test, tester, programm, teilnehmen, mitmachen, neue funktionen, vorschau, feedback, ankündigung",
+    "relatedFeatures": ["beta_program", "newsletter_signup"]
+    },
+    {
+    "id": "faq_content_duration_sleep",
+    "question": "Warum sind Schlaf-Audios oft so lang?",
+    "answer": "Längere Schlaf-Audios begleiten dich über einen größeren Teil der Nacht. Sie helfen oft nicht nur beim Einschlafen, sondern auch dabei, einen tiefen, erholsamen Schlaf aufrechtzuerhalten oder nach nächtlichem Erwachen wieder einzuschlafen.",
+    "tags": ["schlaf", "audio", "dauer", "länge", "wirkung", "nacht"],
+    "keywords": "schlaf, audio, dauer, länge, lang, nacht, einschlafen, durchschlafen, tiefschlaf, wirkung, grund",
+    "relatedFeatures": ["topic_sleep", "content_library"]
+    },
+    {
+    "id": "faq_search_tips",
+    "question": "Habt ihr Tipps für die Suche nach Audios?",
+    "answer": "Versuche es mit verschiedenen Stichwörtern, die dein Ziel beschreiben (z.B. 'entspannen', 'loslassen', 'Stress'). Nutze auch die Filter- oder Kategorienfunktionen auf der 'Entdecken'-Seite, um die Auswahl einzugrenzen.",
+    "tags": ["suche", "finden", "tipps", "audio", "entdecken"],
+    "keywords": "suche, suchen, finden, tipps, trick, stichwörter, keywords, filter, kategorien, entdecken, audio, inhalte",
+    "relatedFeatures": ["content_search_general", "discover_page", "search_tips"]
+    },
+    {
+    "id": "faq_cancel_during_trial",
+    "question": "Kann ich während der Testphase kündigen?",
+    "answer": "Ja, du kannst ein Probeabo jederzeit während der kostenlosen Testphase kündigen, um zu verhindern, dass dir nach Ablauf Kosten entstehen. Die Kündigungsoption findest du in deinen Abo-Einstellungen.",
+    "tags": ["testphase", "probeabo", "kündigen", "kostenlos", "frist"],
+    "keywords": "testphase, probeabo, kündigen, während, kostenlos, frist, rechtzeitig, verhindern, kosten, abo, einstellungen",
+    "relatedFeatures": ["subscription_free_trial", "subscription_cancel"]
+    },
+    {
+    "id": "faq_data_usage_streaming",
+    "question": "Verbraucht das Streamen viel Datenvolumen?",
+    "answer": "Audio-Streaming verbraucht Datenvolumen, die Menge hängt von der Audioqualität und der Länge ab. Wenn du viel unterwegs hörst und dein mobiles Datenvolumen schonen möchtest, empfehlen wir Premium-Nutzern, die gewünschten Audios über WLAN herunterzuladen.",
+    "tags": ["datenvolumen", "streaming", "verbrauch", "mobilfunk", "offline"],
+    "keywords": "datenvolumen, verbrauch, streaming, mobilfunk, mobile daten, internet, kosten, viel, offline, download, wlan, sparen",
+    "relatedFeatures": ["streaming_data_usage", "premium_benefit_offline"]
+  },
+   {
+    "id": "faq_subliminals_while_driving",
+    "question": "Darf ich Subliminals beim Autofahren hören?",
+    "answer": "Wir raten dringend davon ab, entspannende oder schlaffördernde Audios (insbesondere mit Binaural Beats) während des Autofahrens oder bei Tätigkeiten zu hören, die deine volle Aufmerksamkeit erfordern. Deine Sicherheit hat oberste Priorität!",
+    "tags": ["autofahren", "sicherheit", "warnung", "hören", "anwendung"],
+    "keywords": "autofahren, autofahrt, fahren, sicherheit, hören, subliminal, binaural beats, entspannung, schlaf, aufmerksamkeit, konzentration, warnung, verboten",
+    "relatedFeatures": ["safety_warning", "listening_tips"]
+  },
+  {
+    "id": "faq_age_restriction",
+    "question": "Gibt es eine Altersbeschränkung für die App?",
+    "answer": "Die Nutzung der App und der Abschluss eines Abonnements unterliegen unseren Nutzungsbedingungen, die in der Regel ein Mindestalter (oft 18 Jahre oder die Zustimmung eines Erziehungsberechtigten) vorsehen. Die Audioinhalte selbst sind für Erwachsene konzipiert.",
+    "tags": ["altersbeschränkung", "jugendschutz", "nutzungsbedingungen", "agb", "mindestalter"],
+    "keywords": "alter, altersbeschränkung, mindestalter, jugendlich, kinder, nutzung, erlaubt, agb, nutzungsbedingungen, eltern, zustimmung",
+    "relatedFeatures": ["terms_of_service", "age_requirement"]
+  },
+  {
+    "id": "faq_evidence_vs_belief",
+    "question": "Muss ich an die Wirkung glauben, damit es funktioniert?",
+    "answer": "Während eine positive Einstellung generell hilfreich sein kann, basiert die Theorie hinter Subliminals und Binaural Beats auf der Beeinflussung von Gehirnwellen und dem Unterbewusstsein, unabhängig vom bewussten Glauben. Regelmäßige Anwendung ist oft wichtiger als der Glaube allein.",
+    "tags": ["glaube", "wirkung", "placebo", "einstellung", "subliminal", "binaural beats"],
+    "keywords": "glaube, glauben, wirkung, funktionieren, placebo, einstellung, positiv, offenheit, wissenschaft, unterbewusstsein, gehirnwellen",
+    "relatedFeatures": ["subliminal_explanation", "binaural_beats_explanation", "faq_scientific_basis"]
+  },
+  {
+    "id": "faq_payment_receipt",
+    "question": "Bekomme ich eine Quittung für meine Zahlung?",
+    "answer": "Ja, nach jeder erfolgreichen Zahlung für dein Abonnement erhältst du normalerweise automatisch eine Bestätigung und eine Rechnung per E-Mail. Du kannst deine Zahlungshistorie und Rechnungen auch in deinem Profil einsehen.",
+    "tags": ["rechnung", "quittung", "beleg", "zahlung", "email", "konto"],
+    "keywords": "rechnung, quittung, beleg, zahlungsbestätigung, email, bekommen, erhalten, zahlung, abo, historie, profil",
+    "relatedFeatures": ["billing_history", "payment_confirmation"]
+  },
+  {
+    "id": "faq_playlist_limit",
+    "question": "Gibt es ein Limit für Playlists oder gespeicherte Tracks?",
+    "answer": "Die genauen Limits können variieren, aber normalerweise kannst du eine große Anzahl an Playlists erstellen und viele Tracks als Favoriten speichern oder (als Premium-Nutzer) herunterladen. Genaue Angaben findest du eventuell in den Feature-Beschreibungen.",
+    "tags": ["limit", "playlist", "favoriten", "download", "anzahl", "speichern"],
+    "keywords": "limit, begrenzung, anzahl, playlists, wiedergabelisten, favoriten, tracks, speichern, herunterladen, download, wie viele",
+    "relatedFeatures": ["playlist_management", "favorites_feature", "download_limit"]
+  },
+  {
+    "id": "faq_offline_playback_quality",
+    "question": "Ist die Qualität der heruntergeladenen Audios anders?",
+    "answer": "Premium-Nutzer haben oft die Möglichkeit, Audios in höherer Qualität herunterzuladen. Die Qualität beim Offline-Hören sollte daher mindestens so gut oder sogar besser sein als beim Streaming, abhängig von den Download-Einstellungen und der ursprünglichen Aufnahme.",
+    "tags": ["offline", "download", "audioqualität", "qualität", "premium"],
+    "keywords": "offline, download, audioqualität, qualität, unterschied, streaming, besser, schlechter, bitrate, premium",
+    "relatedFeatures": ["premium_benefit_offline", "premium_benefit_high_quality", "audio_quality"]
+  },
+   {
+    "id": "faq_pause_subscription",
+    "question": "Kann ich mein Abo pausieren statt zu kündigen?",
+    "answer": "Aktuell bieten wir keine direkte Funktion zum Pausieren eines Abonnements an. Du kannst dein Abo jedoch kündigen, dein Zugang bleibt dann bis zum Ende des bezahlten Zeitraums bestehen. Danach kannst du jederzeit ein neues Abo abschließen.",
+    "tags": ["abo pausieren", "mitgliedschaft", "unterbrechen", "kündigen", "alternative"],
+    "keywords": "abo pausieren, pause, unterbrechen, mitgliedschaft, abonnement, statt kündigen, möglichkeit, funktion",
+    "relatedFeatures": ["subscription_management", "subscription_cancel"]
+  },
+  {
+    "id": "faq_subliminal_language_impact",
+    "question": "Wirken deutsche Subliminals auch, wenn meine Muttersprache Englisch ist?",
+    "answer": "Subliminals wirken auf das Unterbewusstsein. Auch wenn du die Sprache nicht fließend sprichst, kann dein Unterbewusstsein die Bedeutung der positiven Affirmationen oft erfassen. Für die stärkste Wirkung ist es jedoch meist am besten, Audios in deiner Muttersprache oder einer sehr gut beherrschten Sprache zu wählen.",
+    "tags": ["subliminal", "sprache", "wirkung", "muttersprache", "unterbewusstsein"],
+    "keywords": "subliminal, sprache, wirkung, muttersprache, anderssprachig, deutsch, englisch, verstehen, unterbewusstsein, affirmation",
+    "relatedFeatures": ["subliminal_explanation", "content_languages"]
+  },
+  {
+    "id": "faq_isochronic_tones_safety",
+    "question": "Sind isochrone Töne sicher?",
+    "answer": "Ja, isochrone Töne gelten als sicher für die meisten Menschen. Sie sind einfache, rhythmische Pulse. Personen mit Epilepsie oder bestimmten neurologischen Erkrankungen sollten jedoch vorsichtshalber vor der Anwendung einen Arzt konsultieren.",
+    "tags": ["isochrone töne", "sicherheit", "risiken", "gesundheit"],
+    "keywords": "isochrone töne, sicherheit, sicher, gefahr, risiko, nebenwirkungen, epilepsie, neurologisch, gesundheit, arzt fragen",
+    "relatedFeatures": ["isochronic_tones_explanation", "safety_warning", "faq_medical_disclaimer"]
+  },
+  {
+    "id": "faq_listening_with_others",
+    "question": "Kann ich die Audios zusammen mit anderen hören (z.B. Partner)?",
+    "answer": "Reine Subliminals oder isochrone Töne können über Lautsprecher auch von mehreren Personen gleichzeitig gehört werden. Bei Binaural Beats benötigt jedoch jede Person eigene Stereo-Kopfhörer, um den Effekt zu erzielen.",
+    "tags": ["gemeinsam hören", "partner", "anwendung", "lautsprecher", "kopfhörer", "binaural beats"],
+    "keywords": "zusammen hören, gemeinsam, partner, andere personen, lautsprecher, kopfhörer, binaural beats, subliminal, isochrone töne",
+    "relatedFeatures": ["faq_headphones_needed", "listening_tips"]
+  },
+  {
+    "id": "faq_changing_affirmations",
+    "question": "Ändern sich die Affirmationen in den Audios manchmal?",
+    "answer": "Die Kernaffirmationen eines Audios bleiben normalerweise gleich. Wir können jedoch Audios überarbeiten oder neue Versionen mit optimierten Formulierungen oder Techniken veröffentlichen. Solche Updates werden entsprechend gekennzeichnet.",
+    "tags": ["affirmationen", "updates", "änderung", "inhalt", "version"],
+    "keywords": "affirmationen, ändern, updates, version, neu, optimiert, inhalt, audio",
+    "relatedFeatures": ["content_updates", "affirmations_explanation"]
+  },
+  {
+    "id": "faq_delete_downloaded_content",
+    "question": "Wie lösche ich heruntergeladene Inhalte?",
+    "answer": "Gehe zum 'Downloads'- oder 'Offline'-Bereich in der App. Dort findest du eine Liste deiner heruntergeladenen Audios. Normalerweise gibt es bei jedem Eintrag eine Option (z.B. ein Mülleimer-Symbol oder über ein Menü), um den Download wieder zu entfernen.",
+    "tags": ["download", "löschen", "offline", "speicherplatz", "verwalten"],
+    "keywords": "download, löschen, entfernen, offline, inhalte, audio, datei, speicherplatz, verwalten, anleitung",
+    "relatedFeatures": ["download_management", "offline_library"]
+  },
+  {
+    "id": "faq_account_security_tips",
+    "question": "Habt ihr Tipps für die Kontosicherheit?",
+    "answer": "Ja! Verwende ein starkes, einzigartiges Passwort für Mindfluence. Aktiviere die Zwei-Faktor-Authentifizierung (2FA), falls verfügbar. Melde dich auf öffentlichen Geräten immer ab und teile deine Login-Daten mit niemandem.",
+    "tags": ["kontosicherheit", "tipps", "passwort", "2fa", "schutz"],
+    "keywords": "kontosicherheit, sicherheit, tipps, passwort, stark, einzigartig, 2fa, zwei-faktor-authentifizierung, schutz, login, abmelden, daten teilen",
+    "relatedFeatures": ["password_change", "two_factor_auth_setup", "security_best_practices"]
+  },
+  {
+    "id": "faq_push_notifications",
+    "question": "Wofür sind die Push-Benachrichtigungen?",
+    "answer": "Wir nutzen Push-Benachrichtigungen, um dich über neue Inhalte, besondere Angebote oder wichtige Updates zur App zu informieren. Du kannst in den App-Einstellungen festlegen, welche Art von Benachrichtigungen du erhalten möchtest.",
+    "tags": ["push benachrichtigungen", "notifications", "einstellungen", "info", "zweck"],
+    "keywords": "push benachrichtigungen, notifications, mitteilungen, wofür, zweck, inhalt, neu, angebot, update, einstellungen, deaktivieren",
+    "relatedFeatures": ["notification_settings", "profile_preferences_tab"]
+  },
+  {
+    "id": "faq_troubleshooting_general",
+    "question": "Die App funktioniert nicht richtig, was sind erste Schritte?",
+    "answer": "Bei allgemeinen Problemen empfehlen wir folgende Schritte: 1. Internetverbindung prüfen. 2. App komplett schließen und neu starten. 3. Gerät neu starten. 4. App-Cache leeren (in Geräteeinstellungen). 5. Sicherstellen, dass App und Betriebssystem aktuell sind. Wenn das nicht hilft, kontaktiere den Support.",
+    "tags": ["problembehandlung", "troubleshooting", "hilfe", "fehler", "allgemein"],
+    "keywords": "problembehandlung, troubleshooting, hilfe, fehler, funktioniert nicht, app, erste schritte, internet, neustart, cache leeren, update, support",
+    "relatedFeatures": ["troubleshooting", "support_contact", "cache_clearing"]
+  },
+  {
+    "id": "faq_social_media",
+    "question": "Seid ihr auf Social Media?",
+    "answer": "Ja, du findest uns auf verschiedenen Social-Media-Plattformen. Dort teilen wir Inspirationen, Neuigkeiten und treten gerne mit unserer Community in Kontakt. Links dazu findest du auf unserer Website oder in der App.",
+    "tags": ["social media", "facebook", "instagram", "community", "kontakt"],
+    "keywords": "social media, soziale netzwerke, facebook, instagram, twitter, youtube, linkedin, finden, folgen, community, kontakt, links",
+    "relatedFeatures": ["social_media_links", "community_engagement"]
+  },
+
+    {
+    "id": "faq_sleep_audio_types",
+    "question": "Was ist der Unterschied zwischen den verschiedenen Schlaf-Audios?",
+    "answer": "Wir bieten verschiedene Ansätze für besseren Schlaf: Einige nutzen entspannende Musik mit Subliminals, andere fokussieren auf Binaural Beats im Delta-Bereich für Tiefschlaf, und wieder andere sind geführte Einschlafmeditationen. Probiere aus, was für dich am besten wirkt.",
+    "tags": ["schlaf", "audio", "typen", "unterschied", "vergleich", "inhalt"],
+    "keywords": "schlaf, audio, typen, unterschied, vergleich, einschlafen, tiefschlaf, delta, subliminal, binaural beats, meditation, entspannung",
+    "relatedFeatures": ["topic_sleep", "content_library", "content_types"]
+    },
+    {
+    "id": "faq_audio_encoding",
+    "question": "Welches Audioformat und welche Bitrate verwendet ihr?",
+    "answer": "Wir verwenden gängige, effiziente Audioformate wie AAC oder MP3 mit variablen Bitraten, um eine gute Balance zwischen Qualität und Dateigröße/Streaming-Effizienz zu finden. Premium-Nutzer haben oft Zugriff auf höhere Bitraten für noch besseren Klang.",
+    "tags": ["audioformat", "bitrate", "qualität", "technik", "streaming", "premium"],
+    "keywords": "audioformat, encoding, codec, bitrate, qualität, sound, aac, mp3, verlustfrei, streaming, download, technik, premium",
+    "relatedFeatures": ["audio_quality", "premium_benefit_high_quality"]
+    },
+    {
+    "id": "faq_recommendation_data",
+    "question": "Welche Daten fließen genau in die Empfehlungen ein?",
+    "answer": "Die Empfehlungen basieren primär auf deinem Hörverlauf (welche Tracks/Themen du oft hörst, positiv bewertest oder speicherst) und optional auf von dir angegebenen Interessen. Wir nutzen keine externen Daten dafür und geben deinen Hörverlauf nicht weiter.",
+    "tags": ["empfehlungen", "personalisierung", "daten", "algorithmus", "datenschutz"],
+    "keywords": "empfehlungen, personalisierung, daten, grundlage, algorithmus, hörverlauf, hörhistorie, favoriten, bewertungen, interessen, datenschutz",
+    "relatedFeatures": ["recommendation_engine", "data_privacy", "listening_stats"]
+    },
+    {
+    "id": "faq_data_deletion_duration",
+    "question": "Wie lange dauert es, bis meine Daten nach der Kontolöschung entfernt werden?",
+    "answer": "Nach Bestätigung der Kontolöschung werden deine persönlichen Daten gemäß DSGVO-Vorgaben zeitnah aus unseren aktiven Systemen entfernt. Aus technischen oder rechtlichen Gründen (z.B. Backups, Abrechnungsdaten) kann eine vollständige Löschung aus allen Systemen einige Zeit in Anspruch nehmen, typischerweise jedoch nicht länger als gesetzlich vorgeschrieben.",
+    "tags": ["kontolöschung", "daten löschen", "dsgvo", "dauer", "zeitraum"],
+    "keywords": "konto löschen, daten löschen, dauer, wie lange, zeitraum, frist, dsgvo, gdpr, backups, aufbewahrungspflicht",
+    "relatedFeatures": ["account_deletion_process", "data_privacy", "gdpr_user_rights"]
+    },
+    {
+    "id": "faq_payment_paypal_error",
+    "question": "Meine PayPal-Zahlung funktioniert nicht.",
+    "answer": "Bitte prüfe, ob dein PayPal-Konto korrekt verknüpft und gedeckt ist. Manchmal hilft es, die Verknüpfung in den Mindfluence-Einstellungen zu entfernen und neu herzustellen. Überprüfe auch dein PayPal-Konto direkt auf eventuelle Probleme oder Benachrichtigungen.",
+    "tags": ["zahlung", "paypal", "fehler", "problem", "hilfe"],
+    "keywords": "zahlung, paypal, fehler, problem, funktioniert nicht, abbuchung, konto, verknüpfung, guthaben, fehlgeschlagen",
+    "relatedFeatures": ["payment_error_handling", "payment_method_management", "support_contact"]
+    },
+    {
+    "id": "faq_traveling_abroad",
+    "question": "Kann ich die App im Ausland nutzen?",
+    "answer": "Ja, du kannst die App grundsätzlich weltweit nutzen, solange du eine Internetverbindung hast (für Streaming) oder Inhalte offline gespeichert hast (Premium). Beachte, dass Roaming-Gebühren für mobiles Datenvolumen anfallen können.",
+    "tags": ["ausland", "reisen", "nutzung", "international", "internet", "offline"],
+    "keywords": "ausland, reisen, urlaub, international, nutzen, verwendung, internet, wlan, roaming, datenvolumen, offline, download",
+    "relatedFeatures": ["app_availability", "premium_benefit_offline", "streaming_data_usage"]
+    },
+    {
+    "id": "faq_error_code_xyz",
+    "question": "Ich bekomme den Fehlercode XYZ, was bedeutet das?",
+    "answer": "Fehlercodes helfen unserem Support bei der Diagnose. Bitte kontaktiere uns über die Feedback-Funktion oder per E-Mail und nenne uns den genauen Fehlercode sowie eine Beschreibung, wann und wie der Fehler auftritt. Wir helfen dir dann weiter.",
+    "tags": ["fehlercode", "error code", "hilfe", "support", "problem"],
+    "keywords": "fehlercode, error code, bedeutung, was ist das, hilfe, support, problem, diagnose, melden",
+    "relatedFeatures": ["error_handling_general", "support_contact"]
+    },
+    {
+    "id": "faq_gifting_subscription",
+    "question": "Kann ich ein Abo verschenken?",
+    "answer": "Informationen zu Geschenkoptionen oder Gutscheinen für Abonnements findest du möglicherweise auf unserer Website oder im Shop-Bereich der App, falls wir dies anbieten. Alternativ kannst du prüfen, ob dein App Store (Apple/Google) Geschenkkarten anbietet.",
+    "tags": ["abo verschenken", "gutschein", "geschenk", "mitgliedschaft"],
+    "keywords": "abo verschenken, geschenk, gutschein, mitgliedschaft, kaufen für andere, optionen, möglichkeit",
+    "relatedFeatures": ["subscription_gifting", "coupon_feature"]
+    },
+    {
+    "id": "faq_family_plan_profiles",
+    "question": "Hat jedes Mitglied im Familienplan ein eigenes Profil?",
+    "answer": "Ja, im Familienplan hat jedes eingeladene Mitglied sein eigenes, unabhängiges Profil mit persönlichen Playlists, Favoriten, Fortschritten und Empfehlungen. Die Konten sind getrennt.",
+    "tags": ["familienplan", "profile", "mehrere nutzer", "konto", "getrennt"],
+    "keywords": "familienplan, family plan, profil, profile, eigenes konto, getrennt, unabhängig, nutzer, mitglieder, persönlich",
+    "relatedFeatures": ["family_plan_details", "account_management"]
+    },
+    {
+    "id": "faq_accessibility_visual",
+    "question": "Ist die App für Sehbehinderte nutzbar?",
+    "answer": "Wir bemühen uns um eine gute Unterstützung von Screenreadern (wie VoiceOver oder TalkBack) und achten auf ausreichende Kontraste und skalierbare Schriftgrößen. Wenn du konkrete Verbesserungsvorschläge hast, teile sie uns bitte über die Feedback-Funktion mit.",
+    "tags": ["barrierefreiheit", "sehbehinderung", "screenreader", "accessibility", "kontrast"],
+    "keywords": "barrierefreiheit, accessibility, sehbehindert, blind, screenreader, voiceover, talkback, kontrast, schriftgröße, bedienungshilfe",
+    "relatedFeatures": ["accessibility_features", "feedback_feature"]
+    },
+    {
+    "id": "faq_scientific_sources",
+    "question": "Wo finde ich die wissenschaftlichen Quellen?",
+    "answer": "Wir verweisen auf unserer Website im Bereich 'Wissenschaft' oder 'Forschung' auf relevante Studien und Artikel zu den von uns genutzten Technologien wie Binaural Beats oder der Wirkung von Affirmationen. Beachte, dass dies keine medizinische Beratung darstellt.",
+    "tags": ["wissenschaft", "quellen", "studien", "forschung", "belege", "links"],
+    "keywords": "wissenschaft, quellen, studie, studien, forschung, artikel, belege, nachweis, links, referenzen, website",
+    "relatedFeatures": ["scientific_background", "about_us_page"]
+    },
+    {
+    "id": "faq_kids_usage",
+    "question": "Dürfen Kinder die App nutzen?",
+    "answer": "Unsere Inhalte sind primär für Erwachsene konzipiert. Eine Nutzung durch Minderjährige sollte nur unter Aufsicht und mit Zustimmung der Erziehungsberechtigten erfolgen. Beachte auch das Mindestalter in unseren Nutzungsbedingungen für die Kontoerstellung.",
+    "tags": ["kinder", "jugendliche", "altersbeschränkung", "nutzung", "eltern"],
+    "keywords": "kinder, jugendliche, minderjährige, alter, altersbeschränkung, nutzung, erlaubt, eltern, aufsicht, zustimmung, agb",
+    "relatedFeatures": ["terms_of_service", "age_requirement", "parental_guidance"]
+    },
+    {
+    "id": "faq_health_app_integration",
+    "question": "Kann ich Mindfluence mit Apple Health oder Google Fit verbinden?",
+    "answer": "Derzeit bieten wir keine direkte Integration mit Apple Health oder Google Fit an. Wir prüfen jedoch laufend Möglichkeiten, wie wir solche Anbindungen sinnvoll umsetzen könnten.",
+    "tags": ["integration", "apple health", "google fit", "gesundheitsdaten", "feature request"],
+    "keywords": "integration, verbinden, apple health, google fit, gesundheitsdaten, tracking, schlafdaten, achtsamkeit minuten, feature",
+    "relatedFeatures": ["future_plans", "health_integration"]
+    },
+    {
+    "id": "faq_developer_api",
+    "question": "Gibt es eine API für Entwickler?",
+    "answer": "Aktuell stellen wir keine öffentliche API für Drittentwickler zur Verfügung.",
+    "tags": ["api", "entwickler", "integration", "schnittstelle"],
+    "keywords": "api, schnittstelle, entwickler, developer, zugriff, integration, öffentlich",
+    "relatedFeatures": ["developer_api_status"]
+    },
+    {
+    "id": "faq_report_content",
+    "question": "Wie kann ich unangemessene Inhalte melden?",
+    "answer": "Solltest du auf Inhalte stoßen, die du für unangemessen hältst, nutze bitte die Meldefunktion (falls verfügbar) oder kontaktiere unseren Support direkt mit Details zum betreffenden Audio.",
+    "tags": ["melden", "inhalt", "unangemessen", "support", "problem"],
+    "keywords": "melden, report, inhalt, audio, unangemessen, problematisch, feedback, support, kontakt",
+    "relatedFeatures": ["content_reporting", "support_contact"]
+    },
+    {
+    "id": "faq_audio_creators",
+    "question": "Wer erstellt die Audioinhalte?",
+    "answer": "Unsere Audioinhalte werden von einem Team aus erfahrenen Sound-Designern, Experten für Audiotechnologien (Subliminals, Binaural Beats) und oft in Zusammenarbeit mit Coaches oder Therapeuten für den jeweiligen Themenbereich erstellt.",
+    "tags": ["inhaltserstellung", "autoren", "sprecher", "experten", "qualität"],
+    "keywords": "audio, inhalte, erstellen, wer, autoren, sprecher, sound design, experten, coaches, therapeuten, produktion, qualität",
+    "relatedFeatures": ["content_creation", "about_us_page"]
+    },
+    {
+    "id": "faq_account_verification",
+    "question": "Muss ich mein Konto verifizieren?",
+    "answer": "Normalerweise senden wir nach der Registrierung eine E-Mail, um deine E-Mail-Adresse zu bestätigen. Diese Verifizierung ist wichtig, um sicherzustellen, dass du Zugang zu deinem Konto behältst (z.B. für Passwort-Reset).",
+    "tags": ["konto verifizieren", "email bestätigen", "registrierung", "sicherheit"],
+    "keywords": "konto verifizieren, verifizierung, email bestätigen, bestätigung, registrierung, anmeldung, sicherheit, schritt",
+    "relatedFeatures": ["registration_process", "email_verification"]
+    },
+    {
+    "id": "faq_cancel_confirmation_missing",
+    "question": "Ich habe gekündigt, aber keine Bestätigung erhalten.",
+    "answer": "Bitte überprüfe zuerst deinen Spam-Ordner. Wenn du nach einiger Zeit immer noch keine Bestätigungs-E-Mail erhalten hast, logge dich bitte erneut ein und prüfe deinen Abo-Status im Profil. Im Zweifel kontaktiere unseren Support.",
+    "tags": ["kündigung", "bestätigung", "email", "problem", "support"],
+    "keywords": "kündigung, bestätigung, email, nicht erhalten, fehlt, spam, abo status, profil, support, hilfe",
+    "relatedFeatures": ["subscription_cancel", "support_contact", "email_delivery"]
+    },
+    {
+    "id": "faq_why_headphones_binaural",
+    "question": "Warum genau braucht man Kopfhörer für Binaural Beats?",
+    "answer": "Binaural Beats funktionieren, indem jedem Ohr eine leicht unterschiedliche Frequenz präsentiert wird. Nur mit Stereo-Kopfhörern kann sichergestellt werden, dass jedes Ohr die korrekte Frequenz isoliert empfängt. Das Gehirn erzeugt dann aus der Differenz den 'Beat'. Über Lautsprecher würden sich die Frequenzen vermischen.",
+    "tags": ["kopfhörer", "binaural beats", "warum", "technik", "erklärung", "stereo"],
+    "keywords": "warum, kopfhörer, binaural beats, notwendig, erforderlich, technik, erklärung, frequenz, unterschied, ohr, stereo, gehirn, effekt, lautsprecher",
+    "relatedFeatures": ["binaural_beats_explanation", "faq_headphones_needed"]
+  },
+
+    {
+    "id": "faq_error_message_payment_declined",
+    "question": "Was bedeutet die Fehlermeldung 'Zahlung abgelehnt'?",
+    "answer": "Diese Meldung bedeutet, dass deine Bank oder dein Zahlungsanbieter (z.B. Kreditkartenfirma) die Transaktion nicht genehmigt hat. Gründe können unzureichende Deckung, eine abgelaufene Karte, falsche Daten oder Sicherheitssperren sein. Bitte überprüfe deine Zahlungsmethode oder kontaktiere deine Bank.",
+    "tags": ["fehler", "zahlung abgelehnt", "problem", "kreditkarte", "bank"],
+    "keywords": "fehler, fehlermeldung, zahlung abgelehnt, payment declined, kreditkarte, bank, transaktion, nicht erfolgreich, grund, deckung, abgelaufen, support",
+    "relatedFeatures": ["payment_error_handling", "payment_method_management"]
+  },
+  {
+    "id": "faq_difference_basic_premium",
+    "question": "Was ist der genaue Unterschied zwischen Basic und Premium?",
+    "answer": "Im Basic-Plan hast du Zugriff auf eine Auswahl unserer Inhalte, möglicherweise mit Werbung. Premium bietet dir unbegrenzten Zugriff auf alle Audios, werbefreies Hören, Offline-Downloads und oft höhere Audioqualität. Eine detaillierte Feature-Liste findest du auf der Upgrade-Seite.",
+    "tags": ["unterschied", "basic", "premium", "free", "abo", "vergleich"],
+    "keywords": "unterschied, basic, premium, free, kostenlos, abo, vergleich, funktionen, features, werbung, offline, download, qualität",
+    "relatedFeatures": ["subscription_view_plans", "premium_benefits"]
+  },
+  {
+    "id": "faq_guided_imagery",
+    "question": "Nutzt ihr auch geführte Imaginationen?",
+    "answer": "Ja, einige unserer Audios, besonders im Bereich Entspannung oder Zielsetzung, enthalten Elemente der geführten Imagination, bei denen du durch eine beruhigende Stimme angeleitet wirst, dir positive Szenarien vorzustellen.",
+    "tags": ["geführte imagination", "visualisierung", "meditation", "technik", "inhalt"],
+    "keywords": "geführte imagination, geführte visualisierung, meditation, entspannung, technik, anleitung, stimme, vorstellungskraft",
+    "relatedFeatures": ["content_types", "topic_meditation", "topic_relaxation"]
+  },
+  {
+    "id": "faq_storage_full",
+    "question": "Mein Gerätespeicher ist voll, was passiert mit Downloads?",
+    "answer": "Wenn dein Gerätespeicher voll ist, können keine weiteren Audios heruntergeladen werden. Du musst zuerst Speicherplatz freigeben, indem du nicht mehr benötigte Downloads innerhalb der Mindfluence App oder andere Dateien/Apps von deinem Gerät löschst.",
+    "tags": ["speicherplatz voll", "download", "problem", "löschen", "offline"],
+    "keywords": "speicherplatz voll, kein platz, download fehler, problem, offline, dateien, löschen, verwalten, gerät",
+    "relatedFeatures": ["download_management", "storage_requirements", "troubleshooting"]
+  },
+  {
+    "id": "faq_feature_missing",
+    "question": "Ich sehe eine Funktion nicht, die beworben wurde.",
+    "answer": "Manche Funktionen sind möglicherweise nur in bestimmten Premium-Plänen oder neueren App-Versionen verfügbar. Stelle sicher, dass deine App aktuell ist und du den passenden Plan hast. Es kann auch sein, dass die Funktion anders heißt oder an einer anderen Stelle zu finden ist. Der Support hilft dir gerne weiter.",
+    "tags": ["feature fehlt", "funktion nicht da", "problem", "premium", "update"],
+    "keywords": "feature, funktion, fehlt, nicht finden, wo ist, problem, premium, abo, app version, update, support",
+    "relatedFeatures": ["app_features_list", "support_contact", "subscription_view_plans"]
+  },
+  {
+    "id": "faq_company_age",
+    "question": "Wie lange gibt es Mindfluence schon?",
+    "answer": "Informationen zur Geschichte und Gründung von Mindfluence findest du auf unserer Website im 'Über uns'-Bereich.",
+    "tags": ["firma", "geschichte", "gründung", "alter", "über uns"],
+    "keywords": "wie lange, seit wann, gibt es, firma, unternehmen, gründung, geschichte, alter, jahre",
+    "relatedFeatures": ["about_us_page"]
+  },
+  {
+    "id": "faq_data_location",
+    "question": "Wo werden meine Daten gespeichert?",
+    "answer": "Wir nutzen sichere Server-Infrastrukturen. Für Nutzer aus der EU bemühen wir uns primär um die Speicherung der Daten innerhalb der Europäischen Union gemäß DSGVO. Genaue Details zum Speicherort findest du in unserer Datenschutzerklärung.",
+    "tags": ["datenspeicherung", "serverstandort", "dsgvo", "eu", "datenschutz"],
+    "keywords": "daten, speicherung, server, standort, wo, hosting, eu, europa, dsgvo, datenschutz, privacy policy",
+    "relatedFeatures": ["data_privacy", "privacy_policy", "server_infrastructure"]
+  },
+  {
+    "id": "faq_work_device",
+    "question": "Kann ich die App auf meinem Arbeitsgerät nutzen?",
+    "answer": "Technisch kannst du dich auf verschiedenen Geräten anmelden. Bitte beachte jedoch die Richtlinien deines Arbeitgebers bezüglich der Installation und Nutzung privater Apps auf Firmengeräten.",
+    "tags": ["arbeitsgerät", "firmengerät", "nutzung", "richtlinie", "datenschutz"],
+    "keywords": "arbeitsgerät, firmengerät, diensthandy, laptop, nutzen, installation, erlaubt, richtlinie, arbeitgeber, datenschutz",
+    "relatedFeatures": ["device_compatibility", "terms_of_service"]
+  },
+   {
+    "id": "faq_specific_frequencies_meaning",
+    "question": "Was bedeuten die spezifischen Frequenzen wie 5Hz oder 10Hz?",
+    "answer": "Diese Frequenzen beziehen sich auf die Gehirnwellenbereiche. Zum Beispiel liegen 4-8Hz im Theta-Bereich (tiefe Entspannung, Meditation), 8-12Hz im Alpha-Bereich (entspannter Wachzustand), usw. Die gewählte Frequenz im Binaural Beat soll das Gehirn anregen, in diesem Bereich zu schwingen.",
+    "tags": ["frequenzen", "binaural beats", "gehirnwellen", "hertz", "bedeutung", "technik"],
+    "keywords": "frequenzen, hertz, hz, 5hz, 10hz, bedeutung, gehirnwellen, delta, theta, alpha, beta, gamma, binaural beats, technik",
+    "relatedFeatures": ["binaural_beats_explanation", "brainwave_entrainment"]
+  },
+  {
+    "id": "faq_stereo_mono_headphones",
+    "question": "Müssen es Stereo-Kopfhörer sein oder gehen auch Mono?",
+    "answer": "Für Binaural Beats sind Stereo-Kopfhörer (die linken und rechten Kanal getrennt wiedergeben) absolut notwendig, da der Effekt auf der Differenz der Frequenzen zwischen beiden Ohren basiert. Mit Mono-Kopfhörern funktioniert dieser Effekt nicht.",
+    "tags": ["kopfhörer", "stereo", "mono", "binaural beats", "technik", "voraussetzung"],
+    "keywords": "kopfhörer, stereo, mono, unterschied, voraussetzung, notwendig, binaural beats, technik, effekt",
+    "relatedFeatures": ["faq_headphones_needed", "binaural_beats_explanation"]
+  },
+  {
+    "id": "faq_listening_volume_binaural",
+    "question": "Wie laut sollte ich Binaural Beats hören?",
+    "answer": "Höre Binaural Beats mit einer moderaten, angenehmen Lautstärke, bei der du die pulsierenden Töne klar, aber nicht aufdringlich oder unangenehm wahrnimmst. Eine sehr hohe Lautstärke ist nicht notwendig und kann kontraproduktiv sein.",
+    "tags": ["lautstärke", "binaural beats", "hören", "empfehlung", "tipps"],
+    "keywords": "lautstärke, binaural beats, hören, empfehlung, wie laut, moderat, angenehm, leise, pegel",
+    "relatedFeatures": ["faq_volume_recommendation", "listening_tips", "binaural_beats_explanation"]
+  },
+  {
+    "id": "faq_feeling_nothing",
+    "question": "Ich höre die Audios, aber spüre (noch) nichts. Ist das normal?",
+    "answer": "Ja, das ist völlig normal, besonders am Anfang. Die Wirkung von Subliminals und auch Binaural Beats ist oft subtil und baut sich über Zeit und bei regelmäßiger Anwendung auf. Gib dem Prozess etwas Zeit und Geduld.",
+    "tags": ["wirkung", "effekt", "fühle nichts", "geduld", "anwendung", "normal"],
+    "keywords": "wirkung, effekt, spüre nichts, fühle nichts, kein unterschied, normal, geduld, zeit, prozess, regelmäßig, anwendung, subliminal, binaural beats",
+    "relatedFeatures": ["subliminal_explanation", "binaural_beats_explanation", "faq_how_often_listen"]
+  },
+  {
+    "id": "faq_headache_discomfort",
+    "question": "Ich bekomme Kopfschmerzen oder fühle mich unwohl beim Hören.",
+    "answer": "Das sollte nicht sein. Reduziere sofort die Lautstärke oder mache eine Pause. Wenn du Binaural Beats hörst, stelle sicher, dass die Lautstärke sehr moderat ist. Bei anhaltendem Unwohlsein höre bitte auf und konsultiere ggf. einen Arzt, besonders wenn du vorbelastet bist.",
+    "tags": ["nebenwirkungen", "kopfschmerzen", "unwohlsein", "problem", "warnung"],
+    "keywords": "kopfschmerzen, unwohl, schwindel, übelkeit, nebenwirkungen, problem, hören, lautstärke, pause, arzt, warnung",
+    "relatedFeatures": ["safety_warning", "faq_medical_disclaimer", "listening_tips"]
+  },
+  {
+    "id": "faq_managing_family_members",
+    "question": "Wie verwalte ich die Mitglieder meines Familienplans?",
+    "answer": "Als Hauptinhaber des Familienplans findest du die Mitgliederverwaltung normalerweise in deinen Abo-Einstellungen. Dort kannst du Mitglieder einladen (meist per E-Mail) oder entfernen.",
+    "tags": ["familienplan", "verwalten", "mitglieder", "einladen", "entfernen", "abo"],
+    "keywords": "familienplan, family plan, verwalten, administration, mitglieder, hinzufügen, einladen, entfernen, löschen, abo, einstellungen",
+    "relatedFeatures": ["family_plan_details", "account_sharing", "profile_subscription_tab"]
+  },
+  {
+    "id": "faq_switching_devices_playback",
+    "question": "Kann ich auf einem Gerät anhalten und auf einem anderen weiterhören?",
+    "answer": "Ja, dank der Synchronisation deines Kontos wird deine Hörposition normalerweise gespeichert. Wenn du die Wiedergabe auf einem Gerät stoppst, solltest du auf einem anderen Gerät, auf dem du mit demselben Konto angemeldet bist, an dieser Stelle weitermachen können.",
+    "tags": ["geräte synchronisation", "fortsetzen", "playback", "konto", "wechseln"],
+    "keywords": "gerätewechsel, geräte, synchronisation, fortschritt, wiedergabe, anhalten, fortsetzen, weiterhören, konto, nahtlos",
+    "relatedFeatures": ["account_sync", "playback_resume", "multi_device_support"]
+  },
+  {
+    "id": "faq_subscription_payment_date",
+    "question": "Wann wird mein Abo immer abgebucht?",
+    "answer": "Dein Abonnement wird normalerweise immer am selben Tag des Monats (bei Monatsabos) oder Jahres (bei Jahresabos) abgebucht, der dem Startdatum deines Abos entspricht. Das genaue nächste Abrechnungsdatum findest du in deinen Abo-Details im Profil.",
+    "tags": ["abbuchung", "zahlung", "datum", "abo", "rechnung", "zyklus"],
+    "keywords": "abbuchung, zahlung, datum, wann, tag, monat, jahr, abrechnung, zyklus, periode, fälligkeit, abo, profil",
+    "relatedFeatures": ["profile_subscription_tab", "billing_cycle"]
+  },
+  {
+    "id": "faq_contact_support_response_time",
+    "question": "Wie schnell antwortet der Support?",
+    "answer": "Wir bemühen uns, alle Support-Anfragen so schnell wie möglich zu beantworten, normalerweise innerhalb von 1-2 Werktagen. Die genaue Antwortzeit kann je nach Aufkommen variieren.",
+    "tags": ["support", "antwortzeit", "kontakt", "kundendienst", "dauer"],
+    "keywords": "support, antwortzeit, wie schnell, dauer, bearbeitung, kundendienst, kundenservice, kontakt, email, ticket",
+    "relatedFeatures": ["support_contact", "service_level"]
+  },
+  {
+    "id": "faq_background_data_usage",
+    "question": "Verbraucht die App auch Daten, wenn ich sie nicht aktiv nutze?",
+    "answer": "Normalerweise verbraucht die App nur dann nennenswert Daten, wenn du aktiv streamst oder Inhalte herunterlädst. Hintergrundaktivitäten wie die Synchronisation von Playlists oder das Prüfen auf Benachrichtigungen verbrauchen nur sehr geringe Datenmengen.",
+    "tags": ["datenverbrauch", "hintergrund", "app", "inaktiv", "synchronisation"],
+    "keywords": "datenverbrauch, datenvolumen, hintergrund, inaktiv, app geschlossen, synchronisation, push, benachrichtigungen, wenig, minimal",
+    "relatedFeatures": ["background_activity", "app_performance"]
+  },
+
+    {
+    "id": "faq_dislike_background_music",
+    "question": "Was, wenn mir die Musik bei den Subliminals nicht gefällt?",
+    "answer": "Wir versuchen, neutrale und angenehme Hintergrundmusik oder Naturgeräusche zu verwenden. Da Geschmäcker verschieden sind, bieten wir eventuell auch Varianten mit reinen Tönen oder nur den Affirmationen an. Prüfe die Audiobeschreibung oder nutze die Feedback-Funktion für Wünsche.",
+    "tags": ["musik", "hintergrund", "geschmack", "subliminal", "auswahl", "feedback"],
+    "keywords": "musik, hintergrundmusik, gefällt nicht, geschmack, alternative, auswahl, naturgeräusche, reine töne, ohne musik, feedback",
+    "relatedFeatures": ["content_library", "feedback_feature"]
+  },
+  {
+    "id": "faq_affirmation_voice_gender",
+    "question": "Sind die Affirmationen mit männlicher oder weiblicher Stimme?",
+    "answer": "Die Stimme in den Affirmationen kann variieren. Manche sind neutral gehalten, andere nutzen spezifisch männliche oder weibliche Stimmen, je nachdem, was für das Thema als passender empfunden wird. Informationen dazu findest du oft in der Audiobeschreibung.",
+    "tags": ["affirmationen", "stimme", "geschlecht", "subliminal", "inhalt"],
+    "keywords": "affirmationen, stimme, sprecher, geschlecht, männlich, weiblich, neutral, audio, beschreibung, inhalt",
+    "relatedFeatures": ["affirmations_explanation", "content_details"]
+  },
+  {
+    "id": "faq_request_specific_frequency",
+    "question": "Kann ich eine bestimmte Binaural Beat Frequenz anfordern?",
+    "answer": "Derzeit bieten wir keine individuell konfigurierbaren Frequenzen an. Unsere Audios verwenden Frequenzen, die basierend auf Forschung und dem jeweiligen Ziel (z.B. Entspannung, Fokus) ausgewählt wurden. Du kannst aber gerne Feedback geben, welche Frequenzbereiche dich interessieren.",
+    "tags": ["binaural beats", "frequenz", "anfordern", "wunsch", "feature request", "technik"],
+    "keywords": "binaural beats, frequenz, spezifisch, anfordern, wünschen, auswählen, einstellen, feature, feedback, hertz",
+    "relatedFeatures": ["binaural_beats_explanation", "feedback_feature"]
+  },
+  {
+    "id": "faq_trial_ended_early",
+    "question": "Meine kostenlose Testphase ist unerwartet abgelaufen.",
+    "answer": "Bitte überprüfe das genaue Start- und Enddatum deiner Testphase in der Bestätigungs-E-Mail oder in deinen Abo-Einstellungen. Solltest du glauben, dass ein Fehler vorliegt, kontaktiere bitte unseren Support mit den relevanten Details.",
+    "tags": ["testphase", "probeabo", "abgelaufen", "fehler", "problem", "support"],
+    "keywords": "testphase, probeabo, abgelaufen, zu früh, unerwartet, fehler, problem, abo, status, support, hilfe",
+    "relatedFeatures": ["subscription_free_trial", "support_contact", "profile_subscription_tab"]
+  },
+  {
+    "id": "faq_confirm_cancellation",
+    "question": "Wie weiß ich sicher, dass mein Abo gekündigt ist?",
+    "answer": "Nach erfolgreicher Kündigung solltest du eine Bestätigungs-E-Mail erhalten. Zusätzlich kannst du den Status jederzeit in deinem Profil unter 'Abonnement' überprüfen. Dort sollte stehen 'Gekündigt' oder angezeigt werden, dass es zum [Datum] ausläuft und sich nicht automatisch verlängert.",
+    "tags": ["kündigung", "bestätigung", "status", "abo", "sicher sein"],
+    "keywords": "kündigung, bestätigung, sicher sein, status, abo, abonnement, gekündigt, auslaufen, keine verlängerung, profil, überprüfen",
+    "relatedFeatures": ["subscription_cancel", "profile_subscription_tab", "email_confirmation"]
+  },
+  {
+    "id": "faq_student_discount",
+    "question": "Gibt es einen Rabatt für Studenten?",
+    "answer": "Informationen zu möglichen Rabatten, z.B. für Studenten, Schüler oder andere Gruppen, findest du auf unserer Website oder auf der Upgrade-Seite, falls wir solche Aktionen aktuell anbieten.",
+    "tags": ["rabatt", "studenten", "schüler", "angebot", "preisnachlass", "kosten"],
+    "keywords": "rabatt, studenten, schüler, auszubildende, discount, angebot, preisnachlass, ermäßigung, kosten, abo",
+    "relatedFeatures": ["discounts_page", "subscription_upgrade"]
+  },
+  {
+    "id": "faq_feedback_rejected",
+    "question": "Warum wurde mein Feedback abgelehnt oder nicht umgesetzt?",
+    "answer": "Wir prüfen jedes Feedback sorgfältig. Nicht jeder Vorschlag kann jedoch sofort oder überhaupt umgesetzt werden, da wir technische Machbarkeit, die Nachfrage anderer Nutzer und unsere Gesamtstrategie berücksichtigen müssen. Wir schätzen deine Eingabe aber sehr!",
+    "tags": ["feedback", "abgelehnt", "umsetzung", "grund", "feature request"],
+    "keywords": "feedback, vorschlag, idee, abgelehnt, nicht umgesetzt, warum, grund, priorisierung, roadmap, strategie",
+    "relatedFeatures": ["feedback_process", "future_plans"]
+  },
+  {
+    "id": "faq_downloads_after_expiration",
+    "question": "Was passiert mit meinen Downloads, wenn mein Premium-Abo ausläuft?",
+    "answer": "Heruntergeladene Inhalte sind normalerweise nur mit einem aktiven Premium-Abonnement abspielbar. Wenn dein Abo ausläuft, verlierst du in der Regel den Zugriff auf die Offline-Audios, auch wenn sie noch auf deinem Gerät gespeichert sind.",
+    "tags": ["download", "offline", "abo abgelaufen", "premium", "zugriff"],
+    "keywords": "download, offline, abo abgelaufen, premium ende, zugriff, hören, abspielen, nicht mehr verfügbar, gelöscht",
+    "relatedFeatures": ["premium_benefit_offline", "subscription_expiration"]
+  },
+  {
+    "id": "faq_smart_tv_usage",
+    "question": "Kann ich die App auf meinem Smart TV nutzen?",
+    "answer": "Derzeit bieten wir keine dedizierte App für Smart TVs an. Du könntest eventuell den Ton von deinem Smartphone oder Tablet über Bluetooth oder andere Casting-Methoden an deinen Fernseher übertragen, aber eine native TV-App gibt es nicht.",
+    "tags": ["smart tv", "fernseher", "app", "kompatibilität", "streaming"],
+    "keywords": "smart tv, fernseher, app, nutzen, installation, kompatibel, streaming, casting, bluetooth, airplay, chromecast",
+    "relatedFeatures": ["device_compatibility", "casting_feature"]
+  }
+  ,
+    {
+    "id": "faq_binaural_beats_how_long",
+    "question": "Wie lange dauert es, bis Binaural Beats wirken?",
+    "answer": "Die entspannende oder fokussierende Wirkung von Binaural Beats kann oft schon nach wenigen Minuten Hördauer einsetzen. Für eine tiefere und nachhaltigere Wirkung, z.B. auf den Schlaf, wird jedoch eine regelmäßige Anwendung über längere Zeit empfohlen.",
+    "tags": ["binaural beats", "wirkung", "dauer", "zeit", "effekt", "schnell"],
+    "keywords": "binaural beats, wirkung, dauer, wie lange, zeit, effekt, schnell, sofort, kurzfristig, langfristig, anwendung",
+    "relatedFeatures": ["binaural_beats_explanation", "faq_how_often_listen"]
+  },
+  {
+    "id": "faq_multiple_accounts",
+    "question": "Kann ich mehrere Konten haben?",
+    "answer": "Unsere Nutzungsbedingungen sehen normalerweise ein Konto pro Person vor. Die Verwaltung mehrerer Konten ist nicht vorgesehen und kann zu Problemen führen. Für die Nutzung durch mehrere Personen empfehlen wir unseren Familienplan.",
+    "tags": ["mehrere konten", "account", "nutzungsbedingungen", "erlaubt", "familienplan"],
+    "keywords": "mehrere konten, zweites konto, account, erstellen, erlaubt, nutzungsbedingungen, agb, pro person, familienplan",
+    "relatedFeatures": ["terms_of_service", "family_plan_details"]
+  },
+  {
+    "id": "faq_payment_options_change",
+    "question": "Werden sich die akzeptierten Zahlungsmethoden ändern?",
+    "answer": "Wir prüfen laufend, ob wir weitere gängige und sichere Zahlungsmethoden hinzufügen können, um den Bezahlvorgang für unsere Nutzer so einfach wie möglich zu gestalten. Ankündigungen dazu findest du in den App-Updates oder auf unserer Website.",
+    "tags": ["zahlungsmethoden", "zukunft", "änderung", "optionen", "planung"],
+    "keywords": "zahlungsmethoden, zukunft, änderung, neue, optionen, hinzufügen, planung, roadmap",
+    "relatedFeatures": ["payment_methods", "future_plans"]
+  },
+  {
+    "id": "faq_subliminals_list",
+    "question": "Wo sehe ich eine Liste aller verfügbaren Subliminals?",
+    "answer": "Eine vollständige Liste findest du am besten, indem du die 'Entdecken'-Seite der App erkundest und dort nach Kategorien oder Themen filterst. Die Bibliothek wird ständig erweitert.",
+    "tags": ["liste", "übersicht", "subliminal", "audio", "inhalt", "finden"],
+    "keywords": "liste, übersicht, alle, subliminals, audios, inhalte, katalog, bibliothek, finden, entdecken, app",
+    "relatedFeatures": ["content_library", "discover_page"]
+  },
+  {
+    "id": "faq_download_wifi_only",
+    "question": "Kann ich einstellen, dass Downloads nur über WLAN erfolgen?",
+    "answer": "Ja, in den App-Einstellungen gibt es normalerweise eine Option, um Downloads auf WLAN-Verbindungen zu beschränken. So vermeidest du unerwarteten Verbrauch deines mobilen Datenvolumens.",
+    "tags": ["download", "wlan", "einstellung", "datenvolumen", "mobilfunk"],
+    "keywords": "download, nur wlan, wifi only, einstellung, datenvolumen, mobile daten, sparen, beschränken, app",
+    "relatedFeatures": ["app_settings", "download_settings", "streaming_data_usage"]
+  },
+  {
+    "id": "faq_favorite_feature",
+    "question": "Wie kann ich Audios als Favoriten speichern?",
+    "answer": "Bei den meisten Audios findest du ein Herz-Symbol oder eine ähnliche Markierung. Tippe darauf, um das Audio zu deinen persönlichen Favoriten hinzuzufügen. Deine Favoritenliste findest du dann meist in deinem Profil oder in der Bibliothek.",
+    "tags": ["favoriten", "speichern", "merken", "funktion", "playlist"],
+    "keywords": "favoriten, speichern, merken, markieren, herz, symbol, liste, finden, verwalten, funktion",
+    "relatedFeatures": ["favorites_feature", "playlist_management"]
+  },
+  {
+    "id": "faq_search_history",
+    "question": "Wird mein Suchverlauf gespeichert?",
+    "answer": "Um die Suchfunktion zu verbessern und dir relevantere Vorschläge zu machen, speichern wir möglicherweise anonymisierte Suchanfragen. Dein persönlicher Suchverlauf wird jedoch in der Regel nicht dauerhaft gespeichert oder für andere sichtbar gemacht. Details findest du in der Datenschutzerklärung.",
+    "tags": ["suche", "verlauf", "historie", "speichern", "datenschutz"],
+    "keywords": "suche, suchverlauf, suchhistorie, speichern, protokoll, datenschutz, privacy, anonym",
+    "relatedFeatures": ["content_search_general", "data_privacy", "privacy_policy"]
+  },
+  {
+    "id": "faq_offline_storage_location",
+    "question": "Wo auf meinem Gerät werden die Downloads gespeichert?",
+    "answer": "Die heruntergeladenen Audios werden im gesicherten, internen Speicherbereich der App abgelegt. Du kannst normalerweise nicht direkt über den Dateimanager deines Geräts darauf zugreifen, sondern nur über die 'Downloads'-Sektion innerhalb der Mindfluence App.",
+    "tags": ["download", "speicherort", "offline", "datei", "interner speicher"],
+    "keywords": "download, speicherort, wo gespeichert, datei, pfad, interner speicher, sd karte, zugriff, dateimanager, app",
+    "relatedFeatures": ["download_management", "offline_library", "app_storage"]
+  },
+  {
+    "id": "faq_refund_request_how",
+    "question": "Wie beantrage ich eine Rückerstattung?",
+    "answer": "Rückerstattungsanfragen müssen gemäß unseren AGB und den Richtlinien des App Stores (Apple App Store oder Google Play Store), über den der Kauf getätigt wurde, gestellt werden. Kontaktiere im Zweifelsfall unseren Support für weitere Informationen.",
+    "tags": ["rückerstattung", "beantragen", "prozess", "abo", "kauf", "support"],
+    "keywords": "rückerstattung, beantragen, anfordern, wie, prozess, geld zurück, abo, kauf, app store, google play, support",
+    "relatedFeatures": ["refund_policy", "support_contact", "terms_of_service"]
+  },
+  {
+    "id": "faq_background_battery_usage",
+    "question": "Verbraucht die App im Hintergrund viel Akku?",
+    "answer": "Die Hintergrundwiedergabe von Audio verbraucht natürlich Akku. Wir optimieren die App jedoch, um den Verbrauch so gering wie möglich zu halten. Der tatsächliche Verbrauch hängt von deinem Gerät und der Nutzungsdauer ab.",
+    "tags": ["akkuverbrauch", "batterie", "hintergrund", "playback", "performance"],
+    "keywords": "akku, batterie, verbrauch, hintergrund, wiedergabe, playback, viel, optimierung, performance",
+    "relatedFeatures": ["background_playback", "app_performance"]
+  },
+ 
+    {
+    "id": "faq_subliminal_custom_music",
+    "question": "Kann ich meine eigene Musik mit den Subliminals kombinieren?",
+    "answer": "Nein, die App bietet keine Funktion, eigene Musikdateien mit unseren subliminalen Spuren zu mischen. Unsere Audios sind als Gesamtkomposition konzipiert.",
+    "tags": ["eigene musik", "kombinieren", "subliminal", "feature", "anpassen"],
+    "keywords": "eigene musik, hinzufügen, kombinieren, mischen, subliminal, affirmation, audio, funktion, nicht möglich",
+    "relatedFeatures": ["content_types", "feature_request"]
+    },
+    {
+    "id": "faq_transfer_subscription",
+    "question": "Kann ich mein Abo auf eine andere Person übertragen?",
+    "answer": "Nein, Abonnements sind personengebunden und können nicht auf andere Benutzerkonten übertragen werden. Wenn jemand anderes die App nutzen möchte, muss diese Person ein eigenes Konto und ggf. ein eigenes Abo abschließen.",
+    "tags": ["abo übertragen", "mitgliedschaft", "konto", "weitergeben", "nutzungsbedingungen"],
+    "keywords": "abo übertragen, weitergeben, mitgliedschaft, konto, andere person, nutzungsbedingungen, agb, nicht erlaubt",
+    "relatedFeatures": ["terms_of_service", "account_management"]
+    },
+    {
+    "id": "faq_why_email_verification",
+    "question": "Warum muss ich meine E-Mail-Adresse bestätigen?",
+    "answer": "Die Bestätigung deiner E-Mail-Adresse dient deiner Sicherheit. Sie stellt sicher, dass die Adresse korrekt ist und nur du Zugriff darauf hast. Dies ist wichtig für die Kontowiederherstellung (z.B. Passwort vergessen) und wichtige Benachrichtigungen.",
+    "tags": ["email bestätigen", "verifizierung", "sicherheit", "konto", "grund"],
+    "keywords": "email bestätigen, verifizierung, warum, grund, sicherheit, konto, passwort vergessen, wiederherstellung, benachrichtigung",
+    "relatedFeatures": ["email_verification", "account_security"]
+    },
+    {
+    "id": "faq_playlist_sharing",
+    "question": "Kann ich meine Playlists mit Freunden teilen?",
+    "answer": "Ob Playlists geteilt werden können, hängt von den aktuellen Funktionen der App ab. Prüfe, ob es bei deinen Playlists eine 'Teilen'-Option gibt. Beachte, dass der Empfänger ebenfalls einen Mindfluence-Account benötigt, um die Playlist anzuhören.",
+    "tags": ["playlist teilen", "sharing", "freunde", "community", "funktion"],
+    "keywords": "playlist teilen, wiedergabeliste, sharing, freunde, senden, community, funktion, möglichkeit",
+    "relatedFeatures": ["playlist_sharing", "community_features"]
+    },
+    {
+    "id": "faq_explicit_content",
+    "question": "Enthalten die Audios explizite Inhalte?",
+    "answer": "Nein, unsere Audioinhalte sind darauf ausgelegt, positiv und unterstützend zu sein. Sie enthalten keine expliziten oder schädlichen Botschaften.",
+    "tags": ["inhalt", "explizit", "sicherheit", "affirmationen", "warnung"],
+    "keywords": "explizit, inhalt, gewalt, sexuell, schädlich, warnung, sicherheit, positiv, affirmationen",
+    "relatedFeatures": ["content_policy", "faq_are_subliminals_safe"]
+    },
+    {
+    "id": "faq_payment_failed_subscription_impact",
+    "question": "Was passiert mit meinem Abo, wenn eine Zahlung fehlschlägt?",
+    "answer": "Wenn eine Zahlung fehlschlägt, werden wir dich normalerweise benachrichtigen und versuchen, die Zahlung erneut durchzuführen. Wenn die Zahlung weiterhin fehlschlägt, kann dein Premium-Zugang vorübergehend eingeschränkt oder dein Abo gekündigt werden, bis die Zahlung erfolgreich ist. Bitte aktualisiere deine Zahlungsmethode.",
+    "tags": ["zahlung fehlgeschlagen", "abo status", "problem", "kündigung", "premium"],
+    "keywords": "zahlung fehlgeschlagen, abo, status, auswirkung, premium, zugang, eingeschränkt, gekündigt, problem, zahlungsmethode aktualisieren",
+    "relatedFeatures": ["payment_error_handling", "subscription_status", "profile_subscription_tab"]
+    },
+    {
+    "id": "faq_account_hacked",
+    "question": "Ich glaube, mein Konto wurde gehackt. Was soll ich tun?",
+    "answer": "Bitte ändere sofort dein Passwort über die 'Passwort vergessen'-Funktion, falls möglich. Kontaktiere umgehend unseren Support und beschreibe die Situation. Überprüfe auch deine hinterlegte E-Mail auf verdächtige Aktivitäten und sichere diese ebenfalls ab.",
+    "tags": ["konto gehackt", "sicherheit", "problem", "hilfe", "support", "passwort"],
+    "keywords": "konto gehackt, hacker, sicherheit, problem, passwort, zugriff, fremdzugriff, hilfe, support, melden, passwort ändern",
+    "relatedFeatures": ["account_security", "support_contact", "password_reset_process"]
+    },
+    {
+    "id": "faq_offline_limit",
+    "question": "Gibt es ein Limit, wie viele Audios ich herunterladen kann?",
+    "answer": "Die Anzahl der möglichen Downloads kann je nach deinem Premium-Plan und dem verfügbaren Speicherplatz auf deinem Gerät begrenzt sein. Genaue Limits, falls vorhanden, findest du in den Abo-Details oder den App-Einstellungen.",
+    "tags": ["download limit", "offline", "premium", "anzahl", "speicherplatz"],
+    "keywords": "download limit, begrenzung, anzahl, wie viele, offline, audio, speichern, premium, speicherplatz",
+    "relatedFeatures": ["premium_benefit_offline", "download_limit", "storage_requirements"]
+    },
+    {
+    "id": "faq_sound_normalization",
+    "question": "Ist die Lautstärke zwischen verschiedenen Audios angeglichen?",
+    "answer": "Wir bemühen uns um eine konsistente Grundlautstärke unserer Produktionen (Sound Normalization). Dennoch kann es aufgrund unterschiedlicher Musik oder Effekte leichte wahrgenommene Lautstärkeunterschiede geben. Du kannst die Lautstärke jederzeit im Player anpassen.",
+    "tags": ["lautstärke", "normalisierung", "sound", "konsistenz", "audioqualität"],
+    "keywords": "lautstärke, normalisierung, sound normalization, konsistent, angeglichen, unterschiede, audio, qualität, pegel",
+    "relatedFeatures": ["audio_quality", "audio_player_volume"]
+    },
+    {
+    "id": "faq_contact_privacy_officer",
+    "question": "Wie erreiche ich den Datenschutzbeauftragten?",
+    "answer": "Die Kontaktdaten unseres Datenschutzbeauftragten (falls benannt) oder der zuständigen Stelle für Datenschutzanfragen findest du in unserer Datenschutzerklärung.",
+    "tags": ["datenschutzbeauftragter", "kontakt", "dsgvo", "privacy"],
+    "keywords": "datenschutzbeauftragter, dsb, kontakt, erreichen, email, adresse, datenschutz, dsgvo, privacy policy",
+    "relatedFeatures": ["data_privacy", "privacy_policy", "support_contact"]
+  },
+  
+  {
+    "id": "faq_iso_vs_binaural_headphones",
+    "question": "Brauche ich für isochrone Töne auch Kopfhörer?",
+    "answer": "Nein, im Gegensatz zu Binaural Beats benötigen isochrone Töne technisch keine Kopfhörer, da der pulsierende Effekt nicht durch Frequenzunterschiede zwischen den Ohren erzeugt wird. Sie können auch über Lautsprecher gehört werden, wobei Kopfhörer Ablenkungen reduzieren können.",
+    "tags": ["isochrone töne", "kopfhörer", "technik", "anwendung", "lautsprecher"],
+    "keywords": "isochrone töne, kopfhörer, brauchen, nötig, ohne, lautsprecher, technik, unterschied, binaural beats",
+    "relatedFeatures": ["isochronic_tones_explanation", "faq_headphones_needed"]
+  },
+  {
+    "id": "faq_subliminal_effectiveness_skeptic",
+    "question": "Ich bin skeptisch, ob Subliminals wirklich funktionieren.",
+    "answer": "Skepsis ist verständlich. Die Wirkung ist subtil und wissenschaftlich nicht abschließend geklärt. Wir empfehlen, es selbst auszuprobieren und offen für die Möglichkeit zu sein. Viele Nutzer berichten von positiven Erfahrungen bei regelmäßiger Anwendung. Es ist jedoch kein Wundermittel.",
+    "tags": ["skepsis", "wirkung", "subliminal", "wissenschaft", "glaube", "erfahrung"],
+    "keywords": "skeptisch, skepsis, funktioniert das, wirkung, zweifel, glaube, wissenschaft, beweis, erfahrung, placebo",
+    "relatedFeatures": ["faq_scientific_basis", "subliminal_explanation"]
+  },
+  {
+    "id": "faq_family_plan_location",
+    "question": "Müssen Mitglieder des Familienplans im selben Land leben?",
+    "answer": "Die Bedingungen für Familienpläne sehen meist vor, dass alle Mitglieder im selben Haushalt leben, was oft auch bedeutet, im selben Land. Genaue Details zu den Nutzungsbedingungen des Familienplans findest du in den Abo-Informationen.",
+    "tags": ["familienplan", "land", "standort", "haushalt", "bedingungen", "agb"],
+    "keywords": "familienplan, family plan, land, standort, haushalt, wohnsitz, bedingungen, agb, voraussetzung, regel",
+    "relatedFeatures": ["family_plan_details", "terms_of_service"]
+  },
+  {
+    "id": "faq_subscription_gift_card",
+    "question": "Kann ich mit einer App Store / Google Play Geschenkkarte bezahlen?",
+    "answer": "Ob du dein Abonnement über das Guthaben einer Geschenkkarte deines App Stores (Apple App Store oder Google Play Store) bezahlen kannst, hängt von den Richtlinien des jeweiligen Stores ab. Oft ist dies möglich, wenn du die Karte deinem Store-Konto hinzufügst.",
+    "tags": ["zahlung", "geschenkkarte", "guthabenkarte", "app store", "google play", "abo"],
+    "keywords": "zahlung, bezahlen, geschenkkarte, guthabenkarte, app store, google play, itunes, guthaben, abo, möglich",
+    "relatedFeatures": ["payment_methods", "app_store_billing"]
+  },
+  {
+    "id": "faq_delete_data_vs_account",
+    "question": "Was ist der Unterschied zwischen Daten löschen und Konto löschen?",
+    "answer": "'Konto löschen' entfernt dein gesamtes Benutzerkonto inklusive Login, Profil, Playlists und verknüpften Abos unwiderruflich. 'Daten löschen' bezieht sich oft spezifischer auf das Entfernen bestimmter Nutzungsdaten oder des Profilinhalts gemäß DSGVO, ohne zwingend den Account selbst zu deaktivieren (Details siehe Datenschutzerklärung).",
+    "tags": ["daten löschen", "konto löschen", "unterschied", "dsgvo", "privacy"],
+    "keywords": "unterschied, daten löschen, konto löschen, account, profil, dsgvo, vergessenwerden, was passiert",
+    "relatedFeatures": ["account_deletion_process", "data_privacy", "gdpr_user_rights"]
+  },
+  {
+    "id": "faq_new_content_notification_how",
+    "question": "Wie werde ich über neue Inhalte benachrichtigt?",
+    "answer": "Aktiviere die Push-Benachrichtigungen für 'Neue Inhalte' in den App-Einstellungen (im Profil). Alternativ kannst du unseren Newsletter abonnieren oder uns auf Social Media folgen, wo wir ebenfalls Neuigkeiten posten.",
+    "tags": ["neue inhalte", "benachrichtigung", "updates", "info", "einstellungen"],
+    "keywords": "neue inhalte, benachrichtigung, notification, push, info, wie erfahren, updates, newsletter, social media, einstellungen",
+    "relatedFeatures": ["notification_settings", "profile_preferences_tab", "newsletter_signup", "social_media_links"]
+  },
+  {
+    "id": "faq_playlist_automatic",
+    "question": "Gibt es auch automatisch generierte Playlists?",
+    "answer": "Ja, oft bieten wir auch von uns kuratierte oder automatisch generierte Playlists an, basierend auf Themen, Stimmungen oder deinem Hörverhalten (z.B. 'Deine Mixe der Woche'). Diese findest du meist im 'Entdecken'-Bereich.",
+    "tags": ["playlist", "automatisch", "empfehlung", "kuratier", "mix"],
+    "keywords": "playlist, wiedergabeliste, automatisch, generiert, kuratiert, empfehlung, mix, vorschlag, entdecken",
+    "relatedFeatures": ["discover_page", "recommendation_engine", "curated_playlists"]
+  },
+  {
+    "id": "faq_casting_to_speakers",
+    "question": "Kann ich den Ton an Bluetooth-Lautsprecher oder Smart Speaker senden?",
+    "answer": "Ja, du kannst den Ton von deinem Smartphone oder Tablet normalerweise über Bluetooth an kompatible Lautsprecher oder Smart Speaker (wie Google Home, Amazon Echo) übertragen. Eine direkte Integration oder Steuerung über diese Speaker ist aber meist nicht vorhanden.",
+    "tags": ["bluetooth lautsprecher", "smart speaker", "casting", "streaming", "audioausgabe"],
+    "keywords": "bluetooth lautsprecher, smart speaker, google home, amazon echo, alexa, cast, casting, übertragen, streaming, audio, sound",
+    "relatedFeatures": ["casting_feature", "device_compatibility"]
+  },
+  {
+    "id": "faq_why_affirmations_positive",
+    "question": "Warum sind die Affirmationen immer positiv formuliert?",
+    "answer": "Das Unterbewusstsein verarbeitet Verneinungen oft nicht gut. Positive Formulierungen (z.B. 'Ich bin ruhig' statt 'Ich bin nicht gestresst') sind direkter und klarer für das Unterbewusstsein zu verstehen und zu verankern.",
+    "tags": ["affirmationen", "positiv", "formulierung", "grund", "unterbewusstsein", "wirkung"],
+    "keywords": "affirmationen, positiv, formulierung, warum, grund, keine verneinung, unterbewusstsein, wirkung, sprache",
+    "relatedFeatures": ["affirmations_explanation"]
+  },
+  {
+    "id": "faq_subscription_benefits_change",
+    "question": "Können sich die Vorteile meines Premium-Abos ändern?",
+    "answer": "Wir behalten uns vor, die Inhalte und Funktionen unserer Abopläne anzupassen, um die App weiterzuentwickeln. Wesentliche Änderungen an bestehenden Premium-Vorteilen würden wir jedoch rechtzeitig kommunizieren. Deine Kernvorteile bleiben in der Regel während deiner Laufzeit bestehen.",
+    "tags": ["premium vorteile", "änderung", "abo", "bedingungen", "zukunft"],
+    "keywords": "premium, vorteile, ändern, anpassen, zukunft, abo, bedingungen, agb, kommunikation",
+    "relatedFeatures": ["premium_benefits", "terms_of_service", "future_plans"]
+  },
+    {
+    "id": "faq_specific_subliminal_topic",
+    "question": "Ich suche ein Subliminal zu einem ganz spezifischen Thema (z.B. Flugangst).",
+    "answer": "Nutze die Suchfunktion mit deinem spezifischen Thema. Wenn du nichts Passendes findest, decken unsere allgemeineren Audios zu verwandten Bereichen (z.B. Angstbewältigung, Selbstvertrauen) das Thema möglicherweise indirekt mit ab. Du kannst uns auch gerne einen Themenwunsch über die Feedback-Funktion senden.",
+    "tags": ["spezifisches thema", "suchen", "finden", "subliminal", "inhalt", "wunsch"],
+    "keywords": "spezifisch, thema, suchen, finden, subliminal, audio, flugangst, höhenangst, spinnenangst, wunsch, feedback",
+    "relatedFeatures": ["content_search_specific", "discover_by_category", "feedback_feature"]
+  },
+  {
+    "id": "faq_offline_playback_issues",
+    "question": "Meine heruntergeladenen Audios spielen offline nicht.",
+    "answer": "Stelle sicher, dass der Download vollständig abgeschlossen wurde und die Datei nicht beschädigt ist. Prüfe, ob dein Premium-Abo noch aktiv ist, da Offline-Zugriff daran gebunden ist. Ein Neustart der App oder ein erneuter Download können helfen. Kontaktiere sonst den Support.",
+    "tags": ["offline", "download", "fehler", "spielt nicht", "problem", "premium"],
+    "keywords": "offline, download, spielt nicht, fehler, problem, wiedergabe, premium, abo aktiv, datei beschädigt, neustart, support",
+    "relatedFeatures": ["premium_benefit_offline", "download_management", "troubleshooting", "support_contact"]
+  },
+  {
+    "id": "faq_app_permissions",
+    "question": "Welche Berechtigungen braucht die App?",
+    "answer": "Die App benötigt normalerweise grundlegende Berechtigungen wie Internetzugriff (für Streaming/Sync). Für Downloads wird Speicherzugriff benötigt. Optional können Mikrofonzugriff (falls Sprachsteuerung geplant) oder Benachrichtigungsberechtigungen angefordert werden. Wir fragen nur nach Berechtigungen, die für die Funktion notwendig sind.",
+    "tags": ["berechtigungen", "permissions", "app", "datenschutz", "funktion"],
+    "keywords": "berechtigungen, permissions, app, zugriff, internet, speicher, mikrofon, standort, benachrichtigungen, notwendig, datenschutz",
+    "relatedFeatures": ["app_permissions", "data_privacy"]
+  },
+  {
+    "id": "faq_binaural_beats_risks",
+    "question": "Gibt es Risiken bei Binaural Beats?",
+    "answer": "Für die meisten gesunden Erwachsenen gelten Binaural Beats bei moderater Lautstärke als sicher. Personen mit Epilepsie, Herzschrittmachern oder bestimmten neurologischen/psychischen Erkrankungen sollten jedoch vor der Anwendung unbedingt ihren Arzt konsultieren, da die Gehirnwellenstimulation unerwünschte Effekte haben könnte.",
+    "tags": ["binaural beats", "risiken", "sicherheit", "nebenwirkungen", "warnung", "gesundheit"],
+    "keywords": "binaural beats, risiko, risiken, gefahr, nebenwirkungen, sicherheit, gesundheit, epilepsie, herzschrittmacher, neurologisch, psychisch, arzt fragen, warnung",
+    "relatedFeatures": ["binaural_beats_explanation", "safety_warning", "faq_medical_disclaimer"]
+  },
+  {
+    "id": "faq_vat_id_input",
+    "question": "Wofür ist das Feld für die Umsatzsteuer-ID (VAT ID)?",
+    "answer": "Das Feld für die Umsatzsteuer-Identifikationsnummer (VAT ID) ist für Geschäftskunden innerhalb der EU relevant. Wenn du als Unternehmen bestellst und eine gültige VAT ID angibst, kann die Rechnung entsprechend ohne Umsatzsteuer ausgestellt werden (Reverse-Charge-Verfahren).",
+    "tags": ["umsatzsteuer id", "vat id", "rechnung", "geschäftskunde", "eu"],
+    "keywords": "umsatzsteuer id, vat id, ust id, rechnung, geschäftskunde, firma, unternehmen, eu, reverse charge, steuer",
+    "relatedFeatures": ["billing_address", "business_subscriptions"]
+  },
+  {
+    "id": "faq_update_billing_address",
+    "question": "Wie aktualisiere ich meine Rechnungsadresse?",
+    "answer": "Deine Rechnungsadresse kannst du normalerweise in deinem Profil im Bereich 'Abonnement' oder 'Abrechnungsinformationen' ändern und speichern.",
+    "tags": ["rechnungsadresse", "adresse ändern", "konto", "profil", "abo"],
+    "keywords": "rechnungsadresse, adresse ändern, aktualisieren, abo, abonnement, profil, einstellungen, daten",
+    "relatedFeatures": ["profile_subscription_tab", "billing_address"]
+  },
+  {
+    "id": "faq_email_change_impact",
+    "question": "Was passiert, wenn ich meine E-Mail-Adresse ändere?",
+    "answer": "Wenn du deine E-Mail-Adresse änderst, wird diese zur neuen primären Adresse für deinen Login und für alle Benachrichtigungen von uns. Du musst dich zukünftig mit der neuen Adresse anmelden. Möglicherweise musst du die neue Adresse zuerst bestätigen.",
+    "tags": ["email ändern", "auswirkung", "login", "konto", "benachrichtigung"],
+    "keywords": "email ändern, auswirkung, was passiert, login, anmelden, benutzername, benachrichtigung, bestätigung, konto",
+    "relatedFeatures": ["profile_personal_info_tab", "email_verification"]
+  },
+  {
+    "id": "faq_cancel_refund_appstore",
+    "question": "Ich habe über den App Store / Google Play abonniert, wie kündige oder storniere ich?",
+    "answer": "Abonnements, die direkt über den Apple App Store oder Google Play Store abgeschlossen wurden, müssen auch dort verwaltet und gekündigt werden. Öffne die Abonnementeinstellungen in deinem jeweiligen Store-Konto auf deinem Gerät.",
+    "tags": ["kündigen", "abo", "app store", "google play", "ios", "android"],
+    "keywords": "kündigen, stornieren, abo, abonnement, app store, apple, ios, google play, android, verwalten, einstellungen",
+    "relatedFeatures": ["app_store_billing", "google_play_billing", "subscription_management"]
+  },
+  {
+    "id": "faq_customer_support_languages",
+    "question": "In welchen Sprachen bietet ihr Kundensupport an?",
+    "answer": "Unser Kundensupport kommuniziert primär auf Deutsch und Englisch. Wir versuchen aber, auch Anfragen in anderen Sprachen bestmöglich zu verstehen und zu beantworten, eventuell mithilfe von Übersetzungstools.",
+    "tags": ["support", "sprachen", "kundendienst", "hilfe", "international"],
+    "keywords": "support, kundendienst, kundenservice, sprache, sprachen, deutsch, englisch, international, hilfe",
+    "relatedFeatures": ["support_contact", "language_support"]
+  },
+  {
+    "id": "faq_app_permissions_explained",
+    "question": "Könnt ihr die benötigten App-Berechtigungen genauer erklären?",
+    "answer": "Gerne. Internet wird für Streaming und Kontosynchronisation benötigt. Speicherzugriff ist nur für Offline-Downloads (Premium) erforderlich. Andere Berechtigungen wie Mikrofon oder Standort fragen wir standardmäßig nicht an, es sei denn, eine zukünftige Funktion würde dies erfordern und wir würden dich explizit um Erlaubnis bitten.",
+    "tags": ["berechtigungen", "permissions", "erklärung", "datenschutz", "app"],
+    "keywords": "berechtigungen, permissions, erklärung, detail, internet, speicher, mikrofon, standort, warum, notwendig, datenschutz",
+    "relatedFeatures": ["app_permissions", "data_privacy"]
+  }
+]

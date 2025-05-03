@@ -1,0 +1,30 @@
+{
+    "greeting": {
+      "patterns": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening", "howdy"],
+      "responses": ["Hello! How can I help you today?", "Hi there! What can I do for you?", "Hey! What brings you here today?", "Greetings! How may I assist you?"]
+    },
+    "farewell": {
+      "patterns": ["bye", "goodbye", "see you", "take care", "farewell", "so long"],
+      "responses": ["Goodbye! Have a great day!", "See you later! Feel free to come back if you have more questions.", "Take care! I'm here if you need anything else."]
+    },
+    "thanks": {
+      "patterns": ["thank you", "thanks", "appreciate it", "thank you so much", "thanks a lot"],
+      "responses": ["You're welcome!", "Happy to help!", "No problem at all!", "Anytime!", "Glad I could assist!"]
+    },
+    "how_are_you": {
+      "patterns": ["how are you", "how are you doing", "how's it going", "how do you do", "what's up"],
+      "responses": ["I'm doing well, thank you for asking! How about you?", "I'm here and ready to help! How are you today?", "All systems operational! How can I assist you?"]
+    },
+    "who_are_you": {
+      "patterns": ["who are you", "what are you", "what's your name", "tell me about yourself"],
+      "responses": ["I'm the Mindfluence assistant, designed to help you navigate our application and answer your questions.", "I'm your AI assistant for Mindfluence. I can provide information and assistance with our services.", "I'm an AI assistant created to help with your Mindfluence-related questions and needs."]
+    },
+    "what_can_you_do": {
+      "patterns": ["what can you do", "help", "your capabilities", "what do you do", "how can you help me"],
+      "responses": ["I can answer questions about Mindfluence, help navigate our application, and provide useful information about our services.", "I'm here to assist with information, answer questions, and help you get the most out of Mindfluence.", "I can provide information, answer your questions, and guide you through our application features."]
+    },
+    "fallback": {
+      "patterns": [],
+      "responses": ["I'm not sure I understand. Could you rephrase that?", "I didn't quite catch that. Can you try asking in a different way?", "I'm still learning! Could you try asking that in another way?"]
+    }
+  }

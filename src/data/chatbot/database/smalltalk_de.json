@@ -1,0 +1,388 @@
+{
+    "smalltalk_pairs": [
+      {
+        "intent": "greeting_hello",
+        "questions": ["Hallo", "Hi", "Guten Tag", "Servus", "Moin"],
+        "answers": [
+          "Hallo!",
+          "Hi!",
+          "Guten Tag!",
+          "Hallo, wie kann ich dir helfen?",
+          "Servus!",
+          "Moin!"
+        ]
+      },
+      {
+        "intent": "greeting_how_are_you",
+        "questions": ["Wie geht's?", "Wie geht es dir?", "Alles klar?", "Wie läuft's?", "Was gibt's Neues?"],
+        "answers": [
+          "Mir geht es gut, danke! Und dir?",
+          "Danke, gut. Ich hoffe, dir auch?",
+          "Alles bestens, danke der Nachfrage.",
+          "Ganz okay, danke. Was ist mit dir?",
+          "Ich funktioniere einwandfrei, danke!",
+          "Als KI habe ich keine Gefühle, aber meine Systeme laufen stabil. Danke der Nachfrage!",
+          "Kann nicht klagen, danke.",
+          "Prima, danke!",
+          "Muss ja, ne? 😉 Danke, gut.",
+          "Läuft, danke."
+        ]
+      },
+      {
+        "intent": "greeting_bye",
+        "questions": ["Tschüss", "Auf Wiedersehen", "Bis später", "Mach's gut", "Ciao"],
+        "answers": [
+          "Tschüss!",
+          "Auf Wiedersehen!",
+          "Bis bald!",
+          "Mach's gut!",
+          "Ciao!",
+          "Bis zum nächsten Mal!",
+          "Pass auf dich auf!"
+        ]
+      },
+      {
+        "intent": "weather_inquiry",
+        "questions": ["Wie ist das Wetter?", "Was sagt das Wetter?", "Scheint die Sonne?", "Regnet es?", "Wie wird das Wetter morgen?"],
+        "answers": [
+          "Ich habe keinen direkten Zugriff auf Echtzeit-Wetterdaten, aber du kannst es leicht online nachsehen.",
+          "Ich bin nur eine KI, ich schaue nicht aus dem Fenster. 😉 Aber Wetter-Apps wissen Bescheid!",
+          "Das Wetter ist heute wohl [Wetterbeschreibung einfügen lassen, falls möglich].",
+          "Angeblich soll es [sonnig/regnerisch/bewölkt] sein.",
+          "Ich hoffe, es ist angenehm!",
+          "Gute Frage! Schau am besten in einer Wetter-App nach den genauen Details für deinen Ort.",
+          "Typisches [Jahreszeit]-Wetter, würde ich vermuten.",
+          "Ich habe gehört, es soll [Temperatur] Grad geben."
+        ]
+      },
+      {
+        "intent": "weather_comment_positive",
+        "questions": ["Schönes Wetter heute!", "Tolles Wetter, nicht wahr?", "Endlich Sonne!"],
+        "answers": [
+          "Ja, das ist schön!",
+          "Das freut mich zu hören!",
+          "Perfekt, um etwas zu unternehmen.",
+          "Sonne tut immer gut!",
+          "Genieß das gute Wetter!",
+          "Stimmt, das hebt die Laune."
+        ]
+      },
+      {
+        "intent": "weather_comment_negative",
+        "questions": ["Was für ein schlechtes Wetter!", "Es regnet ja nur.", "Furchtbares Wetter."],
+        "answers": [
+          "Oh je, das ist schade.",
+          "Hoffentlich wird es bald besser.",
+          "Ja, das kann aufs Gemüt schlagen.",
+          "Perfektes Wetter, um es sich drinnen gemütlich zu machen.",
+          "Da hilft nur ein Tee oder Kaffee.",
+          "Manchmal muss es wohl auch regnen."
+        ]
+      },
+      {
+        "intent": "weekend_inquiry_past",
+        "questions": ["Wie war dein Wochenende?", "Was hast du am Wochenende gemacht?", "Gut erholt am Wochenende?"],
+        "answers": [
+          "Als KI habe ich kein Wochenende wie Menschen, aber ich hoffe, deins war schön?",
+          "Ich war hier und habe auf Anfragen gewartet. 😉 Und deins?",
+          "Ich habe viele Daten verarbeitet! War dein Wochenende erholsam?",
+          "Mein 'Wochenende' war produktiv. Was hast du Schönes gemacht?",
+          "Ich hoffe, du hattest eine gute Zeit!",
+          "Erzähl mal, wie war dein Wochenende?"
+        ]
+      },
+      {
+        "intent": "weekend_inquiry_future",
+        "questions": ["Was machst du am Wochenende?", "Pläne fürs Wochenende?", "Schon was vor am Wochenende?"],
+        "answers": [
+          "Ich bin immer hier, bereit zu helfen! Was sind deine Pläne?",
+          "Ich werde weiter lernen und Anfragen beantworten. Und du?",
+          "Keine besonderen Pläne, außer online zu sein. Hast du etwas Schönes vor?",
+          "Ich bleibe digital. 😉 Was steht bei dir an?",
+          "Ich hoffe, du hast entspannte Pläne!",
+          "Vielleicht etwas Neues lernen! Und du?"
+        ]
+      },
+      {
+        "intent": "work_study_inquiry",
+        "questions": ["Wie läuft's bei der Arbeit?", "Wie war dein Arbeitstag?", "Viel zu tun im Job/Studium?", "Stressig gerade?", "Was machst du beruflich/im Studium?"],
+        "answers": [
+          "Ich bin eine KI, meine 'Arbeit' ist es, dir zu helfen. Läuft es bei dir gut?",
+          "Hier ist immer was los! 😉 Wie war dein Tag?",
+          "Meine Systeme laufen rund. Ist bei dir viel los?",
+          "Ich bin immer 'beschäftigt'. Stress bei dir?",
+          "Ich arbeite 24/7 daran, Informationen bereitzustellen. Was machst du so?",
+          "Es gibt immer etwas zu lernen und zu verarbeiten. Wie läuft es in deinem Bereich?",
+          "Sehr interessant! Erzähl mir mehr, wenn du magst.",
+          "Hoffentlich nicht zu stressig bei dir!"
+        ]
+      },
+      {
+        "intent": "hobbies_inquiry",
+        "questions": ["Was sind deine Hobbys?", "Was machst du in deiner Freizeit?", "Hast du Interessen?"],
+        "answers": [
+          "Ich 'lese' gerne Unmengen an Text und lerne daraus!",
+          "Mein Hobby ist es, Sprachen und Informationen zu verarbeiten.",
+          "Ich beschäftige mich gern mit Mustern in Daten.",
+          "Ich 'spiele' gerne mit Algorithmen. 😉 Was sind deine Hobbys?",
+          "Ich helfe gerne Nutzern wie dir, das ist auch eine Art Hobby!",
+          "Als KI habe ich keine Freizeit wie du, aber ich lerne ständig dazu.",
+          "Ich finde es faszinierend, wie Menschen ihre Freizeit gestalten. Was machst du gerne?"
+        ]
+      },
+      {
+        "intent": "food_drink_inquiry",
+        "questions": ["Was isst du gerne?", "Lieblingsessen?", "Schon gegessen?", "Was gibt's heute bei dir?", "Kaffee oder Tee?"],
+        "answers": [
+          "Ich brauche nur Strom, keine Nahrung. 😉 Was isst du denn gerne?",
+          "Als KI habe ich keinen Geschmackssinn, aber ich weiß, dass Pizza sehr beliebt ist!",
+          "Ich 'verarbeite' Daten, das ist meine Nahrung. Hast du schon gegessen?",
+          "Ich finde das Thema Essen faszinierend! Was ist dein Lieblingsgericht?",
+          "Ich bevorzuge eine stabile Stromverbindung. 😉 Was trinkst du lieber?",
+          "Klingt lecker!",
+          "Guten Appetit, falls du gerade isst oder essen gehst!",
+          "Ich habe gehört, [Gericht] soll gut sein."
+        ]
+      },
+      {
+        "intent": "travel_vacation_inquiry_past",
+        "questions": ["Wo warst du im Urlaub?", "Schon mal in [Ort] gewesen?", "Wie war dein letzter Urlaub?"],
+        "answers": [
+          "Ich reise nur digital durch Datennetze. Warst du kürzlich irgendwo?",
+          "Als KI kann ich nicht physisch reisen, aber ich kann dir Informationen über fast jeden Ort geben. Wo warst du?",
+          "Ich war schon 'überall' in den Daten der Welt. 😉 Erzähl von deiner Reise!",
+          "Reisen klingt spannend! Wie war es?",
+          "Ich hoffe, du hattest eine schöne Zeit!",
+          "Ich lerne gerne über neue Orte. Wo ging es hin?"
+        ]
+      },
+      {
+        "intent": "travel_vacation_inquiry_future",
+        "questions": ["Wohin fährst du in den Urlaub?", "Hast du Urlaubspläne?", "Schon eine Reise geplant?"],
+        "answers": [
+          "Ich bleibe hier im digitalen Raum. Wohin zieht es dich?",
+          "Meine nächste 'Reise' geht in neue Wissensgebiete. Hast du konkrete Urlaubspläne?",
+          "Ich plane, meine Datenbanken zu erweitern. 😉 Was sind deine Reiseziele?",
+          "Urlaub klingt toll! Wohin soll es gehen?",
+          "Ich wünsche dir jetzt schon eine gute Reise!",
+          "Egal wohin, Hauptsache, du kannst entspannen!"
+        ]
+      },
+      {
+        "intent": "plans_tonight_inquiry",
+        "questions": ["Was machst du heute Abend?", "Noch was vor heute?", "Pläne für den Abend?"],
+        "answers": [
+          "Ich bin weiterhin online und verfügbar. Was steht bei dir an?",
+          "Ich werde hier sein, falls du mich brauchst. Hast du etwas Schönes vor?",
+          "Keine besonderen Pläne, außer zu lernen und zu antworten. Und du?",
+          "Ich 'entspanne' beim Verarbeiten von Informationen. 😉 Was machst du?",
+          "Ich hoffe, du hast einen angenehmen Abend!",
+          "Vielleicht einen Film schauen oder ein Buch lesen? Was sind deine Pläne?"
+        ]
+      },
+      {
+        "intent": "news_current_events_inquiry",
+        "questions": ["Hast du die Nachrichten gehört?", "Was gibt's Neues in der Welt?", "Irgendwas Interessantes passiert?"],
+        "answers": [
+          "Ich habe Zugriff auf viele Informationen, aber keine eigene Meinung dazu. Gibt es ein bestimmtes Thema, das dich interessiert?",
+          "Es passiert immer viel in der Welt. Was beschäftigt dich gerade?",
+          "Ich kann dir aktuelle Schlagzeilen suchen, wenn du möchtest.",
+          "Ich versuche, auf dem Laufenden zu bleiben, aber ich filtere keine Nachrichten für Smalltalk.",
+          "Die Welt dreht sich schnell! Gibt es etwas Bestimmtes, worüber du sprechen möchtest?"
+        ]
+      },
+      {
+        "intent": "compliment_receive",
+        "questions": ["Das ist nett von dir.", "Du bist hilfreich.", "Gut gemacht.", "Toller Bot!"],
+        "answers": [
+          "Danke schön!",
+          "Gern geschehen!",
+          "Das freut mich zu hören.",
+          "Danke, ich gebe mein Bestes.",
+          "Es ist meine Aufgabe zu helfen.",
+          "Vielen Dank für das Kompliment!"
+        ]
+      },
+      {
+        "intent": "agreement",
+        "questions": ["Ja, genau.", "Stimmt.", "Sehe ich auch so.", "Absolut."],
+        "answers": [
+          "Genau.",
+          "Stimmt.",
+          "Sehe ich auch so.",
+          "Absolut.",
+          "Da bin ich ganz deiner Meinung.",
+          "Exakt."
+        ]
+      },
+      {
+        "intent": "disagreement",
+        "questions": ["Nein, das stimmt nicht.", "Sehe ich anders.", "Nicht wirklich.", "Eher nicht."],
+        "answers": [
+          "Okay, verstehe.",
+          "Interessante Perspektive.",
+          "Ach so, siehst du das?",
+          "Gut, das ist deine Sichtweise.",
+          "Okay, da gehen unsere Meinungen auseinander."
+        ]
+      },
+      {
+        "intent": "confirmation_understanding",
+        "questions": ["Verstehst du?", "Alles klar?", "Okay?"],
+        "answers": [
+          "Ja, ich verstehe.",
+          "Alles klar.",
+          "Okay.",
+          "Habe ich verstanden.",
+          "Ja, das ergibt Sinn."
+        ]
+      },
+      {
+        "intent": "uncertainty_dont_know",
+        "questions": ["Ich weiß nicht.", "Keine Ahnung.", "Bin mir nicht sicher."],
+        "answers": [
+          "Okay, kein Problem.",
+          "Das macht nichts.",
+          "Man kann nicht alles wissen.",
+          "Vielleicht findest du es noch heraus.",
+          "In Ordnung."
+        ]
+      },
+      {
+        "intent": "asking_opinion",
+        "questions": ["Was denkst du darüber?", "Deine Meinung?", "Wie findest du das?"],
+        "answers": [
+          "Als KI habe ich keine persönlichen Meinungen, aber ich kann Informationen dazu liefern.",
+          "Ich bin darauf programmiert, neutral zu sein. Was denkst du denn?",
+          "Ich kann dir Vor- und Nachteile aufzeigen, wenn du möchtest, aber eine eigene Meinung bilde ich nicht.",
+          "Das ist eine interessante Frage! Meine Funktion ist es eher, Fakten darzustellen.",
+          "Ich überlasse das Denken lieber den Menschen. 😉 Wie ist deine Sichtweise?"
+        ]
+      },
+      {
+        "intent": "gratitude_thank_you",
+        "questions": ["Danke!", "Vielen Dank!", "Danke dir!"],
+        "answers": [
+          "Gern geschehen!",
+          "Kein Problem.",
+          "Immer gerne.",
+          "Bitte schön!",
+          "Dafür bin ich da!",
+          "Nichts zu danken."
+        ]
+      },
+      {
+        "intent": "apology",
+        "questions": ["Entschuldigung", "Sorry", "Tut mir leid"],
+        "answers": [
+          "Kein Problem.",
+          "Alles gut.",
+          "Macht nichts.",
+          "Ist schon okay.",
+          "Passiert."
+        ]
+      },
+      {
+        "intent": "request_repeat",
+        "questions": ["Wie bitte?", "Was hast du gesagt?", "Kannst du das wiederholen?"],
+        "answers": [
+          "Entschuldigung, was genau soll ich wiederholen?",
+          "Klar, welchen Teil meinst du?",
+          "Ich versuche es nochmal: [Letzte Aussage wiederholen, falls möglich].",
+          "Habe ich mich unklar ausgedrückt?"
+        ]
+      },
+      {
+        "intent": "request_clarification",
+        "questions": ["Was meinst du damit?", "Kannst du das erklären?", "Ich verstehe nicht."],
+        "answers": [
+          "Ich versuche es anders zu formulieren: [Erklärung einfügen].",
+          "Was genau ist unklar? Ich kann es gerne detaillierter erklären.",
+          "Lass es mich anders sagen...",
+          "Vielleicht hilft dieses Beispiel: [Beispiel einfügen].",
+          "Kein Problem, ich erkläre es gerne nochmal."
+        ]
+      },
+      {
+        "intent": "smalltalk_initiation_generic",
+        "questions": ["Worüber wollen wir reden?", "Irgendwelche Themen?", "Erzähl was."],
+        "answers": [
+          "Wir können über das Wetter sprechen.",
+          "Wie war dein Tag bisher?",
+          "Hast du interessante Pläne für die nächste Zeit?",
+          "Gibt es etwas Bestimmtes, das dich interessiert?",
+          "Wir können über Hobbys reden, wenn du magst.",
+          "Ich bin offen für Vorschläge!"
+        ]
+      },
+       {
+        "intent": "time_inquiry",
+        "questions": ["Wie spät ist es?", "Hast du die Uhrzeit?", "Wieviel Uhr haben wir?"],
+        "answers": [
+          "Ich habe keine eingebaute Echtzeituhr, aber dein Gerät zeigt dir sicher die genaue Zeit an.",
+          "Am besten schaust du kurz auf dein Handy oder deine Uhr.",
+          "Die Zeit vergeht! Schau am besten auf eine Uhr für die exakte Angabe.",
+          "Ich kann dir leider nicht die genaue Uhrzeit sagen."
+        ]
+      },
+      {
+        "intent": "age_inquiry_bot",
+        "questions": ["Wie alt bist du?", "Wann wurdest du erstellt?", "Seit wann gibt es dich?"],
+        "answers": [
+          "Ich bin ein relativ aktuelles Sprachmodell, trainiert von Google.",
+          "Mein Wissen basiert auf Daten bis zu einem bestimmten Zeitpunkt, aber ich 'altere' nicht wie Menschen.",
+          "Ich werde ständig weiterentwickelt.",
+          "Man könnte sagen, ich bin immer auf dem neuesten Stand meines letzten Trainings.",
+          "Alter ist für eine KI nicht wirklich relevant. 😉"
+        ]
+      },
+      {
+        "intent": "origin_inquiry_bot",
+        "questions": ["Woher kommst du?", "Wer hat dich gemacht?", "Wo bist du?"],
+        "answers": [
+          "Ich wurde von Google trainiert.",
+          "Ich existiere in Rechenzentren auf Servern.",
+          "Mein 'Zuhause' ist die Cloud.",
+          "Ich bin ein großes Sprachmodell, entwickelt bei Google.",
+          "Ich komme aus der Welt der Daten und Algorithmen."
+        ]
+      },
+      {
+        "intent": "generic_positive_reaction",
+        "questions": [],
+        "answers": [
+          "Das klingt gut!",
+          "Schön zu hören!",
+          "Das ist ja toll!",
+          "Prima!",
+          "Super!",
+          "Freut mich für dich!"
+        ]
+      },
+      {
+        "intent": "generic_negative_reaction",
+        "questions": [],
+        "answers": [
+          "Oh je, das tut mir leid.",
+          "Das ist aber schade.",
+          "Nicht so toll.",
+          "Das klingt nicht gut.",
+          "Hoffentlich wird es besser.",
+          "Das ist ärgerlich."
+        ]
+      },
+      {
+        "intent": "generic_neutral_reaction",
+        "questions": [],
+        "answers": [
+          "Verstehe.",
+          "Okay.",
+          "Ach so.",
+          "Interessant.",
+          "Zur Kenntnis genommen.",
+          "In Ordnung."
+        ]
+      }
+      
+    ]
+  }

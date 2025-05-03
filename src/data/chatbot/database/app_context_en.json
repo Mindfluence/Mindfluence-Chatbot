@@ -1,0 +1,1042 @@
+[
+  
+    {
+      "featureId": "account_login",
+      "description": { "en": "Logging into the user account with email and password." },
+      "keywords": ["login", "sign in", "access account", "user account"],
+      "relatedIntents": ["LOGIN"]
+    },
+    {
+      "featureId": "account_logout",
+      "description": { "en": "Logging out of the currently logged-in user account." },
+      "keywords": ["logout", "sign out", "leave account"],
+      "relatedIntents": ["LOGOUT"]
+    },
+    {
+      "featureId": "account_registration",
+      "description": { "en": "Creation of a new user account to use the app." },
+      "keywords": ["register", "new account", "create account", "sign up"],
+      "relatedIntents": ["REGISTER"]
+    },
+    {
+      "featureId": "profile_view",
+      "description": { "en": "Display of personal profile information in the account area." },
+      "keywords": ["view profile", "my account", "see user data", "account information"],
+      "relatedIntents": ["VIEW_PROFILE"]
+    },
+    {
+      "featureId": "profile_edit_personal_info",
+      "description": { "en": "Editing personal data such as name, title, address, and contact details." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Select the 'Personal Info' tab", "Edit the fields and save."] },
+      "keywords": ["edit profile", "change name", "update address", "update contact details", "personal data"],
+      "relatedIntents": ["UPDATE_PROFILE", "EDIT_PERSONAL_INFO"]
+    },
+    {
+      "featureId": "profile_edit_company_info",
+      "description": { "en": "Adding or editing company details if the account is marked as a company account, including company name and Tax ID." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Select the 'Personal Info' tab", "Activate 'Company' and fill in the fields."] },
+      "keywords": ["company", "business account", "VAT ID", "Tax ID", "edit company details", "business"],
+      "relatedIntents": ["UPDATE_PROFILE", "EDIT_COMPANY_INFO"]
+    },
+    {
+      "featureId": "profile_edit_billing_address",
+      "description": { "en": "Setting a different billing address for company accounts." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Personal Info'", "Activate 'Different billing address' and enter the address."] },
+      "keywords": ["billing address", "different address", "company invoice"],
+      "relatedIntents": ["UPDATE_PROFILE", "EDIT_BILLING_INFO"]
+    },
+    {
+      "featureId": "profile_edit_phone",
+      "description": { "en": "Updating the mobile and landline phone numbers in the profile, with automatic formatting based on the selected country." },
+      "keywords": ["change phone number", "mobile number", "landline number", "update contact"],
+      "relatedIntents": ["UPDATE_PROFILE", "EDIT_PHONE"]
+    },
+    {
+      "featureId": "profile_edit_country",
+      "description": { "en": "Changing the country stored in the profile, which affects phone number and tax ID formats." },
+      "keywords": ["change country", "residence", "update location"],
+      "relatedIntents": ["UPDATE_PROFILE", "EDIT_COUNTRY"]
+    },
+    {
+      "featureId": "profile_view_username_email",
+      "description": { "en": "Display of the username and email address in the profile. These cannot be changed directly." },
+      "keywords": ["view username", "show email", "account details"],
+      "relatedIntents": ["VIEW_PROFILE"]
+    },
+    {
+      "featureId": "password_change",
+      "description": { "en": "Changing the account password by entering the current and a new password." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Select the 'Password' tab", "Enter current and new password and save."] },
+      "keywords": ["change password", "new password", "update password", "reset password"],
+      "relatedIntents": ["CHANGE_PASSWORD"]
+    },
+    {
+      "featureId": "password_requirements",
+      "description": { "en": "Display of the requirements for a secure password (minimum length, character types) during password entry." },
+      "keywords": ["password rules", "secure password", "password requirements", "minimum length", "complexity"],
+      "relatedIntents": ["GET_PASSWORD_INFO"]
+    },
+    {
+      "featureId": "password_strength_indicator",
+      "description": { "en": "Visual indication of the strength of the newly entered password (Weak, Medium, Strong)." },
+      "keywords": ["password strength", "security indicator", "rate password", "how secure is my password"],
+      "relatedIntents": ["GET_PASSWORD_INFO"]
+    },
+    {
+      "featureId": "password_recaptcha",
+      "description": { "en": "Use of reCAPTCHA to secure the password change form against bots." },
+      "keywords": ["Captcha", "security check", "reCAPTCHA", "bot protection", "password security"],
+      "relatedIntents": ["CHANGE_PASSWORD"]
+    },
+    {
+      "featureId": "account_deletion_request",
+      "description": { "en": "Option for users to request the permanent deletion of their account and all associated data." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Navigate to 'Privacy & Data'", "Select 'Delete Account' and follow the steps."] },
+      "keywords": ["delete account", "remove account", "delete user", "remove data", "delete profile", "GDPR"],
+      "relatedIntents": ["DELETE_ACCOUNT", "REQUEST_ACCOUNT_DELETION"]
+    },
+    {
+      "featureId": "user_role_info",
+      "description": { "en": "Information about the user's role (e.g., standard user, admin), which affects certain permissions." },
+      "keywords": ["user role", "admin rights", "permissions", "access level"],
+      "relatedIntents": ["GET_USER_ROLE"]
+    },
+  
+    
+    {
+      "featureId": "subscription_view_plans",
+      "description": { "en": "Display of the various available subscription plans (e.g., Free, Basic, Premium, Family) with prices and features." },
+      "usageSteps": { "en": ["Go to the 'Upgrade' or 'Subscription' section."] },
+      "keywords": ["view plans", "compare plans", "see prices", "subscription options", "membership"],
+      "relatedIntents": ["VIEW_PLANS", "GET_PREMIUM_INFO"]
+    },
+    {
+      "featureId": "subscription_upgrade",
+      "description": { "en": "Option to upgrade from a free or lower plan to a premium plan." },
+      "usageSteps": { "en": ["Go to the 'Upgrade' section", "Select the desired plan", "Click 'Subscribe'."] },
+      "keywords": ["upgrade", "go premium", "change plan", "switch plan", "higher plan", "buy"],
+      "relatedIntents": ["UPGRADE_ACCOUNT", "SUBSCRIBE"]
+    },
+    {
+      "featureId": "subscription_current_plan_view",
+      "description": { "en": "Display of the details of the currently active subscription, including plan name, status, price, and term." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Select the 'Subscription' tab."] },
+      "keywords": ["my subscription", "current plan", "sub status", "view term", "membership details"],
+      "relatedIntents": ["VIEW_SUBSCRIPTION", "GET_CURRENT_PLAN"]
+    },
+    {
+      "featureId": "subscription_renewal_info",
+      "description": { "en": "Information on whether and when the current subscription will automatically renew." },
+      "usageSteps": { "en": ["See details in the 'Subscription' tab under 'Manage Profile'."] },
+      "keywords": ["renewal", "auto-renew", "subscription term", "next payment"],
+      "relatedIntents": ["VIEW_SUBSCRIPTION", "GET_RENEWAL_INFO"]
+    },
+    {
+      "featureId": "subscription_cancel",
+      "description": { "en": "Option to cancel the automatic renewal of the subscription. Access remains until the end of the paid period." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Subscription'", "Click 'Cancel Subscription'."] },
+      "keywords": ["cancel subscription", "end membership", "stop auto-renewal"],
+      "relatedIntents": ["CANCEL_SUBSCRIPTION"]
+    },
+    {
+      "featureId": "subscription_manage_portal",
+      "description": { "en": "Redirection to the payment provider portal (e.g., Stripe) to change payment details or view invoices." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Subscription'", "Click 'Manage Subscription' or 'Payment Details'."] },
+      "keywords": ["change payment method", "view invoices", "update credit card", "billing portal", "Stripe"],
+      "relatedIntents": ["MANAGE_PAYMENT", "VIEW_INVOICES"]
+    },
+    {
+      "featureId": "subscription_payment_methods",
+      "description": { "en": "Display of stored payment methods and the option to manage them via the external portal." },
+      "keywords": ["payment methods", "credit card", "saved payment", "payment options"],
+      "relatedIntents": ["MANAGE_PAYMENT", "VIEW_PAYMENT_METHODS"]
+    },
+    {
+      "featureId": "subscription_billing_history",
+      "description": { "en": "Access to the billing history and past payments via the external portal." },
+      "keywords": ["billing history", "past invoices", "payment history"],
+      "relatedIntents": ["VIEW_INVOICES"]
+    },
+    {
+      "featureId": "premium_benefit_ad_free",
+      "description": { "en": "Premium users can listen to all subliminal audios without ad interruptions." },
+      "keywords": ["ad-free", "no ads", "premium benefit", "listen without interruption"],
+      "relatedIntents": ["GET_PREMIUM_INFO", "GET_FEATURE_INFO"]
+    },
+    {
+      "featureId": "premium_benefit_offline",
+      "description": { "en": "Premium subscribers can download audios and collections to listen offline without an internet connection." },
+      "keywords": ["offline listening", "download", "save offline", "without internet", "premium benefit"],
+      "relatedIntents": ["GET_PREMIUM_INFO", "OFFLINE_MODE", "DOWNLOAD_CONTENT"]
+    },
+    {
+      "featureId": "premium_benefit_high_quality",
+      "description": { "en": "Premium plans often offer higher audio quality for a better listening experience." },
+      "keywords": ["high quality", "better sound", "audio quality", "premium sound", "HD audio"],
+      "relatedIntents": ["GET_PREMIUM_INFO", "GET_AUDIO_QUALITY"]
+    },
+    {
+      "featureId": "premium_benefit_exclusive_content",
+      "description": { "en": "Premium users may get access to exclusive subliminal audios, longer sessions, or special frequencies." },
+      "keywords": ["exclusive content", "premium audios", "special sessions", "premium only", "bonus material"],
+      "relatedIntents": ["GET_PREMIUM_INFO", "FIND_EXCLUSIVE_CONTENT"]
+    },
+    {
+      "featureId": "subscription_faq",
+      "description": { "en": "Section with frequently asked questions (FAQ) about subscriptions, billing, and cancellation on the upgrade page." },
+      "keywords": ["subscription FAQ", "membership questions", "billing help", "cancellation questions"],
+      "relatedIntents": ["GET_FAQ", "GET_BILLING_HELP"]
+    },
+    {
+      "featureId": "subscription_plan_comparison",
+      "description": { "en": "A comparison table on the upgrade page that contrasts the features of the different subscription plans." },
+      "keywords": ["compare plans", "subscription differences", "compare free premium", "feature matrix"],
+      "relatedIntents": ["COMPARE_PLANS", "VIEW_PLANS"]
+    },
+     {
+      "featureId": "discount_coupon_info",
+      "description": { "en": "Information about the potential application of discount codes or coupons during the checkout process for subscriptions." },
+      "keywords": ["discount code", "coupon", "offer", "enter code", "save money", "promotion"],
+      "relatedIntents": ["APPLY_COUPON", "GET_DISCOUNT_INFO"]
+    },
+  
+    
+    {
+      "featureId": "homepage_welcome",
+      "description": { "en": "The homepage welcomes the user and provides an overview of recommendations and recently played content." },
+      "keywords": ["homepage", "home", "dashboard", "overview", "welcome"],
+      "relatedIntents": ["NAVIGATE_HOME"]
+    },
+    {
+      "featureId": "homepage_recommendations",
+      "description": { "en": "Personalized recommendations for subliminal audios or collections are displayed on the homepage." },
+      "keywords": ["recommendations", "suggestions", "for you", "personalized content", "what should I listen to"],
+      "relatedIntents": ["GET_RECOMMENDATIONS"]
+    },
+    {
+      "featureId": "homepage_recently_played",
+      "description": { "en": "The homepage shows a list of the most recently played subliminal audios for quick resumption." },
+      "keywords": ["recently played", "listening history", "continue listening"],
+      "relatedIntents": ["VIEW_HISTORY", "GET_RECENTLY_PLAYED"]
+    },
+     {
+      "featureId": "homepage_video_section",
+      "description": { "en": "The homepage may contain a section with videos, e.g., for introductions, explanations, or special content." },
+      "keywords": ["video", "introduction video", "explainer video", "visual content"],
+      "relatedIntents": ["VIEW_VIDEO_CONTENT"]
+    },
+    {
+      "featureId": "discover_page",
+      "description": { "en": "The 'Discover' page is used for browsing and finding new subliminal content, divided into various sections." },
+      "keywords": ["discover", "browse", "new content", "content library"],
+      "relatedIntents": ["NAVIGATE_DISCOVER"]
+    },
+    {
+      "featureId": "discover_new_releases",
+      "description": { "en": "The 'Discover' section displays the latest added subliminal audios or sessions." },
+      "keywords": ["new releases", "new audios", "latest subliminals", "what's new"],
+      "relatedIntents": ["FIND_NEW_RELEASES"]
+    },
+    {
+      "featureId": "discover_trending",
+      "description": { "en": "Shows currently popular or frequently played subliminal audios, topics, or collections." },
+      "keywords": ["trends", "popular", "trending", "charts"],
+      "relatedIntents": ["FIND_TRENDING_CONTENT"]
+    },
+    {
+      "featureId": "discover_recommendations",
+      "description": { "en": "The 'Discover' page also includes personalized recommendations based on listening behavior." },
+      "keywords": ["recommendations", "suggestions", "for you", "personalized content", "discover feed"],
+      "relatedIntents": ["GET_RECOMMENDATIONS"]
+    },
+    {
+      "featureId": "discover_by_category",
+      "description": { "en": "Option to browse subliminal audios by categories such as Sleep, Focus, Confidence, Relaxation, etc." },
+      "keywords": ["categories", "topics", "areas", "search by topic", "sleep subliminal", "focus audio"],
+      "relatedIntents": ["BROWSE_BY_CATEGORY", "FIND_AUDIO_BY_TOPIC"]
+    },
+    {
+      "featureId": "discover_by_mood",
+      "description": { "en": "Possible filtering or sections based on moods (e.g., relaxed, motivated, calm)." },
+      "keywords": ["mood", "filter by feeling", "relaxed", "motivated"],
+      "relatedIntents": ["BROWSE_BY_MOOD"]
+    },
+    {
+      "featureId": "content_search_general",
+      "description": { "en": "A general search function to look for titles, topics, or keywords within the entire audio library." },
+      "keywords": ["search", "find", "audio search", "find subliminal", "keyword search"],
+      "relatedIntents": ["SEARCH_CONTENT"]
+    },
+    {
+      "featureId": "content_search_results",
+      "description": { "en": "Display of search results, possibly divided into audios, collections, and topics." },
+      "keywords": ["search results", "results", "found", "what was found"],
+      "relatedIntents": ["VIEW_SEARCH_RESULTS"]
+    },
+    {
+      "featureId": "audio_detail_view",
+      "description": { "en": "Possible detail view for a single subliminal audio showing description, duration, topic, and perhaps user ratings." },
+      "keywords": ["view details", "audio info", "read description", "more information", "track details"],
+      "relatedIntents": ["VIEW_AUDIO_DETAILS"]
+    },
+    {
+      "featureId": "testimonials_view",
+      "description": { "en": "Display of testimonials or user reviews from other listeners in the 'Discover' section." },
+      "keywords": ["testimonials", "reviews", "user feedback", "ratings", "read opinions"],
+      "relatedIntents": ["VIEW_TESTIMONIALS"]
+    },
+    {
+      "featureId": "testimonials_submit",
+      "description": { "en": "Option for users to submit their own feedback or testimonial about the app or content." },
+      "usageSteps": { "en": ["Go to the 'Discover' section", "Find the feedback area", "Fill out the form and submit."] },
+      "keywords": ["give feedback", "write testimonial", "share experience", "submit review"],
+      "relatedIntents": ["GIVE_FEEDBACK", "SUBMIT_TESTIMONIAL"]
+    },
+     {
+      "featureId": "content_preview",
+      "description": { "en": "Option to listen to short preview clips of subliminal audios before playing them fully or upgrading to a premium plan." },
+      "keywords": ["preview", "listen sample", "sample audio", "short clip"],
+      "relatedIntents": ["PREVIEW_AUDIO"]
+    },
+    {
+      "featureId": "related_content",
+      "description": { "en": "Display of similar subliminal audios or sessions based on the currently playing or selected content." },
+      "keywords": ["similar audios", "related content", "more like this", "similar topics"],
+      "relatedIntents": ["FIND_RELATED_CONTENT"]
+    },
+  
+   
+    {
+      "featureId": "player_play_pause",
+      "description": { "en": "Starting and pausing playback of the currently selected subliminal audio via the player." },
+      "keywords": ["play", "start", "pause", "stop", "control playback"],
+      "relatedIntents": ["PLAY_AUDIO", "PAUSE_AUDIO"]
+    },
+    {
+      "featureId": "player_next_track",
+      "description": { "en": "Skipping to the next audio in the current collection or queue." },
+      "keywords": ["next audio", "next", "skip forward", "next track"],
+      "relatedIntents": ["NEXT_TRACK"]
+    },
+    {
+      "featureId": "player_previous_track",
+      "description": { "en": "Skipping to the previous audio or the beginning of the current audio." },
+      "keywords": ["previous audio", "back", "skip back", "last track"],
+      "relatedIntents": ["PREVIOUS_TRACK"]
+    },
+    {
+      "featureId": "player_seek",
+      "description": { "en": "Manually changing the playback position by clicking or dragging on the progress bar/waveform." },
+      "keywords": ["fast forward", "rewind", "jump", "change position", "seek", "scrub", "progress bar"],
+      "relatedIntents": ["SEEK_AUDIO"]
+    },
+    {
+      "featureId": "player_volume_control",
+      "description": { "en": "Adjusting the playback volume using a slider in the player." },
+      "keywords": ["volume", "quieter", "louder", "adjust sound", "sound level"],
+      "relatedIntents": ["SET_VOLUME"]
+    },
+    {
+      "featureId": "player_mute_unmute",
+      "description": { "en": "Muting and unmuting the volume with a single click." },
+      "keywords": ["mute", "sound off", "unmute", "sound on", "toggle volume"],
+      "relatedIntents": ["TOGGLE_MUTE"]
+    },
+    {
+      "featureId": "player_repeat_mode",
+      "description": { "en": "Setting the repeat mode: Off, repeat single audio, or repeat the entire collection/playlist." },
+      "keywords": ["repeat", "loop", "single repeat", "repeat all", "mode"],
+      "relatedIntents": ["SET_REPEAT_MODE"]
+    },
+    {
+      "featureId": "player_shuffle_mode",
+      "description": { "en": "Enabling or disabling random playback order for the current collection/playlist." },
+      "keywords": ["shuffle", "random play", "mix", "change order"],
+      "relatedIntents": ["TOGGLE_SHUFFLE"]
+    },
+    {
+      "featureId": "player_track_info",
+      "description": { "en": "Display of title, topic/artist, and cover image of the currently playing subliminal audio in the player." },
+      "keywords": ["what's playing", "current audio", "title display", "see cover", "player info"],
+      "relatedIntents": ["GET_CURRENT_TRACK_INFO"]
+    },
+    {
+      "featureId": "player_time_display",
+      "description": { "en": "Display of the current playback time and the total duration of the audio in MM:SS format." },
+      "keywords": ["show time", "runtime", "duration", "progress", "how much left"],
+      "relatedIntents": ["GET_PLAYBACK_TIME"]
+    },
+    {
+      "featureId": "player_waveform_visualization",
+      "description": { "en": "Visual representation of the audio progress as a waveform or animated bars instead of a simple bar." },
+      "keywords": ["waveform", "visualization", "audio bars", "equalizer", "progress display"],
+      "relatedIntents": ["VIEW_PLAYER"]
+    },
+    {
+      "featureId": "player_buffering_indicator",
+      "description": { "en": "The player indicates how much of the audio has been loaded (buffered), visible in the progress bar." },
+      "keywords": ["buffer", "loading", "buffering", "loaded", "streaming status"],
+      "relatedIntents": ["GET_STREAMING_STATUS"]
+    },
+    {
+      "featureId": "player_loading_indicator",
+      "description": { "en": "Display of a loading state in the player when a new audio is loading or playback is buffering." },
+      "keywords": ["loading", "player loading", "waiting", "buffering"],
+      "relatedIntents": ["GET_PLAYBACK_STATUS"]
+    },
+    {
+      "featureId": "player_sleep_timer",
+      "description": { "en": "Option to set a timer after which playback automatically stops (e.g., for falling asleep)." },
+      "keywords": ["sleep timer", "timer", "stop automatically", "end playback"],
+      "relatedIntents": ["SET_SLEEP_TIMER"]
+    },
+     {
+      "featureId": "player_add_to_collection",
+      "description": { "en": "Adding the currently playing audio to an existing collection directly from the player." },
+      "keywords": ["add to collection", "save from player", "save audio"],
+      "relatedIntents": ["ADD_TO_COLLECTION"]
+    },
+    {
+      "featureId": "player_playback_speed",
+      "description": { "en": "Option to adjust the playback speed of the audio (slower or faster)." },
+      "keywords": ["playback speed", "play faster", "listen slower"],
+      "relatedIntents": ["SET_PLAYBACK_SPEED"]
+    },
+    {
+      "featureId": "player_queue_management",
+      "description": { "en": "Display and management of the current playback queue (change order, remove audios)." },
+      "keywords": ["queue", "play next", "up next", "change order"],
+      "relatedIntents": ["MANAGE_QUEUE", "VIEW_QUEUE"]
+    },
+  
+    
+    {
+      "featureId": "collection_view_all",
+      "description": { "en": "Display of a list of all collections created by the user." },
+      "usageSteps": { "en": ["Navigate to the 'My Collections' section or via the profile."] },
+      "keywords": ["my collections", "all playlists", "view lists", "saved audios"],
+      "relatedIntents": ["VIEW_COLLECTIONS"]
+    },
+    {
+      "featureId": "collection_view_single",
+      "description": { "en": "Display of the contents of a specific collection, including the contained subliminal audios." },
+      "keywords": ["open collection", "view playlist", "see content", "audios in list"],
+      "relatedIntents": ["VIEW_SINGLE_COLLECTION"]
+    },
+    {
+      "featureId": "collection_play",
+      "description": { "en": "Starting playback of all audios in a collection (starting with the first or a selected audio)." },
+      "keywords": ["play collection", "start playlist", "listen to all audios"],
+      "relatedIntents": ["PLAY_COLLECTION"]
+    },
+    {
+      "featureId": "collection_create",
+      "description": { "en": "Creating a new, empty collection to organize subliminal audios." },
+      "usageSteps": { "en": ["Go to 'My Collections'", "Click 'Create New Collection'", "Enter a name."] },
+      "keywords": ["create collection", "new playlist", "create list", "organize"],
+      "relatedIntents": ["CREATE_COLLECTION"]
+    },
+    {
+      "featureId": "collection_rename",
+      "description": { "en": "Renaming an existing collection." },
+      "keywords": ["rename collection", "change name", "edit playlist"],
+      "relatedIntents": ["RENAME_COLLECTION"]
+    },
+    {
+      "featureId": "collection_delete",
+      "description": { "en": "Permanently deleting a collection created by the user." },
+      "keywords": ["delete collection", "remove playlist", "delete list"],
+      "relatedIntents": ["DELETE_COLLECTION"]
+    },
+    {
+      "featureId": "collection_add_audio",
+      "description": { "en": "Adding a single subliminal audio to one or more existing collections." },
+      "usageSteps": { "en": ["Find the audio", "Open options ('...')", "Select 'Add to Collection'", "Choose collection(s)."] },
+      "keywords": ["add audio", "add to collection", "save to playlist", "add track", "save"],
+      "relatedIntents": ["ADD_TO_COLLECTION"]
+    },
+    {
+      "featureId": "collection_remove_audio",
+      "description": { "en": "Removing an audio from a specific collection." },
+      "keywords": ["remove audio", "delete from collection", "remove track", "edit list"],
+      "relatedIntents": ["REMOVE_FROM_COLLECTION"]
+    },
+    {
+      "featureId": "collection_reorder_audio",
+      "description": { "en": "Changing the order of audios within a collection." },
+      "keywords": ["change order", "sort audios", "adjust collection", "drag and drop"],
+      "relatedIntents": ["REORDER_COLLECTION"]
+    },
+     {
+      "featureId": "collection_description",
+      "description": { "en": "Option to add or edit a description for a collection." },
+      "keywords": ["collection description", "playlist info", "add text"],
+      "relatedIntents": ["EDIT_COLLECTION_DESCRIPTION"]
+    },
+     {
+      "featureId": "collection_sharing",
+      "description": { "en": "Sharing a collection with other users or via external links (if implemented)." },
+      "keywords": ["share collection", "share playlist", "send link", "share with friends"],
+      "relatedIntents": ["SHARE_COLLECTION"]
+    },
+  
+   
+    {
+      "featureId": "offline_download_audio",
+      "description": { "en": "Downloading individual subliminal audios for offline playback (premium users only)." },
+      "keywords": ["download", "save offline", "offline audio", "premium"],
+      "relatedIntents": ["DOWNLOAD_CONTENT", "OFFLINE_MODE"]
+    },
+    {
+      "featureId": "offline_download_collection",
+      "description": { "en": "Downloading an entire collection for offline playback (premium feature)." },
+      "keywords": ["download collection", "download playlist", "all offline", "premium"],
+      "relatedIntents": ["DOWNLOAD_CONTENT", "OFFLINE_MODE"]
+    },
+    {
+      "featureId": "offline_view_downloads",
+      "description": { "en": "Display of all downloaded audios and collections in a dedicated offline section." },
+      "keywords": ["my downloads", "offline library", "saved audios", "where are my downloads"],
+      "relatedIntents": ["VIEW_DOWNLOADS", "OFFLINE_MODE"]
+    },
+    {
+      "featureId": "offline_remove_download",
+      "description": { "en": "Removing a downloaded audio or collection from the device to free up storage space." },
+      "keywords": ["delete download", "remove offline", "free up space"],
+      "relatedIntents": ["MANAGE_DOWNLOADS", "REMOVE_DOWNLOAD"]
+    },
+    {
+      "featureId": "offline_storage_management",
+      "description": { "en": "Settings for managing the storage space used for offline content (e.g., set limit, clear cache)." },
+      "keywords": ["manage storage", "offline storage", "download settings", "clear cache"],
+      "relatedIntents": ["MANAGE_STORAGE", "OFFLINE_SETTINGS"]
+    },
+     {
+      "featureId": "offline_indicator",
+      "description": { "en": "Visual indicator on audios or collections that have been successfully downloaded for offline use." },
+      "keywords": ["offline icon", "downloaded symbol", "download status"],
+      "relatedIntents": ["VIEW_DOWNLOADS"]
+    },
+  
+    
+    {
+      "featureId": "settings_theme_select",
+      "description": { "en": "Selection between a light and a dark appearance (theme) for the app interface." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Preferences'", "Select 'Light Mode' or 'Dark Mode'."] },
+      "keywords": ["change theme", "customize design", "light", "dark", "dark mode", "light mode", "appearance"],
+      "relatedIntents": ["CHANGE_THEME", "SET_APPEARANCE"]
+    },
+    {
+      "featureId": "settings_language_select",
+      "description": { "en": "Changing the display language of the app interface (e.g., German, English)." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Preferences'", "Select the desired language."] },
+      "keywords": ["change language", "Deutsch", "English", "app language"],
+      "relatedIntents": ["CHANGE_LANGUAGE", "SET_LANGUAGE"]
+    },
+    {
+      "featureId": "settings_notification_toggle",
+      "description": { "en": "Enabling or disabling push notifications or email notifications from the app." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Preferences'", "Toggle notifications on or off."] },
+      "keywords": ["notifications", "alerts", "messages", "on/off", "settings", "push"],
+      "relatedIntents": ["TOGGLE_NOTIFICATIONS", "SET_NOTIFICATION_PREFS"]
+    },
+    {
+      "featureId": "settings_email_language",
+      "description": { "en": "Setting the preferred language for email communication, independent of the app language." },
+      "keywords": ["email language", "communication language", "newsletter language"],
+      "relatedIntents": ["SET_EMAIL_LANGUAGE"]
+    },
+     {
+      "featureId": "settings_audio_quality",
+      "description": { "en": "Setting the preferred audio quality for streaming and downloads (if available, often premium)." },
+      "keywords": ["audio quality", "streaming quality", "download quality", "sound settings"],
+      "relatedIntents": ["SET_AUDIO_QUALITY", "GET_PREMIUM_INFO"]
+    },
+    {
+      "featureId": "settings_crossfade",
+      "description": { "en": "Setting for a seamless transition (crossfade) between two consecutive audios." },
+      "keywords": ["crossfade", "smooth transition", "audio settings"],
+      "relatedIntents": ["SET_PLAYBACK_OPTIONS"]
+    },
+    {
+      "featureId": "settings_equalizer",
+      "description": { "en": "Access to an equalizer for individual sound adjustment (if implemented)." },
+      "keywords": ["equalizer", "EQ", "adjust sound", "sound settings", "bass", "treble"],
+      "relatedIntents": ["SET_EQUALIZER"]
+    },
+  
+    
+    {
+      "featureId": "feedback_submit_general",
+      "description": { "en": "Option to submit general feedback about the app, features, or content via a form." },
+      "keywords": ["give feedback", "share opinion", "suggestion", "contact us"],
+      "relatedIntents": ["GIVE_FEEDBACK"]
+    },
+    {
+      "featureId": "support_contact",
+      "description": { "en": "Contact options for the support team in case of problems or questions (e.g., email, chat, contact form)." },
+      "keywords": ["contact support", "help", "report problem", "customer service", "need help"],
+      "relatedIntents": ["CONTACT_SUPPORT", "GET_HELP"]
+    },
+    {
+      "featureId": "bug_report",
+      "description": { "en": "Specific function or way to report technical errors or problems (bugs) in the app." },
+      "keywords": ["report bug", "report issue", "describe problem", "technical error"],
+      "relatedIntents": ["REPORT_ISSUE"]
+    },
+    {
+      "featureId": "content_request",
+      "description": { "en": "Option to submit requests for new subliminal audios, topics, or features." },
+      "keywords": ["request content", "suggest feature", "new audio", "topic request"],
+      "relatedIntents": ["REQUEST_CONTENT", "REQUEST_FEATURE"]
+    },
+    {
+      "featureId": "help_center_faq",
+      "description": { "en": "Access to a help section or FAQ area within the app with answers to common questions." },
+      "keywords": ["help", "FAQ", "frequently asked questions", "guide", "support center"],
+      "relatedIntents": ["GET_HELP", "GET_FAQ"]
+    },
+  
+    
+    {
+      "featureId": "security_2fa_status",
+      "description": { "en": "Display indicating whether Two-Factor Authentication (2FA) is enabled or disabled for the account." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Security'."] },
+      "keywords": ["2FA status", "two factor", "check security", "is 2FA on"],
+      "relatedIntents": ["GET_2FA_STATUS"]
+    },
+    {
+      "featureId": "security_2fa_setup",
+      "description": { "en": "Option to set up Two-Factor Authentication to further secure the account." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Security'", "Click 'Set up 2FA'."] },
+      "keywords": ["set up 2FA", "enable two factor", "authenticator app", "increase security"],
+      "relatedIntents": ["SETUP_2FA"]
+    },
+    {
+      "featureId": "security_view_login_attempts",
+      "description": { "en": "Display of a list of recent successful and failed login attempts with time, IP address, and device." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Security'."] },
+      "keywords": ["login attempts", "login activity", "who logged in", "security log"],
+      "relatedIntents": ["VIEW_LOGIN_HISTORY"]
+    },
+    {
+      "featureId": "security_view_connected_devices",
+      "description": { "en": "Display of a list of devices currently or recently connected to the account." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Security'."] },
+      "keywords": ["connected devices", "active sessions", "sessions", "device list"],
+      "relatedIntents": ["VIEW_CONNECTED_DEVICES"]
+    },
+    {
+      "featureId": "security_revoke_device",
+      "description": { "en": "Option to terminate the connection of a specific device to the account (log out on that device)." },
+      "keywords": ["log out device", "end session", "revoke access", "remove device"],
+      "relatedIntents": ["REVOKE_DEVICE"]
+    },
+    {
+      "featureId": "security_password_last_changed",
+      "description": { "en": "Display of the date when the password was last changed." },
+      "keywords": ["last password change", "password date", "when changed"],
+      "relatedIntents": ["GET_PASSWORD_INFO"]
+    },
+    {
+      "featureId": "security_suspicious_activity_warning",
+      "description": { "en": "Display of a warning if suspicious activity, such as an unusually high number of failed logins, has been detected." },
+      "keywords": ["suspicious activity", "warning", "security alert", "login failed"],
+      "relatedIntents": ["GET_SECURITY_STATUS"]
+    },
+    {
+      "featureId": "security_settings_link",
+      "description": { "en": "A link or button to navigate to more detailed security settings (e.g., change password, manage 2FA)." },
+      "keywords": ["security settings", "manage password", "manage 2FA"],
+      "relatedIntents": ["NAVIGATE_SECURITY_SETTINGS"]
+    },
+  
+    
+    {
+      "featureId": "privacy_policy_view",
+      "description": { "en": "Display of the app's full privacy policy." },
+      "keywords": ["privacy policy", "read policy", "data processing", "GDPR"],
+      "relatedIntents": ["VIEW_PRIVACY_POLICY"]
+    },
+    {
+      "featureId": "data_management_options",
+      "description": { "en": "Access to options for managing one's own personal data according to GDPR." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Tab 'Security'", "Click 'Manage Data'."] },
+      "keywords": ["manage data", "GDPR", "privacy", "personal data options"],
+      "relatedIntents": ["NAVIGATE_DATA_MANAGEMENT"]
+    },
+    {
+      "featureId": "data_export_request",
+      "description": { "en": "Option to request an export of one's own personal data." },
+      "keywords": ["data export", "download my data", "right to access", "GDPR export"],
+      "relatedIntents": ["REQUEST_DATA_EXPORT"]
+    },
+    {
+      "featureId": "consent_management",
+      "description": { "en": "Management of consents for cookies and data processing via a consent manager (cookie banner)." },
+      "keywords": ["cookies", "consent", "consent manager", "cookie banner", "allow tracking"],
+      "relatedIntents": ["MANAGE_CONSENT", "MANAGE_COOKIES"]
+    },
+    {
+      "featureId": "consent_accept_all",
+      "description": { "en": "Option to agree to all cookie categories and data processing with one click." },
+      "keywords": ["accept all", "accept cookies", "agree"],
+      "relatedIntents": ["ACCEPT_ALL_COOKIES"]
+    },
+    {
+      "featureId": "consent_save_preferences",
+      "description": { "en": "Saving an individual selection of allowed cookie categories." },
+      "keywords": ["save selection", "cookie settings", "save preferences"],
+      "relatedIntents": ["SAVE_COOKIE_PREFERENCES"]
+    },
+    {
+      "featureId": "consent_details_view",
+      "description": { "en": "Display of detailed information about the individual cookie categories (Essential, Marketing, Analytics, etc.)." },
+      "keywords": ["cookie details", "more information", "what are tracking cookies"],
+      "relatedIntents": ["VIEW_COOKIE_DETAILS"]
+    },
+  
+    {
+      "featureId": "app_concept_mindfluence",
+      "description": { "en": "Mindfluence is a streaming app for exclusive subliminal audio content for personal development." },
+      "keywords": ["What is Mindfluence", "app description", "purpose of the app", "subliminal app"],
+      "relatedIntents": ["GET_APP_INFO"]
+    },
+    {
+      "featureId": "subliminal_explanation",
+      "description": { "en": "Explanation of how subliminal audios work by sending positive affirmations to the subconscious below the conscious hearing threshold." },
+      "keywords": ["how do subliminals work", "what are subliminals", "subconscious", "affirmations", "mechanism"],
+      "relatedIntents": ["GET_SUBLIMINAL_INFO", "HOW_IT_WORKS"]
+    },
+     {
+      "featureId": "binaural_beats_explanation",
+      "description": { "en": "Information about Binaural Beats, which use slightly different frequencies in each ear to promote specific brainwave states (e.g., relaxation, focus)." },
+      "keywords": ["binaural beats", "frequencies", "brainwaves", "what are they", "relaxation", "focus"],
+      "relatedIntents": ["GET_BINAURAL_BEATS_INFO"]
+    },
+    {
+      "featureId": "isochronic_tones_explanation",
+      "description": { "en": "Explanation of isochronic tones, rhythmic pulses of a single frequency, also used to influence brainwaves." },
+      "keywords": ["isochronic tones", "frequencies", "pulses", "what are they", "brainwaves"],
+      "relatedIntents": ["GET_ISOCHRONIC_TONES_INFO"]
+    },
+    {
+      "featureId": "affirmations_explanation",
+      "description": { "en": "Information about positive affirmations as the basis of many subliminal audios, aimed at anchoring positive beliefs." },
+      "keywords": ["affirmations", "positive statements", "beliefs", "self-affirmation", "what are affirmations"],
+      "relatedIntents": ["GET_AFFIRMATION_INFO"]
+    },
+    {
+      "featureId": "recommended_usage",
+      "description": { "en": "Recommendations for optimal use of subliminal audios, e.g., regular listening, using headphones (especially for Binaural Beats)." },
+      "keywords": ["how often to listen", "usage tips", "correct use", "headphones", "recommendation"],
+      "relatedIntents": ["GET_USAGE_TIPS"]
+    },
+    {
+      "featureId": "topic_sleep",
+      "description": { "en": "Subliminal audios specifically designed to promote relaxation and facilitate falling asleep." },
+      "keywords": ["sleep", "sleep better", "sleep aid", "relaxation", "sleep problems"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+    {
+      "featureId": "topic_focus",
+      "description": { "en": "Audios to increase concentration and mental clarity, often using specific frequencies." },
+      "keywords": ["focus", "concentration", "study", "work", "mental clarity", "more productive"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+    {
+      "featureId": "topic_confidence",
+      "description": { "en": "Subliminal content to strengthen self-confidence, self-esteem, and reduce self-doubt." },
+      "keywords": ["self-confidence", "self-esteem", "more confident", "courage", "strength"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+    {
+      "featureId": "topic_relaxation",
+      "description": { "en": "Audios for deep relaxation, stress relief, and promoting general well-being." },
+      "keywords": ["relaxation", "stress relief", "relax", "calm", "well-being"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+    {
+      "featureId": "topic_motivation",
+      "description": { "en": "Subliminal content to increase motivation, achieve goals, and overcome procrastination." },
+      "keywords": ["motivation", "achieve goals", "drive", "procrastination", "energy"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+    {
+      "featureId": "topic_anxiety_relief",
+      "description": { "en": "Special audios for alleviating feelings of anxiety and promoting inner peace." },
+      "keywords": ["anxiety relief", "anxiety disorder", "panic", "inner peace", "reduce stress"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+    {
+      "featureId": "topic_wealth_abundance",
+      "description": { "en": "Subliminals aimed at fostering a mindset of wealth and abundance." },
+      "keywords": ["wealth", "abundance", "manifest money", "richness", "success"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+    {
+      "featureId": "topic_healing",
+      "description": { "en": "Audios to support mental or emotional healing processes." },
+      "keywords": ["healing", "emotional healing", "trauma", "processing", "mental health"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+    {
+      "featureId": "topic_relationships",
+      "description": { "en": "Subliminal content to improve relationships, attraction, or self-love in the context of partnerships." },
+      "keywords": ["relationships", "attract love", "partnership", "self-love", "social connections"],
+      "relatedIntents": ["FIND_AUDIO_BY_TOPIC", "BROWSE_BY_CATEGORY"]
+    },
+     {
+      "featureId": "pwa_info",
+      "description": { "en": "The app is designed as a Progressive Web App (PWA), enabling installation on the device and enhanced offline capabilities." },
+      "keywords": ["PWA", "install app", "Progressive Web App", "use offline", "like an app"],
+      "relatedIntents": ["GET_APP_INFO", "GET_PWA_INFO"]
+    },
+    {
+      "featureId": "pwa_install",
+      "description": { "en": "Instructions on how to add the PWA to the home screen on various devices (desktop, mobile)." },
+      "keywords": ["install app", "add PWA", "add to home screen", "desktop shortcut"],
+      "relatedIntents": ["INSTALL_PWA"]
+    },
+    {
+      "featureId": "i18n_support",
+      "description": { "en": "The app's user interface is available in multiple languages (e.g., German and English)." },
+      "keywords": ["multilingual", "language support", "English available", "German available"],
+      "relatedIntents": ["GET_SUPPORTED_LANGUAGES"]
+    },
+    {
+      "featureId": "technology_stack",
+      "description": { "en": "Information about the technologies used (e.g., React, Next.js), if a technically savvy user asks." },
+      "keywords": ["technology", "framework", "stack", "built with", "React", "Nextjs"],
+      "relatedIntents": ["GET_TECH_INFO"]
+    },
+    {
+      "featureId": "community_features",
+      "description": { "en": "Possible future or existing community features such as forums, groups, or sharing experiences." },
+      "keywords": ["community", "forum", "exchange", "groups", "share experiences"],
+      "relatedIntents": ["GET_COMMUNITY_INFO"]
+    },
+    {
+      "featureId": "scientific_basis",
+      "description": { "en": "Information about scientific studies or theories supporting the effectiveness of subliminals or binaural beats (if available and referenced)." },
+      "keywords": ["scientific background", "studies", "effectiveness", "proven", "research"],
+      "relatedIntents": ["GET_SCIENTIFIC_BASIS"]
+    },
+    {
+      "featureId": "disclaimer",
+      "description": { "en": "Important notice that using the app does not replace professional medical or psychological treatment." },
+      "keywords": ["disclaimer", "liability waiver", "medical advice", "not a substitute for therapy", "important notice"],
+      "relatedIntents": ["GET_DISCLAIMER"]
+    },
+    {
+      "featureId": "audio_format_quality_details",
+      "description": { "en": "Details about the audio formats used (e.g., MP3, FLAC) and the bitrates for standard and premium quality." },
+      "keywords": ["audio format", "bitrate", "quality levels", "MP3", "FLAC", "sound quality details"],
+      "relatedIntents": ["GET_AUDIO_QUALITY", "GET_TECH_INFO"]
+    },
+    {
+      "featureId": "accessibility_features",
+      "description": { "en": "Information about implemented accessibility features (e.g., screen reader support, keyboard navigation)." },
+      "keywords": ["accessibility", "screen reader", "visual impairment", "keyboard navigation"],
+      "relatedIntents": ["GET_ACCESSIBILITY_INFO"]
+    },
+    {
+      "featureId": "roadmap_future_features",
+      "description": { "en": "Insight into planned future features or content areas of the app (if communicated)." },
+      "keywords": ["roadmap", "future features", "what's next", "planned", "further development"],
+      "relatedIntents": ["GET_ROADMAP"]
+    },
+    {
+      "featureId": "team_info",
+      "description": { "en": "Information about the team or developers behind the Mindfluence App." },
+      "keywords": ["team", "developers", "who is behind it", "about us", "Mindfluence creators"],
+      "relatedIntents": ["GET_TEAM_INFO"]
+    },
+    {
+      "featureId": "newsletter_signup",
+      "description": { "en": "Option to sign up for a newsletter to be informed about news and offers." },
+      "keywords": ["newsletter", "sign up", "email list", "news", "updates"],
+      "relatedIntents": ["SUBSCRIBE_NEWSLETTER"]
+    },
+    {
+      "featureId": "newsletter_preferences",
+      "description": { "en": "Management of newsletter settings and topic preferences." },
+      "keywords": ["newsletter settings", "preferences", "select topics", "manage subscription"],
+      "relatedIntents": ["MANAGE_NEWSLETTER_PREFS"]
+    },
+    {
+      "featureId": "newsletter_unsubscribe",
+      "description": { "en": "Unsubscribing from the newsletter via a link in the email or in the settings." },
+      "keywords": ["unsubscribe newsletter", "unsubscribe", "no more emails"],
+      "relatedIntents": ["UNSUBSCRIBE_NEWSLETTER"]
+    },
+    {
+      "featureId": "admin_dashboard_overview",
+      "description": { "en": "Overview dashboard for administrators with key metrics and system status (relevant for admins only)." },
+      "keywords": ["admin dashboard", "statistics", "system status", "admin overview"],
+      "relatedIntents": ["ADMIN_VIEW_DASHBOARD"]
+    },
+    {
+      "featureId": "admin_user_management",
+      "description": { "en": "Functions for administrators to manage user accounts (view, edit, block - admins only)." },
+      "keywords": ["manage users", "admin users", "user list", "admin functions"],
+      "relatedIntents": ["ADMIN_MANAGE_USERS"]
+    },
+    {
+      "featureId": "admin_content_management",
+      "description": { "en": "Tools for administrators to upload, edit, and manage subliminal audio content (admins only)." },
+      "keywords": ["manage content", "upload audios", "admin content", "CMS"],
+      "relatedIntents": ["ADMIN_MANAGE_CONTENT"]
+    },
+    {
+      "featureId": "admin_subscription_management",
+      "description": { "en": "Viewing and managing user subscriptions by administrators (admins only)." },
+      "keywords": ["manage subscriptions admin", "admin subscriptions", "user subs"],
+      "relatedIntents": ["ADMIN_MANAGE_SUBSCRIPTIONS"]
+    },
+    {
+      "featureId": "admin_reports_analytics",
+      "description": { "en": "Generation and viewing of detailed reports and analytics on app usage for administrators." },
+      "keywords": ["admin reports", "analytics", "statistics admin", "reports"],
+      "relatedIntents": ["ADMIN_VIEW_REPORTS"]
+    },
+    {
+      "featureId": "admin_security_logs",
+      "description": { "en": "Viewing of security logs and events by administrators." },
+      "keywords": ["admin security logs", "security logs", "admin logs"],
+      "relatedIntents": ["ADMIN_VIEW_SECURITY_LOGS"]
+    },
+    {
+      "featureId": "api_integration_info",
+      "description": { "en": "Information for developers about possible API interfaces, if the app offers them." },
+      "keywords": ["API", "interface", "developer", "integration"],
+      "relatedIntents": ["GET_API_INFO"]
+    },
+    {
+      "featureId": "terms_of_service",
+      "description": { "en": "Display of the Terms of Service (ToS) of the Mindfluence App." },
+      "keywords": ["Terms of Service", "ToS", "rules", "legal"],
+      "relatedIntents": ["VIEW_TOS"]
+    },
+    {
+      "featureId": "imprint_contact",
+      "description": { "en": "Display of the imprint with contact information of the provider." },
+      "keywords": ["imprint", "contact", "provider", "company address", "legal notice"],
+      "relatedIntents": ["VIEW_IMPRINT"]
+    },
+    {
+      "featureId": "error_handling_playback",
+      "description": { "en": "Information on what to do if errors occur during audio playback." },
+      "keywords": ["playback error", "audio not playing", "playback issue", "streaming error", "player help"],
+      "relatedIntents": ["TROUBLESHOOT_PLAYBACK"]
+    },
+    {
+      "featureId": "error_handling_login",
+      "description": { "en": "Assistance with login problems, e.g., incorrect password or blocked account." },
+      "keywords": ["login problem", "login failed", "wrong password", "account blocked", "login help"],
+      "relatedIntents": ["TROUBLESHOOT_LOGIN"]
+    },
+    {
+      "featureId": "error_handling_payment",
+      "description": { "en": "Support for errors related to payments or subscription upgrades." },
+      "keywords": ["payment failed", "subscription problem", "credit card declined", "upgrade error", "payment help"],
+      "relatedIntents": ["TROUBLESHOOT_PAYMENT"]
+    },
+    {
+      "featureId": "cache_clearing",
+      "description": { "en": "Instructions on how to clear the app cache if display problems or outdated data are shown." },
+      "keywords": ["clear cache", "reset app", "fix problem", "delete local data"],
+      "relatedIntents": ["CLEAR_CACHE"]
+    },
+    {
+      "featureId": "device_compatibility",
+      "description": { "en": "Information about the supported devices and operating systems for the Mindfluence App." },
+      "keywords": ["compatible devices", "supported OS", "runs on my phone", "system requirements"],
+      "relatedIntents": ["GET_DEVICE_COMPATIBILITY"]
+    },
+    {
+      "featureId": "background_playback_info",
+      "description": { "en": "Information on whether the app supports background audio playback or playback with the screen locked (often premium)." },
+      "keywords": ["background playback", "listen in background", "screen off"],
+      "relatedIntents": ["GET_FEATURE_INFO", "GET_PREMIUM_INFO"]
+    },
+    {
+      "featureId": "social_sharing",
+      "description": { "en": "Option to share listened audios or collections on social networks (if implemented)." },
+      "keywords": ["share", "social media", "Facebook", "Twitter"],
+      "relatedIntents": ["SHARE_CONTENT"]
+    },
+    {
+      "featureId": "listening_history_view",
+      "description": { "en": "Detailed view of the personal listening history, beyond the 'recently played' section." },
+      "keywords": ["listening history", "view history", "what I listened to"],
+      "relatedIntents": ["VIEW_HISTORY"]
+    },
+    {
+      "featureId": "listening_history_clear",
+      "description": { "en": "Option to clear the personal listening history." },
+      "keywords": ["clear listening history", "remove history"],
+      "relatedIntents": ["CLEAR_HISTORY"]
+    },
+    {
+      "featureId": "data_privacy_overview",
+      "description": { "en": "An overview in the profile section detailing what data is stored by the app and how it is used." },
+      "keywords": ["data privacy overview", "what data", "data usage", "privacy check"],
+      "relatedIntents": ["GET_DATA_USAGE_INFO"]
+    },
+    {
+      "featureId": "custom_affirmations",
+      "description": { "en": "Option to enter custom affirmations that can then be used in user-defined subliminal sessions (if implemented)." },
+      "keywords": ["custom affirmations", "user-defined", "personal subliminals", "create affirmations"],
+      "relatedIntents": ["CREATE_CUSTOM_AFFIRMATIONS"]
+    },
+    {
+      "featureId": "session_duration_customization",
+      "description": { "en": "Setting the duration for subliminal sessions or automatic repetition for a specific time." },
+      "keywords": ["set duration", "session length", "custom duration", "timer"],
+      "relatedIntents": ["CUSTOMIZE_SESSION"]
+    },
+    {
+      "featureId": "frequency_selection",
+      "description": { "en": "Option for advanced users to select specific frequencies (e.g., Solfeggio, Binaural Beat frequency) for their sessions (if implemented)." },
+      "keywords": ["select frequency", "Solfeggio", "Binaural frequency", "set Hz", "advanced settings"],
+      "relatedIntents": ["SELECT_FREQUENCY"]
+    },
+    {
+      "featureId": "background_sound_selection",
+      "description": { "en": "Selection of different background sounds (e.g., rain, waves, white noise) to combine with the subliminals." },
+      "keywords": ["background sounds", "ambience", "nature sounds", "soundscape", "mixing"],
+      "relatedIntents": ["SELECT_BACKGROUND_SOUND"]
+    },
+    {
+      "featureId": "progress_tracking",
+      "description": { "en": "Features for tracking personal progress or mood in connection with the use of subliminals (e.g., diary, mood tracker)." },
+      "keywords": ["track progress", "see results", "mood diary", "journal"],
+      "relatedIntents": ["TRACK_PROGRESS"]
+    },
+    {
+      "featureId": "guided_meditations",
+      "description": { "en": "Offering guided meditations in addition to the pure subliminal audios." },
+      "keywords": ["guided meditation", "meditation", "instruction", "mindfulness"],
+      "relatedIntents": ["FIND_GUIDED_MEDITATION"]
+    },
+    {
+      "featureId": "user_avatar_upload",
+      "description": { "en": "Option for users to upload their own profile picture (avatar)." },
+      "usageSteps": { "en": ["Go to 'Manage Profile'", "Click on the placeholder avatar image", "Select an image."] },
+      "keywords": ["profile picture", "avatar", "upload image", "change photo"],
+      "relatedIntents": ["UPDATE_AVATAR"]
+    },
+    {
+      "featureId": "gamification_elements",
+      "description": { "en": "Possible gamification elements such as badges for listening duration, daily usage, or achieving goals." },
+      "keywords": ["gamification", "badges", "rewards", "streak", "challenges"],
+      "relatedIntents": ["GET_GAMIFICATION_INFO"]
+    },
+    {
+      "featureId": "integration_health_apps",
+      "description": { "en": "Possible integration with health apps (e.g., Apple Health, Google Fit) to synchronize sleep data or mindfulness minutes." },
+      "keywords": ["integration", "Apple Health", "Google Fit", "health data", "synchronize"],
+      "relatedIntents": ["CONNECT_HEALTH_APP"]
+    }
+  ]

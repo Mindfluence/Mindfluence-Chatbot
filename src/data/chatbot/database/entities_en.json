@@ -1,0 +1,182 @@
+[
+    {
+      "name": "AUDIO_TITLE",
+      "description": "The specific name or title of a subliminal audio.",
+      "examples": ["Deep Relaxation", "Focus Boost", "Boost Self-Confidence"]
+    },
+    {
+      "name": "COLLECTION_NAME",
+      "description": "The name of a user-created collection or playlist.",
+      "examples": ["My Favorites", "For Falling Asleep", "Morning Routine", "Work Flow"]
+    },
+    {
+      "name": "TOPIC",
+      "description": "A topic or category to which subliminal audios belong.",
+      "extractor": "lookup",
+      "examples": ["Sleep", "Focus", "Concentration", "Relaxation", "Stress Relief", "Self-Confidence", "Motivation", "Prosperity", "Healing", "Relationships", "Anxiety Relief"],
+      "data": ["Sleep", "Focus", "Concentration", "Relaxation", "Stress Relief", "Self-Confidence", "Motivation", "Prosperity", "Abundance", "Healing", "Relationships", "Anxiety", "Anxiety Relief", "Meditation"]
+    },
+    {
+      "name": "PLAN_NAME",
+      "description": "The name of a subscription plan.",
+      "extractor": "lookup",
+      "examples": ["Free", "Basic", "Premium", "Family", "Free"],
+      "data": ["Free", "Basic", "Premium", "Family", "Free"]
+    },
+    {
+      "name": "FEATURE_NAME",
+      "description": "The name of a specific app feature.",
+      "extractor": "lookup",
+      "examples": ["Offline Playback", "2FA", "Two-Factor Authentication", "Sleep Timer", "Crossfade", "Equalizer", "Create Collection", "Change Password"],
+      "data": ["Offline Playback", "Offline Listening", "Download", "2FA", "Two-Factor Authentication", "Sleep Timer", "Sleep Timer", "Crossfade", "Equalizer", "Create Collection", "Change Password", "Edit Profile", "Newsletter", "PWA", "Binaural Beats", "Isochronic Tones", "Affirmations"]
+    },
+    {
+      "name": "SETTING_NAME",
+      "description": "The name of a setting option.",
+      "extractor": "lookup",
+      "examples": ["Theme", "Language", "Notifications", "Audio Quality", "Email Language"],
+      "data": ["Theme", "Language", "Notifications", "Audio Quality", "Email Language", "Crossfade", "Equalizer"]
+    },
+    {
+      "name": "SETTING_VALUE",
+      "description": "The specific value for a setting.",
+      "examples": ["Light", "Dark", "German", "English", "On", "Off", "High", "Standard"]
+    },
+    {
+      "name": "THEME_NAME",
+      "description": "The name of a color scheme (Theme).",
+      "extractor": "lookup",
+      "examples": ["Light", "Dark", "Light", "Dark"],
+      "data": ["Light", "Dark", "Light", "Dark"]
+    },
+    {
+      "name": "LANGUAGE_NAME",
+      "description": "The name of a language.",
+      "extractor": "lookup",
+      "examples": ["German", "English", "German", "English"],
+      "data": ["German", "English", "German", "English", "DE", "EN"]
+    },
+    {
+      "name": "NOTIFICATION_STATUS",
+      "description": "The status for notifications (on/off).",
+      "extractor": "lookup",
+      "examples": ["On", "Off", "On", "Enabled", "Disabled", "On", "Off", "Enabled", "Disabled"],
+      "data": ["On", "Off", "On", "Enabled", "Disabled", "On", "Off", "Enabled", "Disabled"]
+    },
+    {
+      "name": "AUDIO_QUALITY_LEVEL",
+      "description": "The level of audio quality.",
+      "extractor": "lookup",
+      "examples": ["High", "Standard", "Low", "High", "Standard", "Low"],
+      "data": ["High", "Standard", "Low", "High", "Standard", "Low", "HD"]
+    },
+    {
+      "name": "VOLUME_LEVEL",
+      "description": "A specific volume level or a relative change.",
+      "extractor": "regex_or_model",
+      "examples": ["50%", "half", "very loud", "quieter", "a bit louder", "Level 7"]
+    },
+    {
+      "name": "DURATION",
+      "description": "A time duration.",
+      "extractor": "regex_or_model",
+      "examples": ["30 minutes", "1 hour", "10 sec", "half an hour", "90 min"]
+    },
+    {
+      "name": "TIME",
+      "description": "A specific time of day or a point in time within an audio.",
+      "extractor": "regex_or_model",
+      "examples": ["Minute 5", "10:30", "Start", "End", "after 2 minutes"]
+    },
+    {
+      "name": "PLAYBACK_OPTION",
+      "description": "An option for controlling playback.",
+      "extractor": "lookup",
+      "examples": ["Repeat", "Shuffle", "Random", "Loop", "Crossfade"],
+      "data": ["Repeat", "Repeat", "Shuffle", "Random", "Loop", "Crossfade", "Crossfade"]
+    },
+    {
+      "name": "REPEAT_MODE_VALUE",
+      "description": "The specific value for the repeat mode.",
+      "extractor": "lookup",
+      "examples": ["Off", "One", "All", "Off", "One", "All"],
+      "data": ["Off", "One", "All", "Off", "One", "All"]
+    },
+    {
+      "name": "PLAYBACK_SPEED",
+      "description": "The speed of playback.",
+      "extractor": "regex_or_model",
+      "examples": ["double", "slower", "1.5x", "half speed"]
+    },
+    {
+      "name": "DEVICE_TYPE",
+      "description": "The type of a device (e.g., for connected devices).",
+      "extractor": "lookup",
+      "examples": ["Mobile", "Desktop", "Tablet", "iPhone", "Android", "PC"],
+      "data": ["mobile", "desktop", "tablet", "tv", "web", "other", "Mobile", "Phone", "PC", "Computer", "Laptop"]
+    },
+    {
+      "name": "DEVICE_NAME",
+      "description": "A specific name or identifier of a device.",
+      "examples": ["My iPhone", "Pixel 7", "Office PC"]
+    },
+    {
+      "name": "DATA_TYPE",
+      "description": "The type of user data (e.g., for export/deletion).",
+      "extractor": "lookup",
+      "examples": ["Profile Data", "Listening History", "Collections", "All Data"],
+      "data": ["Profile Data", "Listening History", "Collections", "All Data", "Personal Data", "Account Data", "Playlists", "Profile", "History", "Collections", "All data"]
+    },
+    {
+      "name": "COOKIE_CATEGORY",
+      "description": "A category of cookies for consent management.",
+      "extractor": "lookup",
+      "examples": ["Marketing", "Analytics", "Necessary", "Tracking", "Social Media"],
+      "data": ["Marketing", "Analytics", "Necessary", "Tracking", "Social Media", "Third Party", "Essential", "Analytics", "Third Party"]
+    },
+    {
+      "name": "COUNTRY_NAME",
+      "description": "The name or code of a country.",
+      "extractor": "lookup_or_model",
+      "examples": ["Germany", "Switzerland", "USA", "GB", "Austria"],
+      "data": ["Germany", "Austria", "Switzerland", "USA", "United States", "Great Britain", "France", "Italy", "Spain", "Netherlands", "Belgium", "Luxembourg", "Poland", "Czech Republic", "Denmark", "Sweden", "Norway", "Finland", "Portugal", "Greece", "Turkey", "DE", "AT", "CH", "US", "GB", "FR", "IT", "ES", "NL", "BE", "LU", "PL", "CZ", "DK", "SE", "NO", "FI", "PT", "GR", "TR"]
+    },
+    {
+      "name": "GENDER",
+      "description": "The salutation or gender of the user.",
+      "extractor": "lookup",
+      "examples": ["Mr", "Mrs", "Mr", "Mrs"],
+      "data": ["Mr", "Mrs", "Mr", "Mrs", "male", "female"]
+    },
+    {
+      "name": "RATING_VALUE",
+      "description": "A numerical rating value, e.g., for testimonials.",
+      "extractor": "regex_or_model",
+      "examples": ["4 stars", "5/5", "Rating 3"]
+    },
+     {
+      "name": "FREQUENCY_TYPE",
+      "description": "The type of a specific audio frequency.",
+      "extractor": "lookup",
+      "examples": ["Binaural Beat", "Isochronic Tone", "Solfeggio"],
+      "data": ["Binaural Beat", "Isochronic Tone", "Solfeggio"]
+    },
+    {
+      "name": "FREQUENCY_VALUE",
+      "description": "A specific frequency value in Hertz (Hz).",
+      "extractor": "regex_or_model",
+      "examples": ["432 Hz", "10 Hz", "528 Hertz"]
+    },
+    {
+      "name": "BACKGROUND_SOUND_NAME",
+      "description": "The name of a background sound.",
+      "extractor": "lookup",
+      "examples": ["Rain", "Waves", "White Noise", "Forest Sounds"],
+      "data": ["Rain", "Waves", "White Noise", "Forest Sounds", "Fire", "Wind", "Rain", "Waves", "White Noise", "Forest", "Fire"]
+    },
+    {
+      "name": "AFFIRMATION_TEXT",
+      "description": "The text of a specific affirmation.",
+      "examples": ["I am confident", "I attract abundance", "I am calm and relaxed"]
+    }
+  ]

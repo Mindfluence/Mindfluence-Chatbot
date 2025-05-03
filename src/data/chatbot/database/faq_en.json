@@ -1,0 +1,170 @@
+[
+    {
+      "id": "faq_what_is_mindfluence",
+      "question": "What is Mindfluence and what does the app do?",
+      "answer": "Mindfluence is a streaming app specializing in exclusive subliminal audio content. These audios contain subconscious affirmations, often combined with technologies like Binaural Beats or isochronic tones, to support your personal development in areas such as sleep, focus, self-confidence, or relaxation.",
+      "tags": ["app", "mindfluence", "subliminal", "personal development", "what is"],
+      "relatedFeatures": ["app_concept_mindfluence", "subliminal_explanation"]
+    },
+    {
+      "id": "faq_how_subliminals_work",
+      "question": "How do subliminal audios work?",
+      "answer": "Subliminal audios send positive affirmations directly to your subconscious by embedding them just below the conscious hearing threshold. The goal is to anchor positive beliefs and promote changes on a deeper level without you consciously hearing the affirmations.",
+      "tags": ["subliminal", "function", "how it works", "subconscious", "affirmations"],
+      "relatedFeatures": ["subliminal_explanation", "affirmations_explanation"]
+    },
+    {
+      "id": "faq_headphones_needed",
+      "question": "Do I need headphones to listen to the audios?",
+      "answer": "Headphones are essential for audios using Binaural Beats, as the effect is based on the different frequencies delivered to each ear. For other subliminals and isochronic tones, headphones are recommended to minimize distractions but are not strictly necessary.",
+      "tags": ["headphones", "binaural beats", "listening", "usage", "technology"],
+      "relatedFeatures": ["recommended_usage", "binaural_beats_explanation"]
+    },
+    {
+      "id": "faq_how_often_listen",
+      "question": "How often and for how long should I listen to the audios?",
+      "answer": "Consistency is key. We recommend listening to your chosen audios daily for at least 20-30 minutes over several weeks to achieve the best results. Pay attention to specific recommendations for individual audios.",
+      "tags": ["frequency", "duration", "usage", "tips", "consistency"],
+      "relatedFeatures": ["recommended_usage"]
+    },
+    {
+      "id": "faq_find_audios",
+      "question": "How do I find suitable audios for my goals?",
+      "answer": "Use the 'Discover' page! You can browse by topics like 'Sleep,' 'Focus,' or 'Confidence,' use the search function, or check out our personalized recommendations on the homepage.",
+      "tags": ["find", "search", "discover", "categories", "topics", "recommendations"],
+      "relatedFeatures": ["discover_page", "content_search_general", "discover_by_category", "homepage_recommendations"]
+    },
+    {
+      "id": "faq_what_are_collections",
+      "question": "What are collections and how do I create one?",
+      "answer": "Collections (formerly called playlists) are personal lists where you can organize your favorite audios. Go to the 'My Collections' section, click 'Create New Collection,' and give it a name.",
+      "tags": ["collections", "playlist", "create", "organize", "list"],
+      "relatedFeatures": ["collection_creation", "collection_view_all"]
+    },
+    {
+      "id": "faq_add_to_collection",
+      "question": "How do I add an audio to a collection?",
+      "answer": "Find the audio you want, click the options menu (three dots '...'), and select 'Add to Collection.' Then choose the desired collection(s).",
+      "tags": ["collection", "add", "save", "save audio", "playlist"],
+      "relatedFeatures": ["add_audio_to_collection", "player_add_to_collection"]
+    },
+    {
+      "id": "faq_premium_benefits",
+      "question": "What are the benefits of a Premium subscription?",
+      "answer": "With Premium, you get ad-free listening, the ability to download audios for offline use, often higher audio quality, and access to exclusive content or longer sessions.",
+      "tags": ["premium", "subscription", "benefits", "ad-free", "offline", "exclusive", "quality"],
+      "relatedFeatures": ["premium_benefits", "premium_benefit_ad_free", "premium_benefit_offline", "premium_benefit_high_quality", "premium_benefit_exclusive_content"]
+    },
+    {
+      "id": "faq_subscription_costs",
+      "question": "How much does a subscription cost?",
+      "answer": "You can find the exact prices for our different plans (e.g., Basic, Premium, Family) on the 'Upgrade' page in the app. You can also compare the plans there.",
+      "tags": ["cost", "price", "subscription", "membership", "upgrade"],
+      "relatedFeatures": ["subscription_view_plans", "subscription_upgrade"]
+    },
+    {
+      "id": "faq_cancel_subscription",
+      "question": "How can I cancel my subscription?",
+      "answer": "You can cancel your subscription at any time. Go to your profile, select the 'Subscription' tab, and choose the 'Cancel Subscription' or 'Manage Subscription' option. Your access will continue until the end of the current billing period.",
+      "tags": ["cancel", "end subscription", "membership cancellation"],
+      "relatedFeatures": ["subscription_cancel", "subscription_manage_portal"]
+    },
+    {
+      "id": "faq_download_offline",
+      "question": "How do I download audios for offline use?",
+      "answer": "If you are a Premium user, find the download icon (usually a downward arrow) on the desired audio or collection and tap it. You can find your downloaded content in the 'Downloads' section.",
+      "tags": ["download", "offline", "save", "premium"],
+      "relatedFeatures": ["offline_download_audio", "offline_download_collection", "offline_view_downloads"]
+    },
+    {
+      "id": "faq_change_password",
+      "question": "How can I change my password?",
+      "answer": "Go to the 'Password' tab in your profile. There you can enter your current password and set a new, secure password. Pay attention to the displayed password requirements.",
+      "tags": ["change password", "password", "security", "account"],
+      "relatedFeatures": ["password_change", "password_requirements"]
+    },
+    {
+      "id": "faq_change_email",
+      "question": "Can I change my email address?",
+      "answer": "The email address associated with your account cannot currently be changed directly in the app. Please contact our support if you need to update your email address.",
+      "tags": ["change email", "contact details", "account", "support"],
+      "relatedFeatures": ["profile_view_username_email", "support_contact"]
+    },
+    {
+      "id": "faq_delete_account",
+      "question": "How do I permanently delete my account?",
+      "answer": "You can request the deletion of your account in the 'Manage Profile' section under 'Privacy & Data.' Select 'Delete Account' and follow the instructions. Please note that this is a permanent action.",
+      "tags": ["delete account", "remove account", "remove data", "gdpr", "profile"],
+      "relatedFeatures": ["account_deletion_request", "data_management_options"]
+    },
+    {
+      "id": "faq_playback_error",
+      "question": "What should I do if an audio doesn't play?",
+      "answer": "First, check your internet connection. Try restarting the app or clearing the cache. If the problem persists, especially with downloaded content, please contact our support.",
+      "tags": ["error", "playback", "doesn't play", "problem", "audio", "support", "cache"],
+      "relatedFeatures": ["error_handling_playback", "support_contact", "cache_clearing"]
+    },
+    {
+      "id": "faq_login_error",
+      "question": "I can't log in, what should I do?",
+      "answer": "Make sure you are using the correct email address and password. Check for typos. If you forgot your password, use the 'Forgot Password' function on the login page. For persistent issues, contact support.",
+      "tags": ["login problem", "login error", "forgot password", "access", "help"],
+      "relatedFeatures": ["error_handling_login", "support_contact"]
+    },
+    {
+      "id": "faq_what_is_pwa",
+      "question": "What does PWA (Progressive Web App) mean?",
+      "answer": "PWA means you can 'install' our web app like a native app on your phone or desktop. This often provides a faster experience and improved offline capabilities without needing an app store.",
+      "tags": ["pwa", "install", "app", "technology", "offline"],
+      "relatedFeatures": ["pwa_info", "pwa_install"]
+    },
+    {
+      "id": "faq_change_language_app",
+      "question": "How do I change the app language?",
+      "answer": "You can change the display language in the settings. Go to 'Manage Profile,' select the 'Preferences' tab, and adjust the language there.",
+      "tags": ["change language", "settings", "interface"],
+      "relatedFeatures": ["settings_language_select"]
+    },
+    {
+      "id": "faq_data_security",
+      "question": "Is my personal data secure?",
+      "answer": "We take data protection and security very seriously. All data transfers are encrypted, and we comply with GDPR guidelines. You can find details in our Privacy Policy.",
+      "tags": ["data protection", "security", "gdpr", "encryption", "privacy"],
+      "relatedFeatures": ["privacy_policy_view", "data_privacy_overview"]
+    },
+    {
+      "id": "faq_scientific_basis",
+      "question": "Is there scientific evidence for the effectiveness of subliminals?",
+      "answer": "Scientific research on subliminals and related techniques like binaural beats is complex and debated. Some studies suggest positive effects, while others are less conclusive. Our audios are based on established concepts of positive psychology and affirmations. We recommend viewing them as a supportive tool.",
+      "tags": ["science", "studies", "effectiveness", "proof", "research", "subliminal"],
+      "relatedFeatures": ["scientific_basis", "subliminal_explanation"]
+    },
+    {
+      "id": "faq_medical_disclaimer",
+      "question": "Does the app replace therapy or medical treatment?",
+      "answer": "No, absolutely not. Mindfluence is a tool for personal development and relaxation. It does not replace professional medical or psychological diagnosis or treatment. If you have health problems, please always consult a doctor or therapist.",
+      "tags": ["medical", "therapy", "disclaimer", "important notice", "health"],
+      "relatedFeatures": ["disclaimer"]
+    },
+    {
+      "id": "faq_2fa_whatis",
+      "question": "What is Two-Factor Authentication (2FA)?",
+      "answer": "2FA is an additional layer of security for your account. Besides your password, you need a second code (e.g., from an authenticator app) to log in. This significantly protects your account from unauthorized access.",
+      "tags": ["2fa", "two-factor", "security", "authentication", "protection"],
+      "relatedFeatures": ["security_2fa_status", "security_2fa_setup"]
+    },
+    {
+      "id": "faq_setup_2fa",
+      "question": "How do I set up 2FA?",
+      "answer": "Go to the 'Security' tab in your profile. There you will find the option to set up 2FA. You usually need an authenticator app on your smartphone (e.g., Google Authenticator, Authy) to complete the setup process.",
+      "tags": ["set up 2fa", "instructions", "authenticator app", "security"],
+      "relatedFeatures": ["security_2fa_setup"]
+    },
+    {
+      "id": "faq_export_data",
+      "question": "How can I export my data?",
+      "answer": "According to GDPR, you have the right to data portability. You can request an export of your data in the 'Manage Profile' section under 'Privacy & Data.'",
+      "tags": ["data export", "gdpr", "download", "my data", "privacy"],
+      "relatedFeatures": ["data_export_request", "data_management_options"]
+    }
+  ]
